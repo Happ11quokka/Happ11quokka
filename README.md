@@ -149,6 +149,8 @@
 
 <br>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/happ11quokka)
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:limdongxian1207@gmail.com@gmail.com">
