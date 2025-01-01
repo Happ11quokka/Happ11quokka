@@ -27,7 +27,7 @@
 </div>
 
 <p style="
-    font-size: 1em; 
+    font-size: 2em; 
     color: #555;
     margin-bottom: 10px; 
     text-align: center; 
