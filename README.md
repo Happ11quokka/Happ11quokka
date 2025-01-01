@@ -34,15 +34,62 @@
     and I can't resist diving into new experiences. Check out some of my wild adventures so far:
   </p>
 
-  <ul style="list-style: none; padding: 0; font-size: 1.2em; color: #555; text-align: left; display: inline-block;">
-    <div>🏠 <strong>Habitat Volunteering:</strong> Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.</div>
-    <div>🔒 <strong>Cybersecurity Club:</strong> We started from the very basics of security, got obsessed with buffer overflows, 
-    and even spent our vacation testing every university website for potential vulnerabilities (all ethical hacking, of course!).</div>
-    <div>🚀 <strong>Entrepreneurship:</strong> Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!</div>
-    <div>💰 <strong>Finance :</strong> Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative Analytics Lab project next semester and planning to switch my second major to Economics/Finance.</div>
-    <div>☕ <strong>Barista:</strong> Outside of academics, I'm also working as a barista at a local cafe (because who doesn't love good coffee?).</div>
-    <div>🧋 <strong>FoodTech Startup:</strong> I'm part of a FoodTech startup team handling trade with China—never a dull moment in global business!</div>
-  </ul>
+  <table style="margin: 0 auto; text-align: left;">
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🏠 <strong>Habitat Volunteering:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🔒 <strong>Cybersecurity Club:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      We started from the very basics of security, got obsessed with buffer overflows,
+      and even spent our vacation testing every university website for potential vulnerabilities
+      (all ethical hacking, of course!).
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🚀 <strong>Entrepreneurship:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      💰 <strong>Finance:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative
+      Analytics Lab project next semester and planning to switch my second major
+      to Economics/Finance.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      ☕ <strong>Barista:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      Outside of academics, I'm also working as a barista at a local cafe
+      (because who doesn't love good coffee?).
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🧋 <strong>FoodTech Startup:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      I'm part of a FoodTech startup team handling trade with China—never
+      a dull moment in global business!
+    </td>
+  </tr>
+</table>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
