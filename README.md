@@ -53,10 +53,10 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      💻 <strong>programming:</strong>
+      💻 <strong>Programming:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      Forif && self Study && Comento
+      Forif 🧑‍💻 && Self Study 📚 && Comento 🧑‍💻
     </td>
   </tr>
   <tr>
@@ -64,16 +64,16 @@
       🔒 <strong>Cybersecurity Club:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      member - basic security && buffer overflows && Tesing university website potential vulnerabilities
+      Study 🧐  Basic security && Buffer overflows && Tesing university website potential vulnerabilities
     </td>
   </tr>
   <tr>
    <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🔐 <strong>cryptography</strong>
+      🔐 <strong>Cryptography</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      2nd place in cryptography on campus
+        🥈 2nd place in school cryptography competition
     </td>
   </tr>
      <tr>
@@ -81,14 +81,14 @@
       🏠 <strong>Habitat Volunteering:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      board member of a Habitat club.
+      👨🏻‍💼 Board member of a Habitat club.
     </td>
   </tr>
     <td style="vertical-align: top; padding: 5px;">
       ☕ <strong>Barista:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      (because who doesn't love  coffee?).
+      Who doesn't love  coffee ‼
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@
       🧋 <strong>FoodTech Startup:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      Greater China sales member 
+       China 🇨🇳 sales member 
     </td>
   </tr>
 </table>
