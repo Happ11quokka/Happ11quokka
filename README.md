@@ -1,6 +1,24 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+<div align="center" style="margin: 30px 0;">
+  <img width="253" alt="Screenshot at Jan 01 19-04-28" src="https://github.com/user-attachments/assets/8946664c-9926-43e7-b9af-1bc385e4be27" />
+
+  <h1 style="
+      font-family: 'Arial', sans-serif;
+      font-size: 2.4em;
+      font-weight: bold;
+      color: #333;
+      margin-bottom: 10px;">
+    Welcome to Quokka's Github
+  </h1>
+
+  <!-- 꾸미고 싶은 문구 추가 -->
+  <p style="
+      font-size: 1.2em;
+      color: #555;
+      margin-bottom: 5px;">
+    Take a look around and enjoy exploring!
+  </p>
+  
 </div>
 
 <!--내용 부분-->
