@@ -35,7 +35,7 @@
   </p>
 
 <table style="margin: 0 auto; text-align: left;">
-  <tr>
+  <tr style="background-color: #ffffff;">
     <td style="vertical-align: top; padding: 5px;">
       🚀 <strong>Entrepreneurship:</strong> (currently)
     </td>
@@ -43,7 +43,8 @@
       My second major 🎓
     </td>
   </tr>
-  <tr>
+
+  <tr style="background-color: #f9f9f9;">
     <td style="vertical-align: top; padding: 5px;">
       💰 <strong>Finance:</strong> (currently)
     </td>
@@ -51,7 +52,8 @@
       Micro major 🎓 && Quantitative Analytics Lab
     </td>
   </tr>
-  <tr>
+
+  <tr style="background-color: #ffffff;">
     <td style="vertical-align: top; padding: 5px;">
       💻 <strong>Programming:</strong> (currently)
     </td>
@@ -59,7 +61,8 @@
       Forif 🧑‍💻 && Self Study 📚 && Comento 🧑‍💻
     </td>
   </tr>
-  <tr>
+
+  <tr style="background-color: #f9f9f9;">
     <td style="vertical-align: top; padding: 5px;">
       🔒 <strong>Cybersecurity Club:</strong> (done)
     </td>
@@ -67,16 +70,17 @@
       Study 🧐  Basic security && Buffer overflows && Tesing university website potential vulnerabilities
     </td>
   </tr>
-  <tr>
-   <tr>
+
+  <tr style="background-color: #ffffff;">
     <td style="vertical-align: top; padding: 5px;">
       🔐 <strong>Cryptography</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
-        🥈 2nd place in school cryptography competition
+      🥈 2nd place in school cryptography competition
     </td>
   </tr>
-     <tr>
+
+  <tr style="background-color: #f9f9f9;">
     <td style="vertical-align: top; padding: 5px;">
       🏠 <strong>Habitat Volunteering:</strong> (done)
     </td>
@@ -84,6 +88,8 @@
       👨🏻‍💼 Board member of a Habitat club.
     </td>
   </tr>
+
+  <tr style="background-color: #ffffff;">
     <td style="vertical-align: top; padding: 5px;">
       ☕ <strong>Barista:</strong> (currently)
     </td>
@@ -91,12 +97,13 @@
       Who doesn't love  coffee ‼
     </td>
   </tr>
-  <tr>
+
+  <tr style="background-color: #f9f9f9;">
     <td style="vertical-align: top; padding: 5px;">
       🧋 <strong>FoodTech Startup:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
-       China 🇨🇳 sales member 
+      China 🇨🇳 sales member
     </td>
   </tr>
 </table>
