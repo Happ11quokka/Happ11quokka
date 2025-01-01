@@ -7,7 +7,7 @@
       font-weight: bold;
       color: #A52A2A; /* SaddleBrown */
       margin-bottom: 10px;">
-    Welcome to Quokka's Github
+    Welcome to QuokkaLim's Github
   </h1>
 
 <div style="
