@@ -30,8 +30,8 @@
     font-size: 1.2em;
     color: #555;
     margin-bottom: 5px;">
-    Hey there! I'm currently a Computer Science major at Hanyang University, 
-    and I can't resist diving into new experiences. Check out some of my wild adventures so far:
+    The reason I like quokkas is not only because their smiling faces are cute, but also because I want to continue to be happy and satisfied like them!
+    <strong> I can't resist diving into new experiences. Check out some of my wild adventures so far:</strong>
   </p>
 
 <table style="margin: 0 auto; text-align: left;">
