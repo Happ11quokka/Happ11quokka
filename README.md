@@ -10,11 +10,29 @@
     Welcome to Quokka's Github
   </h1>
 
+<div style="
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  margin-bottom: 15px;
+">
+
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+CS+Major+at+Hanyang;Nice+to+Meet+You!"
     alt="Typing SVG"
-    style="margin-bottom: 15px;"
+    style="margin-right: 10px;"
   />
+
+  <img 
+    src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif"
+    alt="Moving Icon"
+    style="
+      width: 60px; 
+      height: auto; 
+      margin-left: 10px;
+    "
+  />
+</div>
 
   <p style="
     font-size: 1.2em;
@@ -23,10 +41,7 @@
     Hey there! I'm currently a Computer Science major at Hanyang University, 
     and I can't resist diving into new experiences. Check out some of my wild adventures so far:
   </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" />
-  <h2 style="margin-top: 0;">Check Out My Adventures!</h2>
-</div>
+
   <ul style="list-style: none; padding: 0; font-size: 1.2em; color: #555; text-align: left; display: inline-block;">
     <div>🏠 <strong>Habitat Volunteering:</strong> Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.</div>
     <div>🔒 <strong>Cybersecurity Club:</strong> We started from the very basics of security, got obsessed with buffer overflows, 
