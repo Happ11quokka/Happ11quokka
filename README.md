@@ -23,15 +23,7 @@
     style="margin-right: 10px;"
   />
 
-  <img 
-    src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif"
-    alt="Moving Icon"
-    style="
-      width: 60px; 
-      height: auto; 
-      margin-left: 10px;
-    "
-  />
+
 </div>
 
   <p style="
