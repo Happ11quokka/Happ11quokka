@@ -37,7 +37,7 @@
 <table style="margin: 0 auto; text-align: left;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🚀 <strong>Entrepreneurship:</strong>
+      🚀 <strong>Entrepreneurship:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       My second major 🎓
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      💰 <strong>Finance:</strong>
+      💰 <strong>Finance:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       Micro major 🎓 && Quantitative Analytics Lab
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      💻 <strong>Programming:</strong>
+      💻 <strong>Programming:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       Forif 🧑‍💻 && Self Study 📚 && Comento 🧑‍💻
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🔒 <strong>Cybersecurity Club:</strong>
+      🔒 <strong>Cybersecurity Club:</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       Study 🧐  Basic security && Buffer overflows && Tesing university website potential vulnerabilities
@@ -70,7 +70,7 @@
   <tr>
    <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🔐 <strong>Cryptography</strong>
+      🔐 <strong>Cryptography</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
         🥈 2nd place in school cryptography competition
@@ -78,14 +78,14 @@
   </tr>
      <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🏠 <strong>Habitat Volunteering:</strong>
+      🏠 <strong>Habitat Volunteering:</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       👨🏻‍💼 Board member of a Habitat club.
     </td>
   </tr>
     <td style="vertical-align: top; padding: 5px;">
-      ☕ <strong>Barista:</strong>
+      ☕ <strong>Barista:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       Who doesn't love  coffee ‼
@@ -93,7 +93,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
-      🧋 <strong>FoodTech Startup:</strong>
+      🧋 <strong>FoodTech Startup:</strong> (currently)
     </td>
     <td style="vertical-align: top; padding: 5px;">
        China 🇨🇳 sales member 
