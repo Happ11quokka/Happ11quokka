@@ -149,8 +149,8 @@
 
 <br>
 
-<div align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/happ11quokka)
+<div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/happ11quokka" alt="LeetCode Stats" />
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
