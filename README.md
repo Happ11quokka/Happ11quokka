@@ -23,7 +23,7 @@
   <div>🔒 <strong>Cybersecurity Club:</strong> We started from the very basics of security, got obsessed with buffer overflows, 
 and even spent our vacation testing every university website for potential vulnerabilities (all ethical hacking, of course!).</div>
   <div>🚀 <strong>Entrepreneurship:</strong> Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!</div>
-  <div>💰 <strong>Finance Curiosity:</strong> Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative Analytics Lab project next semester and planning to switch my second major to Economics/Finance.</div>
+  <div>💰 <strong>Finance :</strong> Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative Analytics Lab project next semester and planning to switch my second major to Economics/Finance.</div>
   <div>☕ <strong>Barista Life:</strong> Outside of academics, I'm also working as a barista at a local cafe (because who doesn't love good coffee?).</div>
   <div>🧋 <strong>FoodTech Startup:</strong> I'm part of a FoodTech startup team handling trade with China—never a dull moment in global business!</div>
 </ul>
