@@ -149,7 +149,9 @@
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/happ11quokka)
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/happ11quokka)
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
