@@ -34,31 +34,13 @@
     and I can't resist diving into new experiences. Check out some of my wild adventures so far:
   </p>
 
-  <table style="margin: 0 auto; text-align: left;">
-  <tr>
-    <td style="vertical-align: top; padding: 5px;">
-      🏠 <strong>Habitat Volunteering:</strong>
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 5px;">
-      🔒 <strong>Cybersecurity Club:</strong>
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      We started from the very basics of security, got obsessed with buffer overflows,
-      and even spent our vacation testing every university website for potential vulnerabilities
-      (all ethical hacking, of course!).
-    </td>
-  </tr>
+<table style="margin: 0 auto; text-align: left;">
   <tr>
     <td style="vertical-align: top; padding: 5px;">
       🚀 <strong>Entrepreneurship:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!
+      My second major 🎓
     </td>
   </tr>
   <tr>
@@ -66,18 +48,47 @@
       💰 <strong>Finance:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative
-      Analytics Lab project next semester and planning to switch my second major
-      to Economics/Finance.
+      Micro major 🎓 && Quantitative Analytics Lab
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 5px;">
+      💻 <strong>programming:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      Forif && self Study && Comento
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🔒 <strong>Cybersecurity Club:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      member - basic security && buffer overflows && Tesing university website potential vulnerabilities
+    </td>
+  </tr>
+  <tr>
+   <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🔐 <strong>cryptography</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      2nd place in cryptography on campus
+    </td>
+  </tr>
+     <tr>
+    <td style="vertical-align: top; padding: 5px;">
+      🏠 <strong>Habitat Volunteering:</strong>
+    </td>
+    <td style="vertical-align: top; padding: 5px;">
+      board member of a Habitat club.
+    </td>
+  </tr>
+    <td style="vertical-align: top; padding: 5px;">
       ☕ <strong>Barista:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      Outside of academics, I'm also working as a barista at a local cafe
-      (because who doesn't love good coffee?).
+      (because who doesn't love  coffee?).
     </td>
   </tr>
   <tr>
@@ -85,8 +96,7 @@
       🧋 <strong>FoodTech Startup:</strong>
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      I'm part of a FoodTech startup team handling trade with China—never
-      a dull moment in global business!
+      Greater China sales member 
     </td>
   </tr>
 </table>
