@@ -14,8 +14,17 @@
       font-size: 1.2em;
       color: #555;
       margin-bottom: 5px;">
-    Take a look around and enjoy exploring!
+    Hey there! I'm currently a Computer Science major at Hanyang University, and I can't resist 
+    diving into new experiences. Check out some of my wild adventures so far:
   </p>
+
+  <ul style="list-style: none; padding: 0; font-size: 1.2em; color: #555; text-align: left; display: inline-block;">
+    <li>🏠 <strong>Habitat Volunteering:</strong> Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.</li>
+    <li>🔒 <strong>Cybersecurity Club:</strong> Spent an intense year hacking away (ethically, of course!) in a security club.</li>
+    <li>🚀 <strong>Entrepreneurship:</strong> Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!</li>
+    <li>💰 <strong>Finance Curiosity:</strong> Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative Analytics Lab project next semester and planning to switch my second major to Economics/Finance.</li>
+  </ul>
+</div>
   
 </div>
 
