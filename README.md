@@ -27,15 +27,25 @@
 </div>
 
 <p style="
-    font-size: 1.2em;
+    font-size: 1em; 
     color: #555;
-    margin-bottom: 5px;">
+    margin-bottom: 10px; 
+    text-align: center; 
+    line-height: 1.5; 
+">
     The reason I like quokkas is not only their smiling faces are cute,<br>
     but also I want to continue to be happy and satisfied like them!<br>
-    <strong> I can't resist diving into new experiences : </strong>
+    <strong>I can't resist diving into new experiences :</strong>
 </p>
 
-<table style="margin: 0 auto; text-align: left;">
+<table style="
+    margin: 0 auto; 
+    text-align: left;
+    font-size: 1em; 
+    border-spacing: 0; 
+    width: 90%; 
+    line-height: 1.5; 
+">
   <tr style="background-color: #ffffff;">
     <td style="vertical-align: top; padding: 5px;">
       🚀 <strong>Entrepreneurship:</strong> (currently)
