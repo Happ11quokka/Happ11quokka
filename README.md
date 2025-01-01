@@ -1,7 +1,6 @@
 <div align="center" style="margin: 30px 0;">
   <img width="253" alt="Screenshot at Jan 01 19-04-28" src="https://github.com/user-attachments/assets/8946664c-9926-43e7-b9af-1bc385e4be27" />
 
-  <!-- 갈색으로 변경 -->
   <h1 style="
       font-family: 'Arial', sans-serif;
       font-size: 2.4em;
@@ -11,7 +10,6 @@
     Welcome to Quokka's Github
   </h1>
 
-  <!-- readme-typing-svg 추가 (예시) -->
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+CS+Major+at+Hanyang;Nice+to+Meet+You!"
     alt="Typing SVG"
@@ -25,14 +23,17 @@
     Hey there! I'm currently a Computer Science major at Hanyang University, 
     and I can't resist diving into new experiences. Check out some of my wild adventures so far:
   </p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" />
+  <h2 style="margin-top: 0;">Check Out My Adventures!</h2>
+</div>
   <ul style="list-style: none; padding: 0; font-size: 1.2em; color: #555; text-align: left; display: inline-block;">
     <div>🏠 <strong>Habitat Volunteering:</strong> Yes, I’ve been that person slapping paint on walls as a board member of a Habitat club.</div>
     <div>🔒 <strong>Cybersecurity Club:</strong> We started from the very basics of security, got obsessed with buffer overflows, 
     and even spent our vacation testing every university website for potential vulnerabilities (all ethical hacking, of course!).</div>
     <div>🚀 <strong>Entrepreneurship:</strong> Took a second major in Entrepreneurship just because... start-ups are too exciting to miss!</div>
     <div>💰 <strong>Finance :</strong> Lately, I’ve discovered a passion for finance—so I'm diving into a Quantitative Analytics Lab project next semester and planning to switch my second major to Economics/Finance.</div>
-    <div>☕ <strong>Barista Life:</strong> Outside of academics, I'm also working as a barista at a local cafe (because who doesn't love good coffee?).</div>
+    <div>☕ <strong>Barista:</strong> Outside of academics, I'm also working as a barista at a local cafe (because who doesn't love good coffee?).</div>
     <div>🧋 <strong>FoodTech Startup:</strong> I'm part of a FoodTech startup team handling trade with China—never a dull moment in global business!</div>
   </ul>
 </div>
