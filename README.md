@@ -111,7 +111,7 @@
 
   <tr style="background-color: #f9f9f9;">
     <td style="vertical-align: top; padding: 5px;">
-      🧋 <strong>FoodTech Startup:</strong> (currently)
+      🧋 <strong>FoodTech Startup:</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
       China 🇨🇳 sales member
