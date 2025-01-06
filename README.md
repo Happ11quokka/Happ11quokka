@@ -114,7 +114,7 @@
       🧋 <strong>FoodTech Startup:</strong> (done)
     </td>
     <td style="vertical-align: top; padding: 5px;">
-      China 🇨🇳 sales member
+      Chinese translator / sales member
     </td>
   </tr>
 </table>
