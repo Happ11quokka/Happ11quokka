@@ -166,7 +166,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:limdongxian1207@gmail.com@gmail.com">
+  <a href="mailto:limdongxian1207@gmail.com">
     <img
       src="https://img.shields.io/badge/LIMDONGXIAN1207DOTGMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />&nbsp
