@@ -1,3 +1,4 @@
+```md
 <div align="center" style="margin: 30px 0;">
   <img width="253" alt="Screenshot at Jan 01 19-04-28" src="https://github.com/user-attachments/assets/8946664c-9926-43e7-b9af-1bc385e4be27" />
 
@@ -7,9 +8,8 @@
       font-weight: bold;
       color: #A52A2A; /* SaddleBrown */
       margin-bottom: 10px;">
-    Welcome to QuokkaLim's Github
+    Welcome to ______'s Github
   </h1>
-
 
 <div style="
   display: flex;
@@ -17,30 +17,21 @@
   justify-content: center; 
   margin-bottom: 15px;
 ">
-
     <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+CS+Major+at+Hanyang;Nice+to+Meet+You!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+______+at+______;Nice+to+Meet+You!"
     alt="Typing SVG"
     style="margin-right: 10px;"
   />
-
-
-
-
 </div>
 
-<p style="
-    font-size: 2em; 
-    color: #555;
-    margin-bottom: 10px; 
-    text-align: center; 
-    line-height: 1.5; 
-">
-    The reason I like quokkas is not only their smiling faces are cute,<br>
-    but also I want to continue to be happy and satisfied like them!<br>
-    <strong>I can't resist diving into new experiences :</strong>
-</p>
+# 👀 About Me
+🌟 I am a ______ from ______.
+🔥 I aim to become a ______.
+🎓 Bachelor of ______, ______ University
 
+---
+
+# 🚀 Interests
 <table style="
     margin: 0 auto; 
     text-align: left;
@@ -49,129 +40,67 @@
     width: 90%; 
     line-height: 1.5; 
 ">
-  <tr style="background-color: #ffffff;">
-    <td style="vertical-align: top; padding: 5px;">
-      🚀 <strong>Entrepreneurship:</strong> (currently)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      My second major 🎓
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="vertical-align: top; padding: 5px;">
-      💰 <strong>Finance:</strong> (currently)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Micro major 🎓 && Quantitative Analytics Lab
-    </td>
-  </tr>
-
-  <tr style="background-color: #ffffff;">
-    <td style="vertical-align: top; padding: 5px;">
-      💻 <strong>Programming:</strong> (currently)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Forif 🧑‍💻 && Self Study 📚 && Comento 🧑‍💻
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="vertical-align: top; padding: 5px;">
-      🔒 <strong>Cybersecurity Club:</strong> (done)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Study 🧐  Basic security && Buffer overflows && Tesing university website potential vulnerabilities
-    </td>
-  </tr>
-
-  <tr style="background-color: #ffffff;">
-    <td style="vertical-align: top; padding: 5px;">
-      🔐 <strong>Cryptography</strong> (done)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      🥈 2nd place in school cryptography competition
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="vertical-align: top; padding: 5px;">
-      🏠 <strong>Habitat Volunteering:</strong> (done)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      👨🏻‍💼 Board member of a Habitat club.
-    </td>
-  </tr>
-
-  <tr style="background-color: #ffffff;">
-    <td style="vertical-align: top; padding: 5px;">
-      ☕ <strong>Barista:</strong> (currently)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Who doesn't love  coffee ‼
-    </td>
-  </tr>
-
-  <tr style="background-color: #f9f9f9;">
-    <td style="vertical-align: top; padding: 5px;">
-      🧋 <strong>FoodTech Startup:</strong> (done)
-    </td>
-    <td style="vertical-align: top; padding: 5px;">
-      Chinese translator / sales member
-    </td>
-  </tr>
+  <tr style="background-color: #ffffff;"><td>🚀 <strong>Entrepreneurship:</strong> (currently)</td><td>My second major 🎓</td></tr>
+  <tr style="background-color: #f9f9f9;"><td>💰 <strong>Finance:</strong> (currently)</td><td>Micro major 🎓 && Quantitative Analytics Lab</td></tr>
+  <tr style="background-color: #ffffff;"><td>💻 <strong>Programming:</strong> (currently)</td><td>Forif 🧑‍💻 && Self Study 📚 && Comento 🧑‍💻</td></tr>
+  <tr style="background-color: #f9f9f9;"><td>🔒 <strong>Cybersecurity Club:</strong> (done)</td><td>Study 🧐 Basic security && Buffer overflows && Testing university website potential vulnerabilities</td></tr>
+  <tr style="background-color: #ffffff;"><td>🔐 <strong>Cryptography:</strong> (done)</td><td>🥈 2nd place in school cryptography competition</td></tr>
+  <tr style="background-color: #f9f9f9;"><td>🏠 <strong>Habitat Volunteering:</strong> (done)</td><td>👨🏻‍💼 Board member of a Habitat club.</td></tr>
+  <tr style="background-color: #ffffff;"><td>☕ <strong>Barista:</strong> (currently)</td><td>Who doesn't love coffee ‼</td></tr>
+  <tr style="background-color: #f9f9f9;"><td>🧋 <strong>FoodTech Startup:</strong> (done)</td><td>Chinese translator / sales member</td></tr>
 </table>
-</div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+# 🔧 Tech Stack
+## Language
+- [ ] Python  
+- [ ] JavaScript  
+- [ ] HTML5  
+- [ ] CSS3  
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
-</div>
-<br>
+## Library
+- [ ] PyTorch  
+- [ ] Selenium  
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+## Framework
+- [ ] Flask  
+- [ ] Django  
+- [ ] React  
 
-<br>
+## ETC
+- [ ] Amazon AWS  
+- [ ] Slack  
+- [ ] MySQL  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <!-- <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+---
 
-<br>
+# 😮 GitHub Stats
+## ______'s GitHub Stats
+**Total Stars Earned:**  
+**Total Commits (2023):**  
+**Total PRs:**  
+**Total Issues:**  
+**Contributed to (last year):**  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/happ11quokka" alt="LeetCode Stats" />
-</p>
+**A+**
+
+### Most Used Languages
+- Jupyter Notebook: ____%
+- Python: ____%
+- HTML: ____%
+- CSS: ____%
+- JavaScript: ____%
+
+---
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:limdongxian1207@gmail.com">
+  <a href="mailto:______@gmail.com">
     <img
-      src="https://img.shields.io/badge/LIMDONGXIAN1207DOTGMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/______DOTGMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />&nbsp
   </a>
 </div>
+```
+
