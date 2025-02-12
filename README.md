@@ -10,6 +10,12 @@
     Welcome to QuokkaLim's Github
   </h1>
 
+    <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+CS+Major+at+Hanyang;Nice+to+Meet+You!"
+    alt="Typing SVG"
+    style="margin-right: 10px;"
+  />
+
 <div style="
   display: flex;
   align-items: center;
@@ -17,11 +23,9 @@
   margin-bottom: 15px;
 ">
 
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+CS+Major+at+Hanyang;Nice+to+Meet+You!"
-    alt="Typing SVG"
-    style="margin-right: 10px;"
-  />
+
+
+
 
 
 </div>
