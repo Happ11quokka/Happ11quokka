@@ -59,26 +59,22 @@
 ## Languages
 
 - **Python** 🐍 - Data science, quantitative finance, and machine learning research
-- **Jupyter Notebook** 📓 - Interactive data analysis and academic coursework
 - **TypeScript** 📘 - React applications, VS Code extensions, and type-safe development
+- **JavaScript** ⚙️ - Frontend development and web automation
+- **HTML/CSS** 🌐 - Modern responsive web design and UI/UX
+- **Dart** 🎯 - Cross-platform mobile app development with Flutter
+- **Swift** 🍎 - iOS development and Flutter integration
 - **Verilog** ⚡ - Digital circuit design and computer architecture (ITE2031)
 - **C/C++** 🔧 - Systems programming, data structures, and performance-critical applications
-- **JavaScript** ⚙️ - Frontend development and web automation
-- **Dart** 🎯 - Cross-platform mobile app development with Flutter
-- **HTML/CSS** 🌐 - Modern responsive web design and UI/UX
 - **Assembly** 🔩 - Low-level programming and computer architecture
-- **Swift** 🍎 - iOS development and Flutter integration
 
 ## Frameworks & Tools
 
 - **React Ecosystem** ⚛️ - Modern React apps with Vite, React Router, React Query
 - **UI Libraries** 🎨 - Radix UI, shadcn/ui, Tailwind CSS for professional interfaces
-- **State Management** 🔄 - React Hook Form, TanStack Query, Context API
-- **Build Tools** 🛠️ - Vite, ESLint, TypeScript for modern development workflow
 - **Backend Integration** 🔥 - Firebase for authentication and real-time data
 - **Data Visualization** 📊 - Recharts for interactive charts and analytics
 - **Development Tools** 🧰 - VS Code Extensions, CMake, Makefile
-- **Hardware Design** 💻 - Verilog, Tcl for FPGA and digital circuit development
 - **Academic Tools** 🎓 - Jupyter, specialized CS coursework environments
 
 ---
@@ -92,7 +88,7 @@
 - Advanced quantitative finance research exploring ChatGPT's potential in forecasting Korean stock market returns
 - Implements sophisticated news-based long-short trading strategies using machine learning
 - Features comprehensive data analysis, backtesting, and performance evaluation systems
-- **Tech Stack**: Python (86k+ lines), Pandas, NumPy, OpenAI API, Financial Data APIs
+- **Tech Stack**: Python, Pandas, NumPy, OpenAI API, Financial Data APIs
 
 ## 🛠️ remove-emoji
 
@@ -110,7 +106,7 @@
 - Comprehensive Flutter framework learning with real mobile applications
 - Native platform integrations for iOS (Swift) and Android (Kotlin)
 - Advanced build system configuration and native module integration
-- **Tech Stack**: Flutter, Dart, C++, Swift, Kotlin, CMake
+- **Tech Stack**: Flutter, Dart, C++
 
 ## ⚛️ worko_homepage
 
@@ -120,7 +116,7 @@
 - Professional UI components using Radix UI and shadcn/ui design system
 - Advanced features: Firebase authentication, interactive calendar (react-day-picker), data visualization (Recharts)
 - State management with React Hook Form, TanStack Query for server state
-- **Tech Stack**: React 18, TypeScript (184k+ lines), Tailwind CSS, Vite, Firebase
+- **Tech Stack**: React 18, TypeScript, Tailwind CSS, Vite, Firebase
 
 ---
 
@@ -143,8 +139,6 @@
 ### Most Used Languages (All Repositories)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=radical)
-
-**Actual Language Distribution (All 10 Repositories):**
 
 ---
 
