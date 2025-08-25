@@ -25,7 +25,7 @@
 
 # 👀 About Me
 
-🌟 I am a Computer Science student from Korea & China.
+🌟 I am a Computer Science student from Korea.
 🔥 I aim to become a skilled software developer.
 🎓 Bachelor of Computer Science, Hanyang University
 
