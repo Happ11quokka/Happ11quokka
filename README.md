@@ -66,7 +66,6 @@
 - **Swift** 🍎 - iOS development and Flutter integration
 - **Verilog** ⚡ - Digital circuit design and computer architecture (ITE2031)
 - **C/C++** 🔧 - Systems programming, data structures, and performance-critical applications
-- **Assembly** 🔩 - Low-level programming and computer architecture
 
 ## Frameworks & Tools
 
