@@ -94,24 +94,6 @@
 - Features comprehensive data analysis, backtesting, and performance evaluation systems
 - **Tech Stack**: Python (86k+ lines), Pandas, NumPy, OpenAI API, Financial Data APIs
 
-## 💻 ITE2031 - Computer Architecture
-
-**Hardware Design & Systems Programming** | _Verilog, C++, Assembly_
-
-- Comprehensive computer architecture coursework under Prof. 이헌준 at Hanyang University
-- Advanced digital circuit design and FPGA development using Verilog (868k+ lines)
-- Low-level systems programming with C++ and Assembly language
-- **Tech Stack**: Verilog, C++, C, Assembly, Tcl, Makefile
-
-## 📚 Academic Coursework Collection
-
-**Computer Science Education** | _Jupyter Notebook, C++, C_
-
-- **2024-2-assignment**: Meaningful programming assignments from 2024 fall semester (9M+ lines Jupyter)
-- **CSE2010DataStructure**: Data Structures course materials by Prof. Jong-Il Park
-- **comento_front**: Frontend Development Bootcamp with Hanyang University Industry 4.0 Center
-- **Tech Stack**: Jupyter Notebook, C++, C, HTML, JavaScript, CSS
-
 ## 🛠️ remove-emoji
 
 **VS Code Extension** | _TypeScript, CSS, HTML, JavaScript_
@@ -140,24 +122,6 @@
 - State management with React Hook Form, TanStack Query for server state
 - **Tech Stack**: React 18, TypeScript (184k+ lines), Tailwind CSS, Vite, Firebase
 
-## 📅 HYUCalender
-
-**Hanyang University Calendar System** | _JavaScript, TypeScript, CSS_
-
-- Interactive calendar application specifically designed for Hanyang University students
-- Full-stack web application with modern JavaScript/TypeScript architecture
-- Student-focused features for academic scheduling and course management
-- **Tech Stack**: JavaScript (77k+ lines), TypeScript (44k+ lines), CSS, HTML
-
-## 🛒 Hanyang_Market
-
-**University E-commerce Platform** | _JavaScript, CSS, HTML_
-
-- Complete marketplace web application for Hanyang University community
-- Product registration, purchase, and management system for university students
-- Community-driven marketplace with user authentication and product management
-- **Tech Stack**: JavaScript (41k+ lines), CSS, HTML, Web APIs
-
 ---
 
 # 😮 GitHub Stats
@@ -171,27 +135,16 @@
 
 ### Repository Overview
 
-- **Academic Projects**: 4 repositories (Computer Architecture, Data Structures, Coursework)
 - **Research Projects**: 1 repository (Quantitative Finance with Python)
 - **Development Tools**: 1 repository (VS Code Extension)
 - **Mobile Development**: 1 repository (Flutter Cross-platform)
 - **Web Development**: 4 repositories (React, JavaScript, TypeScript Applications)
-
-![Happ11quokka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Happ11quokka&show_icons=true&theme=radical)
 
 ### Most Used Languages (All Repositories)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=radical)
 
 **Actual Language Distribution (All 10 Repositories):**
-
-- **Jupyter Notebook**: 9.3M lines (Academic coursework & data analysis)
-- **Verilog**: 868k lines (Digital circuit design & computer architecture)
-- **C/C++**: 500k+ lines (Systems programming & performance applications)
-- **TypeScript**: 230k+ lines (React apps, VS Code extensions, HYU Calendar)
-- **JavaScript**: 160k+ lines (Web applications, HYU Calendar, Hanyang Market)
-- **Python**: 87k+ lines (Data science & quantitative finance)
-- **Others**: HTML, CSS, Assembly, Dart, Swift, Tcl, Makefile
 
 ---
 
