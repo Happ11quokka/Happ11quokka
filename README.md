@@ -2,7 +2,7 @@
 
 **Computer Science Student** | **Software Developer**  
 Hanyang University | Seoul, Korea  
-📧 limdongxian1207@gmail.com | 💼 [GitHub](https://github.com/Happ11quokka)
+📧 limdongxian1207@gmail.com
 
 ## Education
 
