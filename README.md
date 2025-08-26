@@ -1,151 +1,138 @@
-<div align="center" style="margin: 30px 0;">
-  <img width="253" alt="Screenshot at Jan 01 19-04-28" src="https://github.com/user-attachments/assets/8946664c-9926-43e7-b9af-1bc385e4be27" />
+# Lim Donghyun
 
-  <h1 style="
-      font-family: 'Arial', sans-serif;
-      font-size: 2.4em;
-      font-weight: bold;
-      color: #A52A2A; /* SaddleBrown */
-      margin-bottom: 10px;">
-    Welcome to Lim Donghyun's Github
-  </h1>
+**Computer Science Student** | **Software Developer**  
+Hanyang University | Seoul, Korea  
+📧 limdongxian1207@gmail.com | 💼 [GitHub](https://github.com/Happ11quokka)
 
-<div style="
-  display: flex;
-  align-items: center;
-  justify-content: center; 
-  margin-bottom: 15px;
-">
-    <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=300&color=A52A2A&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+a+Student+at+Hanyang+University;Nice+to+Meet+You!"
-    alt="Typing SVG"
-    style="margin-right: 10px;"
-  />
-</div>
+## Education
 
-# 👀 About Me
+**Bachelor of Science in Computer Science**  
+Hanyang University, Seoul, Korea  
+*Finance Micro Major | Entrepreneurship Second Major*  
+*2022 - Present*
 
-🌟 I am a Computer Science student from Korea.
-🔥 I aim to become a skilled software developer.
-🎓 Bachelor of Computer Science, Hanyang University
+## Experience
 
----
+**Research Assistant**  
+*Hanyang University Business Lab - Quantitative Analytics Lab*  
+*March 2025 - July 2025*  
+- Conducted LLM-based stock price prediction research
+- Developed quantitative models for financial market analysis
 
-# 💼 Experience & Activities
+**Global Communicator**  
+*Hanyang University Media Strategy Team GCC*  
+*January 2025 - Present*  
+- Chinese translation scholarship recipient
+- Cross-cultural communication and media strategy
 
-<table style="
-    margin: 0 auto; 
-    text-align: left;
-    font-size: 1em; 
-    border-spacing: 0; 
-    width: 90%; 
-    line-height: 1.5; 
-">
-  <tr style="background-color: #ffffff;"><td>🔬 <strong>Research Assistant:</strong> (2025.03-2025.07)</td><td>LLM-based stock price prediction research at HYU Business Lab Quantataive Analytics Lab </td></tr>
-  <tr style="background-color: #f9f9f9;"><td>🎓 <strong>Global Communicator:</strong> (2025.01-now)</td><td>Chinese translation scholarship at HYU Media Strategy Team GCC</td></tr>
-  <tr style="background-color: #ffffff;"><td>💻 <strong>Frontend Bootcamp:</strong> (2025.01-2025.02)</td><td>Frontend Development Job A to Z Bootcamp with Comento</td></tr>
-  <tr style="background-color: #f9f9f9;"><td>🏢 <strong>Startup Academy:</strong> (2024.09-2024.12)</td><td>Hanyang Startup Academy excellent completion</td></tr>
-  <tr style="background-color: #ffffff;"><td>🚀 <strong>Entrepreneurship Club:</strong> (2024.10-2024.10)</td><td>HySpark 3rd generation member - Hanyang University startup community</td></tr>
-  <tr style="background-color: #f9f9f9;"><td>🔒 <strong>Cybersecurity Club:</strong> (2022.03-2022.11)</td><td>ICEWALL security club member at HYU Computer Software Department</td></tr>
-  <tr style="background-color: #ffffff;"><td>🏠 <strong>Habitat Volunteering:</strong> (2021.09-2021.12)</td><td>Activity director at HYU Habitat for Humanity housing improvement 👨🏻‍💼</td></tr>
-  <tr style="background-color: #f9f9f9;"><td>🎯 <strong>Academic Focus:</strong></td><td>💰 Finance Micro Major & 🚀 Entrepreneurship Second Major</td></tr>
-  <tr style="background-color: #ffffff;"><td>🏆 <strong>Achievement:</strong></td><td>🥈 2nd place in Hanyang University Cryptography Competition</td></tr>
-</table>
+**Frontend Development Bootcamp**  
+*Comento*  
+*January 2025 - February 2025*  
+- Completed comprehensive Frontend Development Job A to Z program
+- Modern web development practices and industry standards
 
----
+## Activities & Leadership
 
-# 🔧 Tech Stack
+**Hanyang Startup Academy**  
+*September 2024 - December 2024*  
+- Excellent completion of entrepreneurship program
+- Business development and startup methodology
 
-## Languages
+**HySpark Entrepreneurship Club**  
+*October 2024*  
+- 3rd generation member of Hanyang University startup community
+- Innovation and entrepreneurship initiatives
 
-- **Python** 🐍 - Data science, quantitative finance, and machine learning research
-- **TypeScript** 📘 - React applications, VS Code extensions, and type-safe development
-- **JavaScript** ⚙️ - Frontend development and web automation
-- **HTML/CSS** 🌐 - Modern responsive web design and UI/UX
-- **Dart** 🎯 - Cross-platform mobile app development with Flutter
-- **Swift** 🍎 - iOS development and Flutter integration
-- **Verilog** ⚡ - Digital circuit design and computer architecture (ITE2031)
-- **C/C++** 🔧 - Systems programming, data structures, and performance-critical applications
+**ICEWALL Cybersecurity Club**  
+*Hanyang University Computer Software Department*  
+*March 2022 - November 2022*  
+- Security research and vulnerability analysis
+- Cybersecurity best practices and threat assessment
 
-## Frameworks & Tools
+**Activity Director**  
+*Hanyang University Habitat for Humanity*  
+*September 2021 - December 2021*  
+- Led housing improvement volunteer initiatives
+- Community service and social impact projects
 
-- **React Ecosystem** ⚛️ - Modern React apps with Vite, React Router, React Query
-- **UI Libraries** 🎨 - Radix UI, shadcn/ui, Tailwind CSS for professional interfaces
-- **Backend Integration** 🔥 - Firebase for authentication and real-time data
-- **Data Visualization** 📊 - Recharts for interactive charts and analytics
-- **Development Tools** 🧰 - VS Code Extensions, CMake, Makefile
-- **Academic Tools** 🎓 - Jupyter, specialized CS coursework environments
+## Awards & Achievements
 
----
+- **2nd Place** - Hanyang University Cryptography Competition
 
-# 💼 Notable Projects
+## Technical Skills
 
-## 📈 StockNewsEstimator
+### Programming Languages
+- **Python** - Data science, quantitative finance, machine learning
+- **TypeScript/JavaScript** - Full-stack web development, VS Code extensions
+- **C/C++** - Systems programming, data structures, algorithms
+- **Swift** - iOS development
+- **Dart** - Flutter mobile development
+- **Verilog** - Digital circuit design and computer architecture
+- **HTML/CSS** - Modern responsive web design
 
-**Quantitative Finance Research** | _Python, Data Science, Finance_
+### Frameworks & Technologies
+- **Frontend**: React, Vite, Tailwind CSS, Radix UI, shadcn/ui
+- **Mobile**: Flutter, React Native
+- **Backend**: Firebase, Node.js
+- **Data Science**: Pandas, NumPy, Jupyter
+- **Development Tools**: VS Code, Git, CMake, Makefile
+- **Database**: Firebase Firestore
+- **APIs**: OpenAI API, Financial Data APIs
 
-- Advanced quantitative finance research exploring ChatGPT's potential in forecasting Korean stock market returns
-- Implements sophisticated news-based long-short trading strategies using machine learning
-- Features comprehensive data analysis, backtesting, and performance evaluation systems
-- **Tech Stack**: Python, Pandas, NumPy, OpenAI API, Financial Data APIs
+## Projects
 
-## 🛠️ remove-emoji
+### StockNewsEstimator
+**Quantitative Finance Research Platform**  
+*Python, Data Science, Finance*
 
-**VS Code Extension** | _TypeScript, CSS, HTML, JavaScript_
+- Developed advanced quantitative finance research system exploring ChatGPT's potential in forecasting Korean stock market returns
+- Implemented sophisticated news-based long-short trading strategies using machine learning algorithms
+- Built comprehensive data analysis, backtesting, and performance evaluation systems
+- **Technologies**: Python, Pandas, NumPy, OpenAI API, Financial Data APIs
 
-- Professional developer productivity tool with intelligent emoji removal system
-- Advanced algorithms that preserve code formatting, syntax, and structure
-- Smart detection for comments, strings, docstrings across multiple languages
-- **Tech Stack**: TypeScript, CSS, HTML, JavaScript, VS Code Extension API
+### remove-emoji
+**VS Code Extension**  
+*TypeScript, JavaScript, HTML, CSS*
 
-## 📱 flutter_study
+- Created professional developer productivity tool with intelligent emoji removal system
+- Developed advanced algorithms that preserve code formatting, syntax, and structure
+- Implemented smart detection for comments, strings, and docstrings across multiple programming languages
+- **Technologies**: TypeScript, VS Code Extension API, JavaScript
 
-**Cross-Platform Mobile Development** | _Flutter, Dart, C++_
+### worko_homepage
+**Modern React Web Application**  
+*React, TypeScript, Vite*
 
-- Comprehensive Flutter framework learning with real mobile applications
-- Native platform integrations for iOS (Swift) and Android (Kotlin)
-- Advanced build system configuration and native module integration
-- **Tech Stack**: Flutter, Dart, C++
+- Built full-featured React application with modern development stack
+- Designed professional UI components using Radix UI and shadcn/ui design system
+- Integrated Firebase authentication, interactive calendar, and data visualization features
+- Implemented state management with React Hook Form and TanStack Query
+- **Technologies**: React 18, TypeScript, Tailwind CSS, Vite, Firebase
 
-## ⚛️ worko_homepage
+### flutter_study
+**Cross-Platform Mobile Development**  
+*Flutter, Dart*
 
-**Modern React Application** | _React, TypeScript, Vite_
+- Developed comprehensive Flutter framework learning project with real mobile applications
+- Implemented native platform integrations for iOS and Android
+- Configured advanced build systems and native module integration
+- **Technologies**: Flutter, Dart, Swift, Kotlin
 
-- Full-featured React application with modern development stack (Vite + TypeScript)
-- Professional UI components using Radix UI and shadcn/ui design system
-- Advanced features: Firebase authentication, interactive calendar (react-day-picker), data visualization (Recharts)
-- State management with React Hook Form, TanStack Query for server state
-- **Tech Stack**: React 18, TypeScript, Tailwind CSS, Vite, Firebase
+## GitHub Profile Summary
 
----
+**Portfolio Statistics:**
+- **Total Repositories**: 10 (4 Public, 6 Private)
+- **GitHub Member Since**: May 2024
+- **Repository Distribution**:
+  - Research Projects: 1 (Quantitative Finance with Python)
+  - Development Tools: 1 (VS Code Extension)
+  - Mobile Development: 1 (Flutter Cross-platform)
+  - Web Development: 4 (React, JavaScript, TypeScript Applications)
 
-# 😮 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=default)
 
-## Lim Donghyun's GitHub Stats
+## Contact
 
-**Total Repositories:** 10 (4 Public + 6 Private)  
-**GitHub Member Since:** May 2024  
-**Followers:** 1  
-**Following:** 0
-
-### Repository Overview
-
-- **Research Projects**: 1 repository (Quantitative Finance with Python)
-- **Development Tools**: 1 repository (VS Code Extension)
-- **Mobile Development**: 1 repository (Flutter Cross-platform)
-- **Web Development**: 4 repositories (React, JavaScript, TypeScript Applications)
-
-### Most Used Languages (All Repositories)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=radical)
-
----
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:limdongxian1207@gmail.com">
-    <img
-      src="https://img.shields.io/badge/limdongxian1207-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />&nbsp
-  </a>
-</div>
+**Email**: limdongxian1207@gmail.com  
+**GitHub**: [Happ11quokka](https://github.com/Happ11quokka)  
+**Location**: Seoul, Korea
