@@ -9,7 +9,7 @@ Hanyang University | Seoul, Korea
 **Bachelor of Science in Computer Science**  
 Hanyang University, Seoul, Korea  
 *Finance Micro Major | Entrepreneurship Second Major*  
-*2022 - Present*
+*2021 - Present*
 
 ## Experience
 
