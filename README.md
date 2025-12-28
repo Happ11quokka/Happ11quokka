@@ -23,7 +23,7 @@ I prioritize turning ideas into real products through careful planning and execu
 - 🎓 **Computer Science & Software** @ Hanyang University (2021 - Present)
 - 🔬 **Research Assistant** @ Quantitative Analytics Lab
 - 🌏 **Translator** - 700+ articles translated (Chinese ↔ Korean)
-- 🚀 **Startup Founder** - P.E.R.C.H (AI-powered Pet Healthcare)
+- 🚀 **Startup team leader** - P.E.R.C.H (AI-powered Pet Healthcare)
 
 ---
 
