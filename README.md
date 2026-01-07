@@ -20,11 +20,6 @@
 
 I prioritize turning ideas into real products through careful planning and execution. Through academic work and projects, I've developed the ability to structure problems logically. Startup experience taught me how to prioritize under limited resources. With a multicultural background, I quickly grasp new contexts and connect user, business, and technical perspectives.
 
-- 🎓 **Computer Science & Software** @ Hanyang University (2021 - Present)
-- 🔬 **Research Assistant** @ Quantitative Analytics Lab
-- 🌏 **Translator** - 700+ articles translated (Chinese ↔ Korean)
-- 🚀 **Startup team leader** - P.E.R.C.H (AI-powered Pet Healthcare)
-
 ---
 
 ## 🛠️ Tech Stack
