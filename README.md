@@ -91,8 +91,6 @@ I prioritize turning ideas into real products through careful planning and execu
 `Jan 2025 - Present`
 
 - Translated **700+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
-- Myungin Multicultural Foundation Scholarship recipient
-
 ---
 
 ## 🚀 Featured Projects
