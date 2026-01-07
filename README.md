@@ -291,31 +291,5 @@ I prioritize turning ideas into real products through careful planning and execu
 | **Member** | ICEWALL Security Club | Mar - Sep 2022 |
 | **Activity Director** | Habitat for Humanity | Sep 2021 - Dec 2022 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Happ11quokka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Happ11quokka&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-
-[![Gmail](https://img.shields.io/badge/limdongxian1207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limdongxian1207@gmail.com)
-
-<br/>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHapp11quokka&count_bg=%236366F1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
