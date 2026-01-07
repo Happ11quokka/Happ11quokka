@@ -157,29 +157,6 @@ I prioritize turning ideas into real products through careful planning and execu
 - **Utilities**: requests, tqdm, python-dotenv
 
 ---
-
-### RecallMap
-> **Knowledge management service that turns files into searchable memory cards**
-
-<a href="https://github.com/Happ11quokka/RecallMap">
-  <img src="https://img.shields.io/badge/GitHub-RecallMap-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://recall-map.vercel.app">
-  <img src="https://img.shields.io/badge/Live-Demo-000000?style=flat-square&logo=vercel" />
-</a>
-
-**Key Features**:
-- Ingest files into summaries, keywords, and embeddings
-- Natural language search with rerank for higher precision
-- Answer composition with evidence-based context cards
-
-**Tech Stack**:
-- **Frontend**: React 18, TypeScript, Vite, TanStack Query, Tailwind CSS
-- **Backend**: FastAPI
-- **AI/Vector**: OpenAI API, Cohere Rerank, Pinecone
-
----
-
 ### StockNewsEstimator
 > **News-based stock investment strategy research using GPT sentiment**
 
@@ -208,7 +185,7 @@ I prioritize turning ideas into real products through careful planning and execu
 | Award | Organization | Date |
 |:-----:|:------------:|:----:|
 | **Hackathon Ideathon 1st Place** | FORIF Programming Club | Dec 2025 |
-| **Demo Day Challenge Track 3rd** | HySpark Entrepreneurship | Jul 2025 |
+| **Demo Day Challenge Track 3rd** | HySpark Stratup Club | Jul 2025 |
 | **External Scholarship** | Myungin Multicultural Foundation | Jun 2025 |
 | **Cryptography Competition 2nd** | Hanyang University | Oct 2024 |
 | **Startup Academy Excellence** | Hanyang University | Dec 2024 |
@@ -225,7 +202,7 @@ I prioritize turning ideas into real products through careful planning and execu
 |:----:|:-------------:|:------:|
 | **Mentor** | Nexon Foundation HelloMate Coding | Sep - Dec 2025 |
 | **Founder & Lead** | P.E.R.C.H Startup Club | Sep - Dec 2025 |
-| **Member** | HySpark Entrepreneurship (3rd) | Oct 2024 |
+| **Member** | HySpark Stratup Club (3rd) | 2024 - 2025 |
 | **Member** | Hanyang Startup Academy (21st) | Sep - Dec 2024 |
 | **Member** | ICEWALL Security Club | Mar - Sep 2022 |
 | **Activity Director** | Habitat for Humanity | Sep 2021 - Dec 2022 |
