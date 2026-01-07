@@ -7,7 +7,7 @@
 <br/>
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hpyquokka.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Happ11quokka/Happ11quokka/raw/main/%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB_%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/%EC%9E%84%EB%8F%99%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 </div>
 
