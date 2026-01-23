@@ -141,6 +141,8 @@ I prioritize turning ideas into real products through careful planning and execu
   <img src="https://img.shields.io/badge/Blog-Project-000000?style=flat-square&logo=tistory&logoColor=white" />
 </a>
 
+Jan 22 – Jan 30 | **Hanyang Univ. Industrial AI Bootcamp x Hyundai NGV**
+
 **Highlights**:
 - FastAPI analysis API with a Gradio dashboard
 - OpenAI-compatible Vision Model API (Qwen/vLLM) for automated inspection
