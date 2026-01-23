@@ -143,7 +143,7 @@ I prioritize turning ideas into real products through careful planning and execu
 
 Jan 22 – Jan 30 | **Hanyang Univ. Industrial AI Bootcamp x Hyundai NGV**
 
-**Highlights**:
+**Key Feature**:
 - FastAPI analysis API with a Gradio dashboard
 - OpenAI-compatible Vision Model API (Qwen/vLLM) for automated inspection
 - Batch upload tools for instructors (teacher_tools)
