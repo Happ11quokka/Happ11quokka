@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donghyun%20Lim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20App%20Developer%20%7C%20Singularity%20Maker&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=120&text=Donghyun%20Lim&fontSize=40&fontColor=6366F1&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20Singularity%20Maker&descSize=16&descAlignY=75)
 
 <div align="center">
 
@@ -22,9 +22,8 @@
 - **Full-Stack Mobile Developer** -- Shipped **Perch** to the App Store (250+ users); Advanced in **iOS (Swift/SwiftUI)** and **Flutter/Dart**
 - **AI/ML Engineer** -- LLM integration (RAG, quantization), Computer Vision (YOLO), GPT sentiment analysis on 500K+ articles
 - **Published Researcher** -- Co-authored paper accepted at **APAF Conference** on LLM-driven investment strategies
-- **Hackathon Grand Prize Winner** -- 1st place at Hyundai NGV HYPER AI Hackathon (600 teams)
-- **Industry Collaborator** -- Delivered projects with **LG Electronics** (smart home IoT) and **Hyundai NGV** (AI quality inspection)
-- **Multilingual** -- Korean (native), Chinese (fluent), English (professional)
+- **Hackathon Grand Prize Winner** -- 현대 NGV HYPER AI 해커톤 최우수상
+- **Multilingual** -- Korean (native), Chinese (native), English (professional)
 
 ---
 
@@ -32,27 +31,10 @@
 
 <div align="center">
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,ts,js,python,html,css&theme=dark)](https://skillicons.dev)
-
-### Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift&theme=dark)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark)](https://skillicons.dev)
-
-### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,supabase,firebase,sqlite,postgres&theme=dark)](https://skillicons.dev)
-
-### AI / ML
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
-
-`LangChain` `RAG` `GPTQ/AWQ` `YOLO` `OpenAI API` `Gemini API`
-
-### Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gcp,figma,vscode&theme=dark)](https://skillicons.dev)
-
-`Hugging Face` `Claude Code` `Cursor`
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,ts,js,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,supabase,firebase,postgres,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,docker,gcp,git,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -82,10 +64,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Happ11quokka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Happ11quokka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" height="180" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com/?user=Happ11quokka&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1" height="180" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
@@ -97,7 +79,7 @@
 
 **Hanyang University** | Seoul, Korea
 *B.S. in Computer Science* | GPA: 3.36 / 4.5
-*Minor: Entrepreneurship Convergence* | *Micro-major: Industrial AI*
+*Minor: Entrepreneurship Convergence | Micro-major: Industrial AI*
 `Sep 2021 - Present (Senior)`
 
 **Key Courses**: Software Engineering, Operating Systems, Database Systems, Data Structures, Algorithms, Artificial Intelligence, Computer Architecture, Computer Networks, System Programming, Object-Oriented Design
@@ -138,15 +120,12 @@
 ### Perch -- AI Pet Bird Health Platform
 > **Full-stack mobile app with AI-powered health consultation, live on the App Store**
 
-<a href="https://github.com/Happ11quokka/perch_care">
-  <img src="https://img.shields.io/badge/GitHub-perch__care-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://perch.ai.kr/ko">
-  <img src="https://img.shields.io/badge/Website-perch.ai.kr-6366f1?style=flat-square&logo=safari&logoColor=white" />
-</a>
-<a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko">
-  <img src="https://img.shields.io/badge/App_Store-Download-000000?style=flat-square&logo=apple&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-perch__care-181717?logo=github)](https://github.com/Happ11quokka/perch_care)
+[![Website](https://img.shields.io/badge/Website-perch.ai.kr-FF9A42)](https://perch.ai.kr/ko)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
+[![Flutter](https://img.shields.io/badge/Flutter-3.8-02569B?logo=flutter)](https://flutter.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 `2025 - Present` | **Team Lead & App Developer**
 
@@ -155,19 +134,16 @@
 - AI health consultations powered by **OpenAI + LangChain RAG**
 - Multi-language support (Korean, English, Chinese)
 
-**Tech Stack**: Flutter, FastAPI, PostgreSQL, Docker, LangChain, OpenAI API, Firebase
-
 ---
 
 ### HARU (Home Adaptive Routine Understanding)
 > **Multimodal smart home control iOS app with Apple Watch integration**
 
-<a href="https://github.com/Happ11quokka/SWE-G04-SPACE">
-  <img src="https://img.shields.io/badge/GitHub-SWE--G04--SPACE-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40">
-  <img src="https://img.shields.io/badge/Notion-Documentation-000000?style=flat-square&logo=notion" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-SWE--G04--SPACE-181717?logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
+[![Notion](https://img.shields.io/badge/Notion-Documentation-000000?logo=notion)](https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
 `Sep - Dec 2025` | **Hanyang Univ. x LG Electronics IC-PBL**
 
@@ -178,43 +154,35 @@
 - **Geofence auto-trigger**: 100m geofence + distance pattern detection
 - Delivered final prototype demo to **LG Electronics** panel
 
-**Tech Stack**: SwiftUI, HealthKit, MapKit, WatchConnectivity, FastAPI, Supabase, OpenAI API, Docker
-
 ---
 
-### Hyundai NGV HYPER AI Hackathon -- Grand Prize
-> **Multimodal LLM-based AI agent for manufacturing defect classification (600 teams)**
+### Hyundai NGV HYPER AI Hackathon -- 최우수상
+> **Multimodal LLM-based AI agent for manufacturing defect classification**
 
-<a href="https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent">
-  <img src="https://img.shields.io/badge/GitHub-hyu--ngv--manufacturing--ai--agent-181717?style=flat-square&logo=github" />
-</a>
-<a href="https://huggingface.co/spaces/promise42da/dAIso">
-  <img src="https://img.shields.io/badge/Demo-HuggingFace_Spaces-ffd21e?style=flat-square&logo=huggingface&logoColor=black" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-manufacturing--ai--agent-181717?logo=github)](https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent)
+[![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
+[![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?logo=openai&logoColor=white)](https://openai.com)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logoColor=black)](https://docs.ultralytics.com)
 
 `Jan 2026` | **Hanyang Univ. x Hyundai NGV**
 
 - **Two-Stage Prompting** architecture: YOLO object detection + GPT-4o analysis
 - Confidence-based conditional recheck with 4 preprocessing tools
 - Weighted voting system for final judgment
-- **Grand Prize winner** out of 600 teams
-
-**Tech Stack**: GPT-4o, YOLO (Roboflow), OpenCV, Gradio, LangSmith
+- **최우수상 수상**
 
 ---
 
 ### StockNewsEstimator
 > **News-based stock investment strategy research using GPT sentiment -- Published at APAF**
 
-<a href="https://github.com/Happ11quokka/StockNewsEstimator">
-  <img src="https://img.shields.io/badge/GitHub-StockNewsEstimator-181717?style=flat-square&logo=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-StockNewsEstimator-181717?logo=github)](https://github.com/Happ11quokka/StockNewsEstimator)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com)
 
 - GPT-4.1 Nano sentiment scoring on **500K+ Korean financial news** articles
 - Long-short portfolio construction: **11.91% return** vs KOSPI -14.43%
 - Performance evaluation with Sharpe, Sortino, and drawdown metrics
-
-**Tech Stack**: Python, pandas, NumPy, OpenAI API, Matplotlib, Seaborn
 
 ---
 
@@ -267,4 +235,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=transparent&height=60&text=&fontSize=1)
