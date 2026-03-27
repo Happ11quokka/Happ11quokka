@@ -212,7 +212,7 @@
 | **Hackathon Ideathon 1st Place** | FORIF Programming Club | Dec 2025 |
 | **Demo Day Challenge Track 3rd** | HySpark Startup Club | Jul 2025 |
 | **External Scholarship** | Myungin Multicultural Foundation | Jun 2025 |
-| **Cryptography Competition 2nd** | Hanyang University | Oct 2025 |
+| **Cryptography Competition 2nd** | Hanyang University | Oct 2024 |
 | **Startup Academy Excellence** | Hanyang University | Dec 2024 |
 
 </div>
