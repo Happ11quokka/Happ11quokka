@@ -19,7 +19,7 @@
 > **"A person who completes plans from problem definition to execution -- across platforms, languages, and cultures."**
 
 - **Software Engineer Intern** -- Currently building cross-platform apps at a Beijing-based startup using Claude Code
-- **Full-Stack Mobile Developer** -- Shipped **Perch** to the App Store (250+ users); Advanced in **iOS (Swift/SwiftUI)** and **Flutter/Dart**
+- **Full-Stack Mobile Developer** -- Shipped **Perch** to the App Store (300+ users); Advanced in **iOS (Swift/SwiftUI)** and **Flutter/Dart**
 - **AI/ML Engineer** -- LLM integration (RAG, quantization), Computer Vision (YOLO), GPT sentiment analysis on 500K+ articles
 - **Published Researcher** -- Co-authored paper accepted at **APAF Conference** on LLM-driven investment strategies
 - **Hackathon Grand Prize Winner** -- 현대 NGV HYPER AI 해커톤 최우수상
@@ -129,7 +129,7 @@
 
 `2025 - Present` | **Team Lead & App Developer**
 
-- Deployed to **App Store** with **250+ registered users**; secured funding from Hanyang University Startup Support Center
+- Deployed to **App Store** with **300+ registered users**; secured funding from Hanyang University Startup Support Center
 - Developed proprietary **Bird Health Index (BHI)** algorithm analyzing weight, food, and water intake data
 - AI health consultations powered by **OpenAI + LangChain RAG**
 - Multi-language support (Korean, English, Chinese)
@@ -208,10 +208,11 @@
 | Award | Organization | Date |
 |:-----:|:------------:|:----:|
 | **Grand Prize** | Hyundai NGV HYPER AI Hackathon | Jan 2026 |
+| **Excellence Award** | AWS KIROTHON Hackathon | Mar 2026 |
 | **Hackathon Ideathon 1st Place** | FORIF Programming Club | Dec 2025 |
 | **Demo Day Challenge Track 3rd** | HySpark Startup Club | Jul 2025 |
 | **External Scholarship** | Myungin Multicultural Foundation | Jun 2025 |
-| **Cryptography Competition 2nd** | Hanyang University | Oct 2024 |
+| **Cryptography Competition 2nd** | Hanyang University | Oct 2025 |
 | **Startup Academy Excellence** | Hanyang University | Dec 2024 |
 
 </div>
