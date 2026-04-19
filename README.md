@@ -167,6 +167,17 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev)
 
+<sub><b>⏳ Planned AWS stack</b></sub>
+
+[![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logoColor=white)](https://aws.amazon.com/amplify/)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logoColor=white)](https://aws.amazon.com/bedrock/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logoColor=white)](https://aws.amazon.com/lambda/)
+[![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logoColor=white)](https://aws.amazon.com/api-gateway/)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logoColor=white)](https://aws.amazon.com/s3/)
+[![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logoColor=white)](https://aws.amazon.com/cognito/)
+[![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logoColor=white)](https://aws.amazon.com/cloudfront/)
+
 `AI Agent & Frontend` · `Mar 2026` · **AWS KIROTHON 우수상**
 
 > A bento-style hub where university students archive projects, discover hackathons, and get AI-matched teammates.
