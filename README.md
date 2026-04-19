@@ -17,7 +17,7 @@
 ## 🦘 Hi, I'm Donghyun — a happy quokka building things people want to use.
 
 - 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — building cross-platform apps with Claude Code
-- 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app, live on the App Store with **300+ users**
+- 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app on the App Store · **500+ users · 100+ DAU**
 - 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026) · 1st Place @ FORIF Ideathon (Dec 2025)
 - 🌏 &nbsp;Korean · Chinese (native) · English (professional)
@@ -40,7 +40,7 @@
 - 🔨 &nbsp;Shipping new features for **Perch** after Apple Watch integration planning
 - 📱 &nbsp;Building Shopify storefronts & admin dashboards for the Beijing team's indie brands
 - 📚 &nbsp;Researching **retrieval ↔ decoding time ratio** in RAG systems (Prism benchmark)
-- ✍️ &nbsp;Translating CN↔KR articles for NewsHYU — currently **700+ and counting**
+- ✍️ &nbsp;Translating CN↔KR articles for NewsHYU — currently **1000+ and counting**
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- QUICK STATS                                             -->
@@ -50,10 +50,10 @@
 
 <table>
   <tr>
-    <td align="center" width="160">🚀<br/><b>300+</b><br/>Perch users<br/><sub>App Store</sub></td>
+    <td align="center" width="160">🚀<br/><b>500+</b><br/>Perch users<br/><sub>App Store · 100+ DAU</sub></td>
     <td align="center" width="160">📄<br/><b>APAF '25</b><br/>Paper accepted<br/><sub>Co-authored</sub></td>
     <td align="center" width="160">🏆<br/><b>Grand Prize</b><br/>Hyundai NGV<br/><sub>HYPER AI</sub></td>
-    <td align="center" width="160">🌐<br/><b>700+</b><br/>Articles translated<br/><sub>CN ↔ KR</sub></td>
+    <td align="center" width="160">🌐<br/><b>1000+</b><br/>Articles translated<br/><sub>CN ↔ KR</sub></td>
   </tr>
 </table>
 
@@ -103,18 +103,22 @@
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
 [![Website](https://img.shields.io/badge/Website-perch.ai.kr-FF9A42?style=flat-square)](https://perch.ai.kr/ko)
 [![Repo](https://img.shields.io/badge/Repo-perch__care-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/perch_care)
-[![Flutter](https://img.shields.io/badge/Flutter-3.8-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-3.8.1-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Riverpod](https://img.shields.io/badge/Riverpod-2.6-0553B1?style=flat-square)](https://riverpod.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2Bpgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![OpenAI](https://img.shields.io/badge/OpenAI%20%2B%20GPT--4V-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Firebase](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
 
-`Team Lead & App Developer` · `2025 – Present`
+`Team Lead & App Developer` · `2025 – Present` · `v2.0.1`
 
 > I couldn't find a single app that helped new bird owners spot early warning signs. So I built one.
 
-- 🟢 &nbsp;**Live on the App Store** with **300+ registered users**; funded by Hanyang University Startup Support Center
-- 📈 &nbsp;Proprietary **Bird Health Index (BHI)** analyzing weight, food, and water intake
-- 🤖 &nbsp;AI health consultations powered by **OpenAI + LangChain RAG**
-- 🌐 &nbsp;Multi-language (Korean · English · Chinese)
+- 🟢 &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
+- 📈 &nbsp;Proprietary **Bird Health Index (BHI)** — composite of weight (60%) / food (25%) / water (15%)
+- 🤖 &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
+- 🏗️ &nbsp;**MVVM 5-layer** (adopted Apr 2026) + 4-tier cache-first fallback + offline sync queue; **178/178 tests passing**
+- 🌐 &nbsp;KR · EN · 中文 (auto-locale) · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
 
 ---
 
@@ -225,7 +229,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 - **Results**: +11.91% return (Sharpe 0.38) vs KOSPI −14.43% · Published at APAF
 
 **Global Communicator (Translator)** · Hanyang University Media Strategy Team GCC &nbsp; `Jan 2025 – Present`
-- Translated **700+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
+- Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
 - Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
 <!-- ══════════════════════════════════════════════════════ -->
