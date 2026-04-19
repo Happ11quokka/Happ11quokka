@@ -114,7 +114,7 @@
 
 > I couldn't find a single app that helped new bird owners spot early warning signs. So I built one.
 
-- 🟢 &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
 - 📈 &nbsp;Proprietary **Bird Health Index (BHI)** — composite of weight (60%) / food (25%) / water (15%)
 - 🤖 &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
 - 🏗️ &nbsp;**MVVM 5-layer** (adopted Apr 2026) + 4-tier cache-first fallback + offline sync queue; **178/178 tests passing**
