@@ -98,30 +98,6 @@
 
 ## 🌟 Featured Work
 
-### 🐦 Perch — keep your pet bird healthy, before it's too late <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
-
-[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
-[![Website](https://img.shields.io/badge/Website-perch.ai.kr-FF9A42?style=flat-square)](https://perch.ai.kr/ko)
-[![Repo](https://img.shields.io/badge/Repo-perch__care-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/perch_care)
-[![Flutter](https://img.shields.io/badge/Flutter-3.8.1-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
-[![Riverpod](https://img.shields.io/badge/Riverpod-2.6-0553B1?style=flat-square)](https://riverpod.dev)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2Bpgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![OpenAI](https://img.shields.io/badge/OpenAI%20%2B%20GPT--4V-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
-[![Firebase](https://img.shields.io/badge/Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-
-`Team Lead & App Developer` · `2025 – Present` · `v2.0.1`
-
-> I couldn't find a single app that helped new bird owners spot early warning signs. So I built one.
-
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
-- 📈 &nbsp;Proprietary **Bird Health Index (BHI)** — composite of weight (60%) / food (25%) / water (15%)
-- 🤖 &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
-- 🏗️ &nbsp;**MVVM 5-layer** (adopted Apr 2026) + 4-tier cache-first fallback + offline sync queue; **178/178 tests passing**
-- 🌐 &nbsp;KR · EN · 中文 (auto-locale) · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
-
----
-
 ### 🏠 HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/lg-electronics-logo.svg" alt="LG Electronics" />
 
 [![Repo](https://img.shields.io/badge/Repo-SWE--G04--SPACE-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
@@ -248,6 +224,13 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 <!-- ══════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
+
+**CEO & Developer** · Perch · Seoul &nbsp; `2025 – Present` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
+- 🤖 &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
+- 🏗️ &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
+- 📄 &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
+- 🔗 &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
 
 **Software Engineer Intern** · Cognitive Beyond (Beijing) Technology Co., Ltd. · Remote &nbsp; `Jan 2026 – Present`
 - Developing cross-platform iOS/Android applications using **Claude Code**, accelerating feature delivery in a remote-first team
