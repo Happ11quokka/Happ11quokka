@@ -128,8 +128,11 @@
 
 `Remote` · `Jan 2026 – Present`
 
-- Developing cross-platform iOS/Android applications using **Claude Code**, accelerating feature delivery in a remote-first team
-- Building **Shopify-based e-commerce** storefronts and admin dashboards for independent brand operations
+> Shipping AI-native web products end-to-end in a remote-first, Claude-Code-driven workflow — marketing agents, conversion funnels, and personalized SaaS.
+
+- 🤖 &nbsp;**Profita Web** — marketing site for **Profita**, an AI Marketing Agent SaaS delivering full-funnel **ROAS optimization** for indie developers & small game studios. **Next.js 16 · React 19 · TypeScript 5 · Tailwind 4 · Supabase**; 99 components (31 server / 68 client), 21 keyframe animations, **parameter-driven interactive demo**, bilingual (en/zh) routing via `next-intl`, and the full design-token system (Spotify-dark aesthetic)
+- 🏋️ &nbsp;**Daily-Fit** — full-stack **28-day personalized fat-loss platform**; **15–30-step onboarding quiz** across 8 input types, **async OpenAI pipeline** producing structured workout + diet plans, **Shopify webhook payment** integration hardened end-to-end
+- 🛒 &nbsp;**Zenmotion** — Shopify **Horizon v3.2.1** direct-response digital-course funnel (**15 custom Liquid sections**, PAS conversion framework); shipped an **automated Shopify deploy agent**, **AJAX instant cart**, and full-funnel ecommerce event tracking
 
 ---
 
