@@ -98,23 +98,41 @@
 
 ## 💼 Experience
 
-**CEO & Developer** · Perch · Seoul &nbsp; `2025 – Present` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
+### 🐦 Perch — CEO & Developer <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
+
+`Seoul` · `2025 – Present`
+
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
 - 🤖 &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
 - 🏗️ &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
 - 📄 &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
 - 🔗 &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
 
-**Software Engineer Intern** · Cognitive Beyond (Beijing) Technology Co., Ltd. · Remote &nbsp; `Jan 2026 – Present`
+---
+
+### 💼 Cognitive Beyond (Beijing) — Software Engineer Intern
+
+`Remote` · `Jan 2026 – Present`
+
 - Developing cross-platform iOS/Android applications using **Claude Code**, accelerating feature delivery in a remote-first team
 - Building **Shopify-based e-commerce** storefronts and admin dashboards for independent brand operations
 
-**Undergraduate Research Intern** · Hanyang University Business School — Quantitative Analytics Lab · Seoul &nbsp; `Mar 2025 – Jul 2025` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
+---
+
+### 📊 Hanyang Quant Analytics Lab — Undergraduate Research Intern <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
+
+`Seoul` · `Mar 2025 – Jul 2025`
+
 - Designed and backtested **long-short (equity-neutral) strategy** using GPT-4.1 Nano news sentiment
 - Processed 500,000+ news articles, refined multi-dimensional verification by size/style/sector
 - **Results**: +11.91% return (Sharpe 0.38) vs KOSPI −14.43% · Published at APAF
 
-**Global Communicator (Translator)** · Hanyang University Media Strategy Team GCC &nbsp; `Jan 2025 – Present` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
+---
+
+### 📰 Hanyang Media Strategy Team GCC — Global Communicator (Translator) <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
+
+`Seoul` · `Jan 2025 – Present`
+
 - Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
 - Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
@@ -124,8 +142,10 @@
 
 ## 🎓 Education
 
-**Hanyang University** · Seoul, Korea &nbsp; `Sep 2021 – Present (Senior)` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
-*B.S. in Computer Science* · GPA 3.36 / 4.5
+### 🎓 Hanyang University — B.S. in Computer Science <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
+
+`Seoul, Korea` · `Sep 2021 – Present (Senior)` · `GPA 3.36 / 4.5`
+
 *Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
 
 <details>
