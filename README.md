@@ -178,7 +178,7 @@
 
 ## 📄 Research
 
-**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo.png" alt="Hanyang University" />
+**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
 *Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
 
 > Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
@@ -201,7 +201,7 @@
 
 ## 🎓 Education
 
-**Hanyang University** · Seoul, Korea &nbsp; `Sep 2021 – Present (Senior)` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo.png" alt="Hanyang University" />
+**Hanyang University** · Seoul, Korea &nbsp; `Sep 2021 – Present (Senior)` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
 *B.S. in Computer Science* · GPA 3.36 / 4.5
 *Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
 
@@ -223,7 +223,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 - Developing cross-platform iOS/Android applications using **Claude Code**, accelerating feature delivery in a remote-first team
 - Building **Shopify-based e-commerce** storefronts and admin dashboards for independent brand operations
 
-**Undergraduate Research Intern** · Hanyang University Business School — Quantitative Analytics Lab · Seoul &nbsp; `Mar 2025 – Jul 2025` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo.png" alt="Hanyang University" />
+**Undergraduate Research Intern** · Hanyang University Business School — Quantitative Analytics Lab · Seoul &nbsp; `Mar 2025 – Jul 2025` <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
 - Designed and backtested **long-short (equity-neutral) strategy** using GPT-4.1 Nano news sentiment
 - Processed 500,000+ news articles, refined multi-dimensional verification by size/style/sector
 - **Results**: +11.91% return (Sharpe 0.38) vs KOSPI −14.43% · Published at APAF
