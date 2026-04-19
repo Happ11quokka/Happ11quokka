@@ -275,6 +275,11 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [초거대 언어 모델&lpar;LLM&rpar; 압축 Compressing Large LanguageModels](https://hpyquokka.tistory.com/entry/CLLM)
+- [Breaking Scaling Law: &amp;ldquo;크게&amp;rdquo;에서 &amp;ldquo;똑똑하게/싸게&amp;rdquo;로 &amp;mdash; Distillation로 가는 길](https://hpyquokka.tistory.com/entry/Breaking-Scaling-Law-%E2%80%9C%ED%81%AC%EA%B2%8C%E2%80%9D%EC%97%90%EC%84%9C-%E2%80%9C%EB%98%91%EB%98%91%ED%95%98%EA%B2%8C%EC%8B%B8%EA%B2%8C%E2%80%9D%EB%A1%9C-%E2%80%94-Distillation%EB%A1%9C-%EA%B0%80%EB%8A%94-%EA%B8%B8)
+- [Lightweight LLM: &amp;ldquo;스케일링 이후&amp;rdquo;의 승부처는 &amp;lsquo;작게, 빠르게, 싸게&amp;rsquo;였다](https://hpyquokka.tistory.com/entry/Lightweight-LLM-%E2%80%9C%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%EC%9D%B4%ED%9B%84%E2%80%9D%EC%9D%98-%EC%8A%B9%EB%B6%80%EC%B2%98%EB%8A%94-%E2%80%98%EC%9E%91%EA%B2%8C-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C%E2%80%99%EC%98%80%EB%8B%A4)
+- [경량화 LLM/SLM, 이제 &amp;ldquo;작게 잘 쓰는&amp;rdquo; 게 전략이다](https://hpyquokka.tistory.com/entry/%EA%B2%BD%EB%9F%89%ED%99%94-LLMSLM-%EC%9D%B4%EC%A0%9C-%E2%80%9C%EC%9E%91%EA%B2%8C-%EC%9E%98-%EC%93%B0%EB%8A%94%E2%80%9D-%EA%B2%8C-%EC%A0%84%EB%9E%B5%EC%9D%B4%EB%8B%A4)
+- [|산업 AI| 영상&amp;middot;음성 데이터 처리 및 멀티모달 병합](https://hpyquokka.tistory.com/entry/%EC%82%B0%EC%97%85-AI-%EC%98%81%EC%83%81%C2%B7%EC%9D%8C%EC%84%B1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%B3%91%ED%95%A9)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hpyquokka.tistory.com](https://hpyquokka.tistory.com/)
