@@ -16,7 +16,7 @@
 
 ## 🦘 Hi, I'm Donghyun — a happy quokka building things people want to use.
 
-- 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — building cross-platform apps with Claude Code
+- 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — specializing in **Harness Engineering** for production AI agents & Shopify e-commerce
 - 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app on the App Store · **500+ users · 100+ DAU**
 - 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026) · 1st Place @ FORIF Ideathon (Dec 2025)
@@ -99,7 +99,7 @@
 | **Frontend** | React / Next.js, TypeScript | Intermediate |
 | **Backend** | FastAPI, Supabase, Firebase, PostgreSQL | Intermediate |
 | **AWS Cloud** | Amplify · Bedrock · Lambda · API Gateway · DynamoDB · S3 · Cognito · CloudFront | Intermediate |
-| **Agentic Dev Tools** | Kiro (AWS agentic IDE), Claude Code, MCP | Advanced |
+| **Agentic Dev Tools** | Kiro (AWS agentic IDE), MCP, Harness Engineering | Advanced |
 | **Design** | Figma | Advanced |
 
 </div>
@@ -128,7 +128,7 @@
 
 `Remote` · `Jan 2026 – Present`
 
-> Shipping AI-native web products end-to-end in a remote-first, Claude-Code-driven workflow — marketing agents, conversion funnels, and personalized SaaS.
+> Shipping AI-native web products end-to-end in a remote-first, **Harness-Engineering-driven** workflow — marketing agents, conversion funnels, and personalized SaaS.
 
 - 🤖 &nbsp;**Profita** — co-designed the **Marketing Agent pipeline** of an AI-native **full-chain ROAS engine** for indie game devs; five agent modules — **Creative** (competitor scraping, multi-aspect repurpose, 20+ language voiceover), **Distribution** (smart-bid experiments, fraud filter), **Attribution** (SKAN automation, MMP integration), **Monetization** (Waterfall tiering, SDK bundling), **Segmentation** (PPP pricing, whale tagging); also shipped the **D0–D28 ROAS interactive demo** + Next.js 16 / Supabase marketing site
 - 🏋️ &nbsp;**Daily-Fit** — full-stack **28-day personalized fat-loss platform**; **15–30-step onboarding quiz** across 8 input types, **async OpenAI pipeline** producing structured workout + diet plans, **Shopify webhook payment** integration hardened end-to-end
