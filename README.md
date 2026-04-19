@@ -213,6 +213,11 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 [![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
 [![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
 [![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)](https://docs.ultralytics.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)](https://roboflow.com)
+[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://www.gradio.app)
+[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://smith.langchain.com)
 
 `Hanyang × Hyundai NGV` · `Jan 2026` · **최우수상**
 
@@ -231,6 +236,12 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Python](https://img.shields.io/badge/Python_3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)](https://xgboost.ai)
+[![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/I9-Sp5B4hgw)
 
 `iOS/watchOS Dev · Supabase DB · UI/UX` · `Sep–Dec 2025` · `Hanyang × LG Electronics IC-PBL`
 
