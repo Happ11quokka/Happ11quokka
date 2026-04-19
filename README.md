@@ -19,7 +19,7 @@
 - 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — building cross-platform apps with Claude Code
 - 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app, live on the App Store with **300+ users**
 - 📄 &nbsp;**Published Researcher** — APAF 2026 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
-- 🏆 &nbsp;**Hackathon Grand Prize** — Hyundai NGV HYPER AI, Jan 2026
+- 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026)
 - 🌏 &nbsp;Korean · Chinese (native) · English (professional)
 
 <br/>
