@@ -262,7 +262,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 📄 Research
 
-**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
+**[APAF 2025](https://www.kafe2023.org/bbs/reference/254) — GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
 *Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
 
 > Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
