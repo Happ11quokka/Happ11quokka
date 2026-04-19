@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=A+happy+quokka+building+things+people+want;Shipped+Perch+to+the+App+Store+%F0%9F%93%B1;Paper+accepted+at+APAF+2026+%F0%9F%93%84;Hyundai+NGV+HYPER+AI+%E2%80%A2+Grand+Prize+%F0%9F%8F%86;When+prediction+becomes+free%2C+judgment+becomes+priceless)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=A+happy+quokka+building+things+people+want;Shipped+Perch+to+the+App+Store+%F0%9F%93%B1;Paper+accepted+at+APAF+2025+%F0%9F%93%84;Hyundai+NGV+HYPER+AI+%E2%80%A2+Grand+Prize+%F0%9F%8F%86;When+prediction+becomes+free%2C+judgment+becomes+priceless)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,8 +18,8 @@
 
 - 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — building cross-platform apps with Claude Code
 - 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app, live on the App Store with **300+ users**
-- 📄 &nbsp;**Published Researcher** — APAF 2026 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
-- 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026)
+- 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
+- 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026) · 1st Place @ FORIF Ideathon (Dec 2025)
 - 🌏 &nbsp;Korean · Chinese (native) · English (professional)
 
 <br/>
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td align="center" width="160">🚀<br/><b>300+</b><br/>Perch users<br/><sub>App Store</sub></td>
-    <td align="center" width="160">📄<br/><b>APAF '26</b><br/>Paper accepted<br/><sub>Co-authored</sub></td>
+    <td align="center" width="160">📄<br/><b>APAF '25</b><br/>Paper accepted<br/><sub>Co-authored</sub></td>
     <td align="center" width="160">🏆<br/><b>Grand Prize</b><br/>Hyundai NGV<br/><sub>HYPER AI</sub></td>
     <td align="center" width="160">🌐<br/><b>700+</b><br/>Articles translated<br/><sub>CN ↔ KR</sub></td>
   </tr>
@@ -174,7 +174,7 @@
 
 ## 📄 Research
 
-**[APAF 2026] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities**
+**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities**
 *Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
 
 > Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
