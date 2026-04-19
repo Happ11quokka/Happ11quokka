@@ -142,42 +142,6 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🌟 Featured Work
 
-### 🏠 HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/lg-electronics-logo.svg" alt="LG Electronics" />
-
-[![Repo](https://img.shields.io/badge/Repo-SWE--G04--SPACE-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
-[![Notion](https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion)](https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-
-`iOS/watchOS Dev · Supabase DB · UI/UX` · `Sep–Dec 2025` · `Hanyang × LG Electronics IC-PBL`
-
-> A multimodal smart-home iPhone + Apple Watch app that adjusts your home to how tired you are.
-
-- ⌚ &nbsp;**Real-time fatigue analysis** — Apple Watch HRV → XGBoost fatigue level (1–4)
-- 💡 &nbsp;**LLM appliance control** — GPT-4o → Sendbird chat suggestions
-- 📍 &nbsp;**Geofence auto-trigger** — 100m geofence + distance pattern detection
-- 🎯 &nbsp;Delivered final prototype demo to **LG Electronics** panel
-
----
-
-### 🏭 dAIso — Manufacturing AI Agent · 🏆 Grand Prize <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" alt="Hyundai NGV" />
-
-[![Repo](https://img.shields.io/badge/Repo-manufacturing--ai--agent-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent)
-[![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
-[![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)](https://docs.ultralytics.com)
-
-`Hanyang × Hyundai NGV` · `Jan 2026` · **최우수상**
-
-> A multimodal LLM agent that classifies manufacturing defects with human-level reasoning.
-
-- 🔁 &nbsp;**Two-Stage Prompting** architecture — YOLO detection → GPT-4o analysis
-- 🔍 &nbsp;Confidence-based conditional recheck with 4 preprocessing tools
-- 🗳️ &nbsp;Weighted voting system for final judgment
-
----
-
 ### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png" alt="AWS" />
 
 [![Repo](https://img.shields.io/badge/Repo-hackathon--store-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hackathon-store)
@@ -206,6 +170,42 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 - 📅 &nbsp;**Event board** — hackathon & competition status tracking with deep links
 - 🧑‍🤝‍🧑 &nbsp;**Team recruiting** — post, browse, and apply to teammate calls
 - ✅ &nbsp;**Property-based testing** with Vitest + Testing Library + fast-check
+
+---
+
+### 🏭 dAIso — Manufacturing AI Agent · 🏆 Grand Prize <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" alt="Hyundai NGV" />
+
+[![Repo](https://img.shields.io/badge/Repo-manufacturing--ai--agent-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent)
+[![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
+[![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)](https://docs.ultralytics.com)
+
+`Hanyang × Hyundai NGV` · `Jan 2026` · **최우수상**
+
+> A multimodal LLM agent that classifies manufacturing defects with human-level reasoning.
+
+- 🔁 &nbsp;**Two-Stage Prompting** architecture — YOLO detection → GPT-4o analysis
+- 🔍 &nbsp;Confidence-based conditional recheck with 4 preprocessing tools
+- 🗳️ &nbsp;Weighted voting system for final judgment
+
+---
+
+### 🏠 HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/lg-electronics-logo.svg" alt="LG Electronics" />
+
+[![Repo](https://img.shields.io/badge/Repo-SWE--G04--SPACE-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
+[![Notion](https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion)](https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+
+`iOS/watchOS Dev · Supabase DB · UI/UX` · `Sep–Dec 2025` · `Hanyang × LG Electronics IC-PBL`
+
+> A multimodal smart-home iPhone + Apple Watch app that adjusts your home to how tired you are.
+
+- ⌚ &nbsp;**Real-time fatigue analysis** — Apple Watch HRV → XGBoost fatigue level (1–4)
+- 💡 &nbsp;**LLM appliance control** — GPT-4o → Sendbird chat suggestions
+- 📍 &nbsp;**Geofence auto-trigger** — 100m geofence + distance pattern detection
+- 🎯 &nbsp;Delivered final prototype demo to **LG Electronics** panel
 
 ---
 
