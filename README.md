@@ -98,7 +98,7 @@
 
 ## 🌟 Featured Work
 
-### 🐦 Perch — keep your pet bird healthy, before it's too late &nbsp;<img src="https://perch.ai.kr/images/brand/logo.svg" alt="Perch" height="22" align="center" />
+### 🐦 Perch — keep your pet bird healthy, before it's too late <img align="right" height="40" src="./assets/perch-logo.svg" alt="Perch" />
 
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
 [![Website](https://img.shields.io/badge/Website-perch.ai.kr-FF9A42?style=flat-square)](https://perch.ai.kr/ko)
@@ -122,7 +122,7 @@
 
 ---
 
-### 🏠 HARU — Home Adaptive Routine Understanding &nbsp;<img src="https://cdn.simpleicons.org/lg/A50034" alt="LG Electronics" height="22" align="center" />
+### 🏠 HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://cdn.simpleicons.org/lg/A50034" alt="LG Electronics" />
 
 [![Repo](https://img.shields.io/badge/Repo-SWE--G04--SPACE-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
 [![Notion](https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion)](https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40)
@@ -141,7 +141,7 @@
 
 ---
 
-### 🏭 dAIso — Manufacturing AI Agent · 🏆 Grand Prize &nbsp;<img src="https://cdn.simpleicons.org/hyundai/002C5F" alt="Hyundai" height="22" align="center" />
+### 🏭 dAIso — Manufacturing AI Agent · 🏆 Grand Prize <img align="right" height="40" src="https://cdn.simpleicons.org/hyundai/002C5F" alt="Hyundai" />
 
 [![Repo](https://img.shields.io/badge/Repo-manufacturing--ai--agent-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent)
 [![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
@@ -178,7 +178,7 @@
 
 ## 📄 Research
 
-**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** &nbsp;<img src="https://www.hanyang.ac.kr/o/hyu_homepage-theme/images/icons/logo_global.png" alt="Hanyang University" height="24" align="center" />
+**[APAF 2025] GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <img align="right" height="40" src="./assets/hanyang-logo.png" alt="Hanyang University" />
 *Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
 
 > Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
@@ -201,7 +201,7 @@
 
 ## 🎓 Education
 
-**Hanyang University** · Seoul, Korea &nbsp;<img src="https://www.hanyang.ac.kr/o/hyu_homepage-theme/images/icons/logo_global.png" alt="Hanyang University" height="22" align="center" />&nbsp; `Sep 2021 – Present (Senior)`
+**Hanyang University** · Seoul, Korea &nbsp; `Sep 2021 – Present (Senior)` <img align="right" height="40" src="./assets/hanyang-logo.png" alt="Hanyang University" />
 *B.S. in Computer Science* · GPA 3.36 / 4.5
 *Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
 
@@ -219,16 +219,16 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 💼 Experience
 
-**Software Engineer Intern** · Cognitive Beyond (Beijing) Technology Co., Ltd. · Remote &nbsp;<img src="https://img.shields.io/badge/-Cognitive%20Beyond-8B5CF6?style=flat-square" alt="Cognitive Beyond" height="20" align="center" />&nbsp; `Jan 2026 – Present`
+**Software Engineer Intern** · Cognitive Beyond (Beijing) Technology Co., Ltd. · Remote &nbsp; `Jan 2026 – Present` <img align="right" height="40" src="https://twemoji.maxcdn.com/v/latest/72x72/1f3e2.png" alt="Company" />
 - Developing cross-platform iOS/Android applications using **Claude Code**, accelerating feature delivery in a remote-first team
 - Building **Shopify-based e-commerce** storefronts and admin dashboards for independent brand operations
 
-**Undergraduate Research Intern** · Hanyang University Business School — Quantitative Analytics Lab · Seoul &nbsp;<img src="https://www.hanyang.ac.kr/o/hyu_homepage-theme/images/icons/logo_global.png" alt="Hanyang University" height="22" align="center" />&nbsp; `Mar 2025 – Jul 2025`
+**Undergraduate Research Intern** · Hanyang University Business School — Quantitative Analytics Lab · Seoul &nbsp; `Mar 2025 – Jul 2025` <img align="right" height="40" src="./assets/hanyang-logo.png" alt="Hanyang University" />
 - Designed and backtested **long-short (equity-neutral) strategy** using GPT-4.1 Nano news sentiment
 - Processed 500,000+ news articles, refined multi-dimensional verification by size/style/sector
 - **Results**: +11.91% return (Sharpe 0.38) vs KOSPI −14.43% · Published at APAF
 
-**Global Communicator (Translator)** · Hanyang University Media Strategy Team GCC &nbsp;<img src="https://cdn.newshyu.com/image/logo/favicon.png" alt="NewsHYU" height="22" align="center" />&nbsp; `Jan 2025 – Present`
+**Global Communicator (Translator)** · Hanyang University Media Strategy Team GCC &nbsp; `Jan 2025 – Present` <img align="right" height="40" src="./assets/newshyu-logo.png" alt="NewsHYU" />
 - Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
 - Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
