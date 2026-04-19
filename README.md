@@ -158,6 +158,27 @@
 
 ---
 
+### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png" alt="AWS" />
+
+[![Repo](https://img.shields.io/badge/Repo-hackathon--store-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hackathon-store)
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
+[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev)
+
+`AI Agent & Frontend` · `Mar 2026` · **AWS KIROTHON 우수상**
+
+> A bento-style hub where university students archive projects, discover hackathons, and get AI-matched teammates.
+
+- 🤖 &nbsp;**AI chat concierge** — project recommendations, event search, team matching, Vibe Coding guide
+- 📚 &nbsp;**Project archive** — card grid with full-text search + category/stack filters
+- 📅 &nbsp;**Event board** — hackathon & competition status tracking with deep links
+- 🧑‍🤝‍🧑 &nbsp;**Team recruiting** — post, browse, and apply to teammate calls
+- ✅ &nbsp;**Property-based testing** with Vitest + Testing Library + fast-check
+
+---
+
 <details>
 <summary><b>📦 More projects</b></summary>
 <br/>
@@ -168,7 +189,6 @@
 | **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
 | **Motor Sticker Detection** | Vision-based quality inspection | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
 | **koplegame** | Real-time hint-based PWA matching game | Next.js 15 · Firebase · Tailwind | [GitHub](https://github.com/Happ11quokka/koplegame) |
-| **hackathon-store** | Univ. project archive + AI recommendation | TypeScript | [GitHub](https://github.com/Happ11quokka/hackathon-store) |
 
 </details>
 
