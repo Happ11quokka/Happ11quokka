@@ -358,7 +358,7 @@ LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
 
 <br clear="all" />
 
-<img align="right" height="40" src="https://www.nxc.com/images/header/logo_title.png" alt="Nexon" />
+<img align="right" height="40" src="https://cdn.simpleicons.org/nexon/EB0029" alt="Nexon" />
 
 **Mentor**  
 Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
