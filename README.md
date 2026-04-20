@@ -117,10 +117,10 @@
 `Seoul` · `2025 – Present`
 
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **500+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
-- <img src="https://api.iconify.design/lucide:layers.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
-- <img src="https://api.iconify.design/lucide:file-text.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
-- <img src="https://api.iconify.design/lucide:link.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**RAG pipeline** on pgvector + `text-embedding-3-large`; **SSE-streamed** chat; **GPT-4V** image analysis (body, droppings, food safety)
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
+- <img src="https://api.iconify.design/lucide:file-text.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
+- <img src="https://api.iconify.design/lucide:link.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
 
 ---
 
@@ -130,9 +130,9 @@
 
 > Shipping AI-native web products end-to-end in a remote-first, **Harness-Engineering-driven** workflow — marketing agents, conversion funnels, and personalized SaaS.
 
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Profita** — co-designed the **Marketing Agent pipeline** of an AI-native **full-chain ROAS engine** for indie game devs; five agent modules — **Creative** (competitor scraping, multi-aspect repurpose, 20+ language voiceover), **Distribution** (smart-bid experiments, fraud filter), **Attribution** (SKAN automation, MMP integration), **Monetization** (Waterfall tiering, SDK bundling), **Segmentation** (PPP pricing, whale tagging); also shipped the **D0–D28 ROAS interactive demo** + Next.js 16 / Supabase marketing site
-- <img src="https://api.iconify.design/lucide:dumbbell.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Daily-Fit** — full-stack **28-day personalized fat-loss platform**; **15–30-step onboarding quiz** across 8 input types, **async OpenAI pipeline** producing structured workout + diet plans, **Shopify webhook payment** integration hardened end-to-end
-- <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Zenmotion** — Shopify **Horizon v3.2.1** direct-response digital-course funnel (**15 custom Liquid sections**, PAS conversion framework); shipped an **automated Shopify deploy agent**, **AJAX instant cart**, and full-funnel ecommerce event tracking
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Profita** — co-designed the **Marketing Agent pipeline** of an AI-native **full-chain ROAS engine** for indie game devs; five agent modules — **Creative** (competitor scraping, multi-aspect repurpose, 20+ language voiceover), **Distribution** (smart-bid experiments, fraud filter), **Attribution** (SKAN automation, MMP integration), **Monetization** (Waterfall tiering, SDK bundling), **Segmentation** (PPP pricing, whale tagging); also shipped the **D0–D28 ROAS interactive demo** + Next.js 16 / Supabase marketing site
+- <img src="https://api.iconify.design/lucide:dumbbell.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Daily-Fit** — full-stack **28-day personalized fat-loss platform**; **15–30-step onboarding quiz** across 8 input types, **async OpenAI pipeline** producing structured workout + diet plans, **Shopify webhook payment** integration hardened end-to-end
+- <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Zenmotion** — Shopify **Horizon v3.2.1** direct-response digital-course funnel (**15 custom Liquid sections**, PAS conversion framework); shipped an **automated Shopify deploy agent**, **AJAX instant cart**, and full-funnel ecommerce event tracking
 
 ---
 
@@ -201,12 +201,12 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 > A bento-style hub where university students archive projects, discover hackathons, and get AI-matched teammates — **built end-to-end with [Kiro](https://kiro.dev), AWS's agentic IDE**.
 
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Harness engineering with Kiro** — spec-first pipeline (**requirements → design → tasks**), steering docs as version-controlled context, agent hooks automating lint/test/build gates; prompts and context treated as first-class artifacts alongside code
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**AI chat concierge** — project recommendations, event search, team matching, Vibe Coding guide
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Project archive** — card grid with full-text search + category/stack filters
-- <img src="https://api.iconify.design/lucide:calendar.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Event board** — hackathon & competition status tracking with deep links
-- <img src="https://api.iconify.design/lucide:users.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Team recruiting** — post, browse, and apply to teammate calls
-- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Property-based testing** with Vitest + Testing Library + fast-check
+- <img src="https://api.iconify.design/lucide:wrench.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Harness engineering with Kiro** — spec-first pipeline (**requirements → design → tasks**), steering docs as version-controlled context, agent hooks automating lint/test/build gates; prompts and context treated as first-class artifacts alongside code
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**AI chat concierge** — project recommendations, event search, team matching, Vibe Coding guide
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Project archive** — card grid with full-text search + category/stack filters
+- <img src="https://api.iconify.design/lucide:calendar.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Event board** — hackathon & competition status tracking with deep links
+- <img src="https://api.iconify.design/lucide:users.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Team recruiting** — post, browse, and apply to teammate calls
+- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Property-based testing** with Vitest + Testing Library + fast-check
 
 ---
 
@@ -226,9 +226,9 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 > A multimodal LLM agent that classifies manufacturing defects with human-level reasoning.
 
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Two-Stage Prompting** architecture — YOLO detection → GPT-4o analysis
-- <img src="https://api.iconify.design/lucide:search.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;Confidence-based conditional recheck with 4 preprocessing tools
-- <img src="https://api.iconify.design/lucide:vote.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;Weighted voting system for final judgment
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Two-Stage Prompting** architecture — YOLO detection → GPT-4o analysis
+- <img src="https://api.iconify.design/lucide:search.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Confidence-based conditional recheck with 4 preprocessing tools
+- <img src="https://api.iconify.design/lucide:vote.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Weighted voting system for final judgment
 
 ---
 
@@ -250,10 +250,10 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 > A multimodal smart-home iPhone + Apple Watch app that adjusts your home to how tired you are.
 
-- <img src="https://api.iconify.design/lucide:watch.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Real-time fatigue analysis** — Apple Watch HRV → XGBoost fatigue level (1–4)
-- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**LLM appliance control** — GPT-4o → Sendbird chat suggestions
-- <img src="https://api.iconify.design/lucide:map-pin.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;**Geofence auto-trigger** — 100m geofence + distance pattern detection
-- <img src="https://api.iconify.design/lucide:target.svg?color=%236366F1" width="16" height="16" alt="" /> &nbsp;Delivered final prototype demo to **LG Electronics** panel
+- <img src="https://api.iconify.design/lucide:watch.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Real-time fatigue analysis** — Apple Watch HRV → XGBoost fatigue level (1–4)
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**LLM appliance control** — GPT-4o → Sendbird chat suggestions
+- <img src="https://api.iconify.design/lucide:map-pin.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Geofence auto-trigger** — 100m geofence + distance pattern detection
+- <img src="https://api.iconify.design/lucide:target.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Delivered final prototype demo to **LG Electronics** panel
 
 ---
 
