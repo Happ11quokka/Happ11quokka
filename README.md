@@ -308,7 +308,6 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 | 🎯 | **1st Place Ideathon** | FORIF Programming Club | Dec 2025 |
 | ⭐ | **Startup Academy Excellence** | Hanyang University | Dec 2024 |
 | 🥉 | **Demo Day 3rd** | HySpark Startup Club | Jul 2025 |
-| 📜 | **External Scholarship** | Myungin Multicultural Foundation | Jun 2025 |
 | 🔐 | **Cryptography Competition 2nd** | Hanyang University | Oct 2024 |
 
 </div>
