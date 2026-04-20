@@ -360,7 +360,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Happ11quokka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=818cf8&point=ffffff&area=true&area_color=6366f1&radius=8" />
+  <img alt="contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Happ11quokka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=818cf8&point=ffffff&area=true&area_color=6366f1&radius=8&height=300" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════ -->
