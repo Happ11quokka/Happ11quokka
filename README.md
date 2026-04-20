@@ -303,12 +303,47 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🏆 Awards
 
-- <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" height="16" align="top" alt=""> &nbsp;**Excellence Award** — AWS KIROTHON Hackathon · Mar 2026
-- <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" height="16" align="top" alt=""> &nbsp;**Grand Prize** — Hyundai NGV HYPER AI Hackathon · Jan 2026
-- <img src="https://miro.medium.com/v2/resize:fit:1000/1*mf-jwKevXMylMBGzj3k2Gw.png" height="16" align="top" alt=""> &nbsp;**1st Place Ideathon** — FORIF Programming Club · Dec 2025
-- <img src="https://media.licdn.com/dms/image/v2/D560BAQE3ON0jLl1LUg/company-logo_200_200/company-logo_200_200/0/1738696219556/hyspark_logo?e=2147483647&v=beta&t=5M_oznsLnFgZegJim2GlLqnC5RXnBSIwKRuMVNXxFhA" height="16" align="top" alt=""> &nbsp;**Demo Day 3rd** — HySpark Startup Club · Jul 2025
-- <img src="https://startup.hanyang.ac.kr/assets/image/ci_img_3.png" height="16" align="top" alt=""> &nbsp;**Startup Academy Excellence** — Hanyang University · Dec 2024
-- <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" height="16" align="top" alt=""> &nbsp;**Cryptography Competition 2nd** — Hanyang University · Oct 2024
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" alt="AWS" />
+
+**🥈 Excellence Award**  
+AWS KIROTHON Hackathon · Mar 2026
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" alt="Hyundai NGV" />
+
+**🥇 Grand Prize**  
+Hyundai NGV HYPER AI Hackathon · Jan 2026
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://miro.medium.com/v2/resize:fit:1000/1*mf-jwKevXMylMBGzj3k2Gw.png" alt="FORIF" />
+
+**🎯 1st Place Ideathon**  
+FORIF Programming Club · Dec 2025
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://media.licdn.com/dms/image/v2/D560BAQE3ON0jLl1LUg/company-logo_200_200/company-logo_200_200/0/1738696219556/hyspark_logo?e=2147483647&v=beta&t=5M_oznsLnFgZegJim2GlLqnC5RXnBSIwKRuMVNXxFhA" alt="HySpark" />
+
+**🥉 Demo Day 3rd**  
+HySpark Startup Club · Jul 2025
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://startup.hanyang.ac.kr/assets/image/ci_img_3.png" alt="Hanyang Startup Academy" />
+
+**⭐ Startup Academy Excellence**  
+Hanyang University · Dec 2024
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="HUCC" />
+
+**🔐 Cryptography Competition 2nd**  
+HUCC (Hanyang University Cryptography Club) · Oct 2024
+
+<br clear="all" />
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- ACTIVITIES                                              -->
@@ -316,12 +351,47 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🚀 Activities & Leadership
 
-- <img src="https://www.law365ai.com/wp-content/uploads/2024/06/LG-AI-Research_Eng-1.dcc91d107b22fd499a22b701f193a70863e3ad80.png" height="16" align="top" alt=""> &nbsp;**Participant** — LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
-- <img src="https://www.nxc.com/images/header/logo_title.png" height="16" align="top" alt=""> &nbsp;**Mentor** — Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
-- <img src="https://media.licdn.com/dms/image/v2/D560BAQE3ON0jLl1LUg/company-logo_200_200/company-logo_200_200/0/1738696219556/hyspark_logo?e=2147483647&v=beta&t=5M_oznsLnFgZegJim2GlLqnC5RXnBSIwKRuMVNXxFhA" height="16" align="top" alt=""> &nbsp;**Member** — HySpark Startup Club (3rd) · 2024 – 2025
-- <img src="https://startup.hanyang.ac.kr/assets/image/ci_img_3.png" height="16" align="top" alt=""> &nbsp;**Member** — Hanyang Startup Academy (21st) · Sep – Dec 2024
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxL1BgRQVgS1HZekLoTtjmbffmb4-bWOD2cg&s" height="16" align="top" alt=""> &nbsp;**Member** — ICEWALL Security Club · Mar – Sep 2022
-- <img src="https://habitat.or.kr/superboard/data/siteconfig/2021111113191116366043511249.jpg" height="16" align="top" alt=""> &nbsp;**Activity Director** — Habitat for Humanity · Sep 2021 – Dec 2022
+<img align="right" height="40" src="https://www.law365ai.com/wp-content/uploads/2024/06/LG-AI-Research_Eng-1.dcc91d107b22fd499a22b701f193a70863e3ad80.png" alt="LG AI Research" />
+
+**Participant**  
+LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nexon_logo.svg/512px-Nexon_logo.svg.png" alt="Nexon" />
+
+**Mentor**  
+Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://media.licdn.com/dms/image/v2/D560BAQE3ON0jLl1LUg/company-logo_200_200/company-logo_200_200/0/1738696219556/hyspark_logo?e=2147483647&v=beta&t=5M_oznsLnFgZegJim2GlLqnC5RXnBSIwKRuMVNXxFhA" alt="HySpark" />
+
+**Member**  
+HySpark Startup Club (3rd) · 2024 – 2025
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://startup.hanyang.ac.kr/assets/image/ci_img_3.png" alt="Hanyang Startup Academy" />
+
+**Member**  
+Hanyang Startup Academy (21st) · Sep – Dec 2024
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxL1BgRQVgS1HZekLoTtjmbffmb4-bWOD2cg&s" alt="ICEWALL" />
+
+**Member**  
+ICEWALL Security Club · Mar – Sep 2022
+
+<br clear="all" />
+
+<img align="right" height="40" src="https://habitat.or.kr/superboard/data/siteconfig/2021111113191116366043511249.jpg" alt="Habitat" />
+
+**Activity Director**  
+Habitat for Humanity · Sep 2021 – Dec 2022
+
+<br clear="all" />
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- LATEST BLOG POSTS (auto, via blog-post-workflow)        -->
