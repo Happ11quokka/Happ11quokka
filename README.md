@@ -338,7 +338,7 @@ Hanyang University · Dec 2024
 
 <br clear="all" />
 
-<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="HUCC" />
+<img align="right" height="40" src="https://lh3.googleusercontent.com/sitesv/AA5AbUADeBIgPYioKNo_TUUpvSWlyx4r9gbtL0Ighpp6dZQNLPCuGFunRTVIr-KFMADLvvcNdFGuLz5usQuTQPoeNB5WLoYtwOd0Zmg1-i8wzGPSVoYatZp41u6CjN5it-ILumMjGNOBVO5lSROjlQZhfRJzaDkXkxxXQmWlpg3YB4ZjW4me2lG8SBFoNME=w16383" alt="HUCC" />
 
 **🔐 Cryptography Competition 2nd**  
 HUCC (Hanyang University Cryptography Club) · Oct 2024
@@ -358,7 +358,7 @@ LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
 
 <br clear="all" />
 
-<img align="right" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nexon_logo.svg/512px-Nexon_logo.svg.png" alt="Nexon" />
+<img align="right" height="40" src="https://www.nxc.com/images/header/logo_title.png" alt="Nexon" />
 
 **Mentor**  
 Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
