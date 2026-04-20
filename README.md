@@ -165,13 +165,17 @@
 
 *Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
 
-**🎖️ Scholarships**
+<details>
+<summary><b>🎖️ Scholarships</b></summary>
+<br/>
 
-- **위드다문화 장학생** — 2026년 1학기
-- **세아해암학술장학재단 커리어챌린지 장학생** — 2026년 1학기
-- **GCC 장학생** — 2025년 1월 ~ 현재
-- **창업기숙사장학금** — 2025년 1학기 ~ 2026년 1학기
-- **명인다문화 장학생** — 2025년 1학기
+- **With Multicultural Scholarship** — 2026 Spring
+- **Saehaeam Academic Foundation Career Challenge Scholarship** — 2026 Spring
+- **GCC (Global Communication Center) Scholarship** — Jan 2025 – Present
+- **Startup Dormitory Scholarship** — 2025 Spring – 2026 Spring
+- **Myungin Multicultural Scholarship** — 2025 Spring
+
+</details>
 
 <details>
 <summary><b>📚 Key Courses</b></summary>
