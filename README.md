@@ -179,7 +179,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🌟 Featured Work
 
-### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" />
+### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" alt="AWS" />
 
 [![Repo](https://img.shields.io/badge/Repo-hackathon--store-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hackathon-store)
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
