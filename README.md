@@ -303,42 +303,42 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🏆 Awards
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-aws.png" alt="AWS" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/aws.png" alt="AWS" />
 
 **🥈 Excellence Award**  
 AWS KIROTHON Hackathon · Mar 2026
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-ngv.png" alt="Hyundai NGV" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/ngv.png" alt="Hyundai NGV" />
 
 **🥇 Grand Prize**  
 Hyundai NGV HYPER AI Hackathon · Jan 2026
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-forif.png" alt="FORIF" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/forif.png" alt="FORIF" />
 
 **🎯 1st Place Ideathon**  
 FORIF Programming Club · Dec 2025
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-hyspark.png" alt="HySpark" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/hyspark.png" alt="HySpark" />
 
 **🥉 Demo Day 3rd**  
 HySpark Startup Club · Jul 2025
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-hanyang-startup.png" alt="Hanyang Startup Academy" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/hanyang-startup.png" alt="Hanyang Startup Academy" />
 
 **⭐ Startup Academy Excellence**  
 Hanyang University · Dec 2024
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-hanyang.png" alt="HUCC" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/hanyang.png" alt="HUCC" />
 
 **🔐 Cryptography Competition 2nd**  
 HUCC (Hanyang University Cryptography Club) · Oct 2024
@@ -351,42 +351,42 @@ HUCC (Hanyang University Cryptography Club) · Oct 2024
 
 ## 🚀 Activities & Leadership
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-lg-ai-research.png" alt="LG AI Research" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/lg-ai-research.png" alt="LG AI Research" />
 
 **Participant**  
 LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-nexon.png" alt="Nexon" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/nexon.png" alt="Nexon" />
 
 **Mentor**  
 Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-hyspark.png" alt="HySpark" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/hyspark.png" alt="HySpark" />
 
 **Member**  
 HySpark Startup Club (3rd) · 2024 – 2025
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-hanyang-startup.png" alt="Hanyang Startup Academy" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/hanyang-startup.png" alt="Hanyang Startup Academy" />
 
 **Member**  
 Hanyang Startup Academy (21st) · Sep – Dec 2024
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-icewall.png" alt="ICEWALL" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/icewall.png" alt="ICEWALL" />
 
 **Member**  
 ICEWALL Security Club · Mar – Sep 2022
 
 <br clear="all" />
 
-<img align="right" width="120" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/norm-habitat.png" alt="Habitat" />
+<img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/awards/habitat.jpg" alt="Habitat" />
 
 **Activity Director**  
 Habitat for Humanity · Sep 2021 – Dec 2022
