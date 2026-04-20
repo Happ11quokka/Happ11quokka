@@ -124,7 +124,7 @@
 
 ---
 
-### 💼 Cognitive Beyond (Beijing) — Software Engineer Intern
+### 💼 Cognitive Beyond (Beijing) — Software Engineer Intern <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/cognitive-beyond-logo.png" alt="Cognitive Beyond" />
 
 `Remote` · `Jan 2026 – Present`
 
