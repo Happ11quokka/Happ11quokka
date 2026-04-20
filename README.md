@@ -165,6 +165,14 @@
 
 *Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
 
+**🎖️ Scholarships**
+
+- **위드다문화 장학생** — 2026년 1학기
+- **세아해암학술장학재단 커리어챌린지 장학생** — 2026년 1학기
+- **GCC 장학생** — 2025년 1월 ~ 현재
+- **창업기숙사장학금** — 2025년 1학기 ~ 2026년 1학기
+- **명인다문화 장학생** — 2025년 1학기
+
 <details>
 <summary><b>📚 Key Courses</b></summary>
 <br/>
@@ -281,15 +289,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 > Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
 
-<div align="center">
-
-| Metric | Result |
-|:------:|:------:|
-| Cumulative Return | **+11.91%** |
-| KOSPI (same window) | −14.43% |
-| Sharpe | 0.38 |
-
-</div>
+**Cumulative Return** `+11.91%` &nbsp;·&nbsp; **KOSPI (same window)** `−14.43%` &nbsp;·&nbsp; **Sharpe** `0.38`
 
 ➡️ Repo · [StockNewsEstimator](https://github.com/Happ11quokka/StockNewsEstimator)
 
@@ -299,18 +299,12 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🏆 Awards
 
-<div align="center">
-
-|  | Award | Organization | Date |
-|:---:|:------|:-------------|:---:|
-| 🥈 | **Excellence Award** | AWS KIROTHON Hackathon | Mar 2026 |
-| 🥇 | **Grand Prize** | Hyundai NGV HYPER AI Hackathon | Jan 2026 |
-| 🎯 | **1st Place Ideathon** | FORIF Programming Club | Dec 2025 |
-| ⭐ | **Startup Academy Excellence** | Hanyang University | Dec 2024 |
-| 🥉 | **Demo Day 3rd** | HySpark Startup Club | Jul 2025 |
-| 🔐 | **Cryptography Competition 2nd** | Hanyang University | Oct 2024 |
-
-</div>
+- **Excellence Award** — AWS KIROTHON Hackathon · Mar 2026
+- **Grand Prize** — Hyundai NGV HYPER AI Hackathon · Jan 2026
+- **1st Place Ideathon** — FORIF Programming Club · Dec 2025
+- **Demo Day 3rd** — HySpark Startup Club · Jul 2025
+- **Startup Academy Excellence** — Hanyang University · Dec 2024
+- **Cryptography Competition 2nd** — Hanyang University · Oct 2024
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- ACTIVITIES                                              -->
@@ -318,19 +312,13 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🚀 Activities & Leadership
 
-<div align="center">
-
-| Role | Organization | Period |
-|:----|:-------------|:------:|
-| **Participant** | LG Aimers 8th Cohort · LG AI Research | Jan – Feb 2026 |
-| **Mentor** | Nexon Foundation HelloMate Coding | Sep 2025 – Jan 2026 |
-| **Founder & Lead** | P.E.R.C.H Startup Club | Sep – Dec 2025 |
-| **Member** | HySpark Startup Club (3rd) | 2024 – 2025 |
-| **Member** | Hanyang Startup Academy (21st) | Sep – Dec 2024 |
-| **Member** | ICEWALL Security Club | Mar – Sep 2022 |
-| **Activity Director** | Habitat for Humanity | Sep 2021 – Dec 2022 |
-
-</div>
+- **Participant** — LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
+- **Mentor** — Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
+- **Founder & Lead** — P.E.R.C.H Startup Club · Sep – Dec 2025
+- **Member** — HySpark Startup Club (3rd) · 2024 – 2025
+- **Member** — Hanyang Startup Academy (21st) · Sep – Dec 2024
+- **Member** — ICEWALL Security Club · Mar – Sep 2022
+- **Activity Director** — Habitat for Humanity · Sep 2021 – Dec 2022
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- LATEST BLOG POSTS (auto, via blog-post-workflow)        -->
