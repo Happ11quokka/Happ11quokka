@@ -318,7 +318,6 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 - **Participant** — LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
 - **Mentor** — Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
-- **Founder & Lead** — P.E.R.C.H Startup Club · Sep – Dec 2025
 - **Member** — HySpark Startup Club (3rd) · 2024 – 2025
 - **Member** — Hanyang Startup Academy (21st) · Sep – Dec 2024
 - **Member** — ICEWALL Security Club · Mar – Sep 2022
