@@ -303,12 +303,12 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🏆 Awards
 
-- 🥈 &nbsp;**Excellence Award** — AWS KIROTHON Hackathon · Mar 2026
-- 🥇 &nbsp;**Grand Prize** — Hyundai NGV HYPER AI Hackathon · Jan 2026
-- 🎯 &nbsp;**1st Place** — FORIF Programming Club Ideathon · Dec 2025
-- 🥉 &nbsp;**3rd Place** — HySpark Startup Club Demo Day · Jul 2025
-- ⭐ &nbsp;**Excellence Award** — Hanyang University Startup Academy · Dec 2024
-- 🔐 &nbsp;**2nd Place** — HUCC (Hanyang University Cryptography Club) Cryptography Competition · Oct 2024
+- 🥈 &nbsp;**Excellence Award** — [AWS KIROTHON Hackathon](https://n.news.naver.com/article/025/0003514864?sid=102) · Mar 2026
+- 🥇 &nbsp;**Grand Prize** — [Hyundai NGV HYPER AI Hackathon](https://www.beyondpost.co.kr/view.php?ud=20260205175252753192e75d13a3_30) · Jan 2026
+- 🎯 &nbsp;**1st Place** — [FORIF Programming Club Ideathon](https://forif.org/announcement/34) · Dec 2025
+- 🥉 &nbsp;**3rd Place** — [HySpark Startup Club Demo Day](https://hyspark.career.greetinghr.com/ko/main) · Jul 2025
+- ⭐ &nbsp;**Excellence Award** — [Hanyang University Startup Academy](https://startup.hanyang.ac.kr/) · Dec 2024
+- 🔐 &nbsp;**2nd Place** — [HUCC (Hanyang University Cryptography Club) Cryptography Competition](https://sites.google.com/view/hucc/%ED%95%9C%EC%96%91%EC%95%94%ED%98%B8%EA%B3%B5%EB%AA%A8%EC%A0%84) · Oct 2024
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- ACTIVITIES                                              -->
@@ -316,12 +316,12 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 🚀 Activities & Leadership
 
-- **Participant** — LG Aimers 8th Cohort · LG AI Research · Jan – Feb 2026
-- **Mentor** — Nexon Foundation HelloMate Coding · Sep 2025 – Jan 2026
-- **Member** — HySpark Startup Club (3rd) · 2024 – 2025
-- **Member** — Hanyang Startup Academy (21st) · Sep – Dec 2024
-- **Member** — ICEWALL Security Club · Mar – Sep 2022
-- **Activity Director** — Habitat for Humanity · Sep 2021 – Dec 2022
+- **Participant** — [LG Aimers 8th Cohort](https://www.lgaimers.ai/) · LG AI Research · Jan – Feb 2026
+- **Mentor** — [Nexon Foundation HelloMate Coding](https://kr-newsroom.nexon.com/press-center/3399289) · Sep 2025 – Jan 2026
+- **Member** — [HySpark Startup Club (3rd)](https://hyspark.career.greetinghr.com/ko/main) · 2024 – 2025
+- **Member** — [Hanyang Startup Academy (21st)](https://startup.hanyang.ac.kr/) · Sep – Dec 2024
+- **Member** — [ICEWALL Security Club](https://github.com/hyu-icewall) · Mar – Sep 2022
+- **Activity Director** — [Habitat for Humanity](https://www.habitat.or.kr/business/education) · Sep 2021 – Dec 2022
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- LATEST BLOG POSTS (auto, via blog-post-workflow)        -->
