@@ -305,10 +305,10 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 - 🥈 &nbsp;**Excellence Award** — AWS KIROTHON Hackathon · Mar 2026
 - 🥇 &nbsp;**Grand Prize** — Hyundai NGV HYPER AI Hackathon · Jan 2026
-- 🎯 &nbsp;**1st Place Ideathon** — FORIF Programming Club · Dec 2025
-- 🥉 &nbsp;**Demo Day 3rd** — HySpark Startup Club · Jul 2025
-- ⭐ &nbsp;**Startup Academy Excellence** — Hanyang University · Dec 2024
-- 🔐 &nbsp;**Cryptography Competition 2nd** — HUCC (Hanyang University Cryptography Club) · Oct 2024
+- 🎯 &nbsp;**1st Place** — FORIF Programming Club Ideathon · Dec 2025
+- 🥉 &nbsp;**3rd Place** — HySpark Startup Club Demo Day · Jul 2025
+- ⭐ &nbsp;**Excellence Award** — Hanyang University Startup Academy · Dec 2024
+- 🔐 &nbsp;**2nd Place** — HUCC (Hanyang University Cryptography Club) Cryptography Competition · Oct 2024
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- ACTIVITIES                                              -->
