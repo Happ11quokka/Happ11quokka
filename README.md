@@ -340,29 +340,6 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 ➡️ [More on hpyquokka.tistory.com](https://hpyquokka.tistory.com/)
 
 <!-- ══════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS                                            -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Happ11quokka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Happ11quokka&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=6366f1" height="180" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happ11quokka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img alt="contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Happ11quokka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=818cf8&point=ffffff&area=true&area_color=6366f1&radius=8&height=300" />
-</p>
-
-<!-- ══════════════════════════════════════════════════════ -->
 <!-- CONTACT                                                 -->
 <!-- ══════════════════════════════════════════════════════ -->
 
