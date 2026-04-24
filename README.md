@@ -136,6 +136,15 @@
 
 ---
 
+### 📰 Hanyang Media Strategy Team GCC — Global Communicator (Translator) <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
+
+`Seoul` · `Jan 2025 – Present`
+
+- Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
+- Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
+
+---
+
 ### 📊 Hanyang Quant Analytics Lab — Undergraduate Research Intern <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-logo-blue.png" alt="Hanyang University" />
 
 `Seoul` · `Mar 2025 – Jul 2025`
@@ -143,15 +152,6 @@
 - Designed and backtested **long-short (equity-neutral) strategy** using GPT-4.1 Nano news sentiment
 - Processed 500,000+ news articles, refined multi-dimensional verification by size/style/sector
 - **Results**: +11.91% return (Sharpe 0.38) vs KOSPI −14.43% · Published at APAF
-
----
-
-### 📰 Hanyang Media Strategy Team GCC — Global Communicator (Translator) <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
-
-`Seoul` · `Jan 2025 – Present`
-
-- Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
-- Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- EDUCATION                                               -->
