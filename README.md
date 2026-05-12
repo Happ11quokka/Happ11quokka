@@ -136,6 +136,17 @@
 
 ---
 
+### 💹 WorldQuant — Freelancer Consultant <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/worldquant-logo.jpg" alt="WorldQuant" />
+
+`Remote` · `Apr 2026 – Present`
+
+> Engaged as a **freelancer consultant**; active engagement begins after the **IQC (International Quant Championship)** competition concludes.
+
+- <img src="https://api.iconify.design/lucide:trending-up.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Quantitative alpha research** — to contribute systematic alpha signals and quantitative modeling on the WorldQuant BRAIN platform after IQC completion
+- <img src="https://api.iconify.design/lucide:hourglass.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Status**: currently competing in **IQC**; consultant engagement paused until competition wrap-up
+
+---
+
 ### 📰 Hanyang Media Strategy Team GCC — Global Communicator (Translator) <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
 
 `Seoul` · `Jan 2025 – Present`
