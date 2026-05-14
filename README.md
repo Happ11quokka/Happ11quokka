@@ -128,11 +128,10 @@
 
 `Remote` · `Jan 2026 – Present`
 
-> Shipping AI-native web products end-to-end in a remote-first, **Harness-Engineering-driven** workflow — marketing agents, conversion funnels, and personalized SaaS.
+> 面向**超级个体开发者**的 **AI 商业化 Agent** — building AI commercialization Agents for solo / indie developers.
 
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Profita** — co-designed the **Marketing Agent pipeline** of an AI-native **full-chain ROAS engine** for indie game devs; five agent modules — **Creative** (competitor scraping, multi-aspect repurpose, 20+ language voiceover), **Distribution** (smart-bid experiments, fraud filter), **Attribution** (SKAN automation, MMP integration), **Monetization** (Waterfall tiering, SDK bundling), **Segmentation** (PPP pricing, whale tagging); also shipped the **D0–D28 ROAS interactive demo** + Next.js 16 / Supabase marketing site
-- <img src="https://api.iconify.design/lucide:dumbbell.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Daily-Fit** — full-stack **28-day personalized fat-loss platform**; **15–30-step onboarding quiz** across 8 input types, **async OpenAI pipeline** producing structured workout + diet plans, **Shopify webhook payment** integration hardened end-to-end
-- <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Zenmotion** — Shopify **Horizon v3.2.1** direct-response digital-course funnel (**15 custom Liquid sections**, PAS conversion framework); shipped an **automated Shopify deploy agent**, **AJAX instant cart**, and full-funnel ecommerce event tracking
+- <img src="https://api.iconify.design/lucide:workflow.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Workflow testing** for agent development — end-to-end validation of agent pipelines
+- <img src="https://api.iconify.design/lucide:plug.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Real-world integration & verification** of **Shopify**, **PayPal**, **Airwallex**, **AdMob**, and other third-party services
 
 ---
 
