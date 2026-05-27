@@ -16,7 +16,6 @@
 
 ## 🦘 Hi, I'm Donghyun — a happy quokka building things people want to use.
 
-- 🇨🇳 &nbsp;**Remote Software Engineer** @ Cognitive Beyond (Beijing) — specializing in **Harness Engineering** for production AI agents & Shopify e-commerce
 - 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app on the App Store · **500+ users · 100+ DAU**
 - 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026) · 1st Place @ FORIF Ideathon (Dec 2025)
@@ -38,7 +37,6 @@
 `Last updated Apr 2026`
 
 - 🔨 &nbsp;Shipping new features for **Perch** after Apple Watch integration planning
-- 📱 &nbsp;Building Shopify storefronts & admin dashboards for the Beijing team's indie brands
 - 📚 &nbsp;Researching **retrieval ↔ decoding time ratio** in RAG systems (Prism benchmark)
 - ✍️ &nbsp;Translating CN↔KR articles for NewsHYU — currently **1000+ and counting**
 
@@ -121,17 +119,6 @@
 - <img src="https://api.iconify.design/lucide:layers.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
 - <img src="https://api.iconify.design/lucide:file-text.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
 - <img src="https://api.iconify.design/lucide:link.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
-
----
-
-### 💼 Cognitive Beyond (Beijing) — Software Engineer Intern <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/cognitive-beyond-logo.png" alt="Cognitive Beyond" />
-
-`Remote` · `Jan 2026 – Present`
-
-> 面向**超级个体开发者**的 **AI 商业化 Agent** — building AI commercialization Agents for solo / indie developers.
-
-- <img src="https://api.iconify.design/lucide:workflow.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Workflow testing** for agent development — end-to-end validation of agent pipelines
-- <img src="https://api.iconify.design/lucide:plug.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Real-world integration & verification** of **Shopify**, **PayPal**, **Airwallex**, **AdMob**, and other third-party services
 
 ---
 
