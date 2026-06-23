@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Translation Portfolio · NewsHYU — Donghyun Lim</title>
+<style>
+  :root{
+    --ink:#10243e; --muted:#5b7088; --line:#e3e9f1; --bg:#f4f7fb;
+    --blue:#0e4a84; --blue2:#1f76c4; --accent:#e8943a; --card:#ffffff;
+    --good:#1f9d63;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  body{font-family:-apple-system,"Apple SD Gothic Neo","Pretendard","Segoe UI",Roboto,"Noto Sans KR",sans-serif;
+       background:var(--bg);color:var(--ink);line-height:1.5;padding:28px 18px;}
+  .page{max-width:920px;margin:0 auto;background:var(--card);border:1px solid var(--line);
+        border-radius:18px;overflow:hidden;box-shadow:0 12px 40px rgba(16,36,62,.08)}
+
+  /* Header */
+  header{background:linear-gradient(135deg,#0e4a84 0%,#1f76c4 100%);color:#fff;padding:30px 34px 26px;position:relative;overflow:hidden}
+  header::after{content:"🦘";position:absolute;right:24px;top:50%;transform:translateY(-50%);font-size:78px;opacity:.16}
+  .eyebrow{font-size:12px;letter-spacing:.18em;text-transform:uppercase;opacity:.85;font-weight:600}
+  header h1{font-size:27px;font-weight:800;margin:7px 0 4px;letter-spacing:-.01em}
+  header .sub{font-size:14px;opacity:.92}
+  .tags{margin-top:14px;display:flex;flex-wrap:wrap;gap:7px}
+  .tag{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.25);padding:4px 11px;border-radius:999px;font-size:12px;font-weight:600}
+
+  /* Hero number */
+  .hero{display:flex;align-items:baseline;gap:16px;flex-wrap:wrap;padding:26px 34px 6px}
+  .hero .big{font-size:58px;font-weight:850;line-height:1;color:var(--blue);letter-spacing:-.02em}
+  .hero .big small{font-size:22px;font-weight:700;color:var(--accent)}
+  .hero .cap{font-size:14px;color:var(--muted);max-width:330px}
+  .hero .cap b{color:var(--ink)}
+
+  /* Stat cards */
+  .cards{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;padding:18px 34px 8px}
+  .card{background:#f8fafd;border:1px solid var(--line);border-radius:12px;padding:14px 14px}
+  .card .n{font-size:22px;font-weight:800;color:var(--ink)}
+  .card .l{font-size:11.5px;color:var(--muted);margin-top:3px;font-weight:600}
+  .card .x{font-size:11px;color:#90a1b6;margin-top:2px}
+
+  section{padding:18px 34px}
+  h2{font-size:15px;font-weight:800;color:var(--ink);display:flex;align-items:center;gap:8px;margin-bottom:13px}
+  h2 .bar{width:4px;height:16px;background:var(--accent);border-radius:2px}
+
+  /* Category bars */
+  .row{display:grid;grid-template-columns:150px 1fr 92px;align-items:center;gap:10px;margin-bottom:8px}
+  .row .name{font-size:13px;font-weight:600;color:var(--ink)}
+  .track{background:#eef2f7;border-radius:7px;height:18px;overflow:hidden}
+  .fill{height:100%;border-radius:7px;background:linear-gradient(90deg,#1f76c4,#0e4a84)}
+  .row.alt .fill{background:linear-gradient(90deg,#f0a64e,#e8943a)}
+  .val{font-size:12px;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums}
+  .val b{color:var(--ink)}
+
+  /* Two-col */
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+  .yr{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+  .yr .ylab{font-size:14px;font-weight:800;width:46px;color:var(--blue)}
+  .yr .ytrack{flex:1;background:#eef2f7;border-radius:7px;height:26px;position:relative;overflow:hidden}
+  .yr .yfill{height:100%;background:linear-gradient(90deg,#1f76c4,#0e4a84);display:flex;align-items:center;padding-left:10px;color:#fff;font-size:12px;font-weight:700}
+  .mini{font-size:13px;color:var(--muted);margin-top:3px}
+  .mini b{color:var(--ink)}
+  ul.facts{list-style:none;font-size:13.5px}
+  ul.facts li{padding:7px 0;border-bottom:1px dashed var(--line);display:flex;justify-content:space-between}
+  ul.facts li:last-child{border-bottom:none}
+  ul.facts .k{color:var(--muted)}
+  ul.facts .v{font-weight:700;font-variant-numeric:tabular-nums}
+
+  footer{padding:16px 34px 24px;border-top:1px solid var(--line);font-size:11.5px;color:#90a1b6}
+  footer b{color:var(--muted)}
+  @media (max-width:680px){
+    .cards{grid-template-columns:repeat(2,1fr)}
+    .grid2{grid-template-columns:1fr}
+    .row{grid-template-columns:110px 1fr 78px}
+    .hero .big{font-size:46px}
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <div class="eyebrow">Translation Portfolio · 한양대학교 뉴스H</div>
+    <h1>임동현 — 한국어 → 중국어 뉴스 번역 실적</h1>
+    <div class="sub">Hanyang Media Strategy Team (GCC) · Global Communicator (Translator)</div>
+    <div class="tags">
+      <span class="tag">📅 2025.01 – 2026.06</span>
+      <span class="tag">📰 1,033 articles</span>
+      <span class="tag">🌐 KR → CN</span>
+      <span class="tag">✅ 승인 1,003 + 승인신청 30</span>
+    </div>
+  </header>
+
+  <div class="hero">
+    <div class="big">1,326,206<small>&nbsp;자</small></div>
+    <div class="cap">총 <b>132만 자</b> 분량을 번역했습니다. 제목까지 포함하면 <b>1,362,454자</b>, 순수 한자(漢字) 기준 <b>1,050,765자</b>입니다. <span style="color:var(--accent);font-weight:700">(공백 제외 본문 기준)</span></div>
+  </div>
+
+  <div class="cards">
+    <div class="card"><div class="n">1,033</div><div class="l">번역 기사 수</div><div class="x">승인 1,003 · 신청 30</div></div>
+    <div class="card"><div class="n">1.05M</div><div class="l">한자(漢字) 글자수</div><div class="x">문장부호·숫자 제외</div></div>
+    <div class="card"><div class="n">1,284자</div><div class="l">기사당 평균 분량</div><div class="x">중앙값 1,074자</div></div>
+    <div class="card"><div class="n">~14편</div><div class="l">주당 번역량</div><div class="x">약 17개월 연속</div></div>
+  </div>
+
+  <section>
+    <h2><span class="bar"></span>분야별 분포 <span style="font-weight:600;color:var(--muted);font-size:12px">· 글자수 비중 기준</span></h2>
+
+    <div class="row"><div class="name">🔬 연구성과</div><div class="track"><div class="fill" style="width:100%"></div></div><div class="val"><b>213</b>건 · 24.1%</div></div>
+    <div class="row alt"><div class="name">🎀 행사·의례</div><div class="track"><div class="fill" style="width:88%"></div></div><div class="val"><b>244</b>건 · 21.3%</div></div>
+    <div class="row"><div class="name">🎓 학생·동아리</div><div class="track"><div class="fill" style="width:55%"></div></div><div class="val"><b>113</b>건 · 13.2%</div></div>
+    <div class="row"><div class="name">📌 기타·공지</div><div class="track"><div class="fill" style="width:46%"></div></div><div class="val"><b>97</b>건 · 11.0%</div></div>
+    <div class="row"><div class="name">👔 교원·인사</div><div class="track"><div class="fill" style="width:30%"></div></div><div class="val"><b>71</b>건 · 7.3%</div></div>
+    <div class="row"><div class="name">🏛 대학운영·평가</div><div class="track"><div class="fill" style="width:27%"></div></div><div class="val"><b>100</b>건 · 6.6%</div></div>
+    <div class="row"><div class="name">🌏 국제교류</div><div class="track"><div class="fill" style="width:25%"></div></div><div class="val"><b>54</b>건 · 6.0%</div></div>
+    <div class="row"><div class="name">🚀 창업·취업</div><div class="track"><div class="fill" style="width:21%"></div></div><div class="val"><b>49</b>건 · 5.1%</div></div>
+    <div class="row"><div class="name">🤝 산학협력</div><div class="track"><div class="fill" style="width:14%"></div></div><div class="val"><b>53</b>건 · 3.4%</div></div>
+    <div class="row"><div class="name">💰 발전기금·기부</div><div class="track"><div class="fill" style="width:8%"></div></div><div class="val"><b>36</b>건 · 1.8%</div></div>
+    <div class="row"><div class="name">🏥 의료·병원</div><div class="track"><div class="fill" style="width:2%"></div></div><div class="val"><b>3</b>건 · 0.2%</div></div>
+
+    <p class="mini" style="margin-top:12px">건수로는 <b>대학 행사·의례(23.6%)</b>, 분량으로는 <b>이공계 연구성과(24.1%)</b>가 가장 큰 비중. 반도체·이차전지·AI·양자·바이오 등 한양대 ERICA/서울캠퍼스의 연구 뉴스가 핵심 축입니다.</p>
+  </section>
+
+  <section style="padding-top:6px">
+    <div class="grid2">
+      <div>
+        <h2><span class="bar"></span>연도별 번역량</h2>
+        <div class="yr"><div class="ylab">2025</div><div class="ytrack"><div class="yfill" style="width:100%">666편 · 817,368자</div></div></div>
+        <div class="yr"><div class="ylab">2026</div><div class="ytrack"><div class="yfill" style="width:62%">367편 · 508,838자</div></div></div>
+        <p class="mini">2026년은 6월까지 집계 · 최다 집필 월은 <b>2026.01 (103편)</b></p>
+      </div>
+      <div>
+        <h2><span class="bar"></span>핵심 지표</h2>
+        <ul class="facts">
+          <li><span class="k">번역 기간</span><span class="v">약 17개월</span></li>
+          <li><span class="k">본문 (공백 포함)</span><span class="v">1,514,354자</span></li>
+          <li><span class="k">본문 (공백 제외)</span><span class="v">1,326,206자</span></li>
+          <li><span class="k">제목 합계</span><span class="v">36,248자</span></li>
+          <li><span class="k">최장 기사</span><span class="v">10,291자</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <b>집계 방법</b> · 뉴스H CMS의 본인 작성 기사 전수(승인 1,003 + 승인신청 30 = 1,033건)를 수집해 본문 텍스트만 집계. 연관링크·관련기사·키워드 등 자동 생성 블록은 제외(정제 후 잔여 한글 68자). 분야는 1,033건 제목을 11개 카테고리로 분류. 집계 기준일 2026-06-23. · KR → CN translation for NewsHYU (Hanyang University).
+  </footer>
+
+</div>
+</body>
+</html>

@@ -38,7 +38,7 @@
 
 - 🔨 &nbsp;Shipping new features for **Perch** after Apple Watch integration planning
 - 📚 &nbsp;Researching **retrieval ↔ decoding time ratio** in RAG systems (Prism benchmark)
-- ✍️ &nbsp;Translating CN↔KR articles for NewsHYU — currently **1000+ and counting**
+- ✍️ &nbsp;Translating KR→CN news for NewsHYU — **1,033 articles · 1.3M+ characters** and counting
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- QUICK STATS                                             -->
@@ -51,7 +51,7 @@
     <td align="center" width="160">🚀<br/><b>500+</b><br/>Perch users<br/><sub>App Store · 100+ DAU</sub></td>
     <td align="center" width="160">📄<br/><b>APAF '25</b><br/>Paper accepted<br/><sub>Co-authored</sub></td>
     <td align="center" width="160">🏆<br/><b>Grand Prize</b><br/>Hyundai NGV<br/><sub>HYPER AI</sub></td>
-    <td align="center" width="160">🌐<br/><b>1000+</b><br/>Articles translated<br/><sub>CN ↔ KR</sub></td>
+    <td align="center" width="160">🌐<br/><b>1.3M+</b><br/>Chars translated<br/><sub>1,033 articles · KR → CN</sub></td>
   </tr>
 </table>
 
@@ -137,8 +137,9 @@
 
 `Seoul` · `Jan 2025 – Present`
 
-- Translated **1000+ articles** (Chinese ↔ Korean) covering AI, engineering, humanities, and law
-- Translations at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
+- Translated **1,033 articles** (Korean → Chinese) totaling **1.3M+ characters** (1,326,206 chars · ~1.05M Chinese characters), Jan 2025 – Jun 2026
+- Coverage: science & engineering research (24%), campus events (21%), student & faculty news, university rankings, startups, and international affairs
+- 📊 [**Translation report (1-page)**](https://htmlpreview.github.io/?https://github.com/Happ11quokka/Happ11quokka/blob/main/translation-report.html) · ✍️ Published at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
 ---
 
