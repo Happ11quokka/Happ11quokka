@@ -14,11 +14,12 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🦘 Hi, I'm Donghyun — a happy quokka building things people want to use.
+## 🦘 Hi, I'm Donghyun — a software engineer who ships, not just prototypes.
 
-- 🐦 &nbsp;**Growing Perch** — AI-powered pet bird health app on the App Store · **500+ users · 100+ DAU**
-- 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
+- 🐦 &nbsp;**Shipped Perch to the App Store** — AI-powered pet bird health app, **500+ users · 100+ DAU**, full-stack solo (Flutter · FastAPI · RAG)
+- 🧪 &nbsp;**RAG systems, for real** — from a from-scratch HPCA-2026 paper reproduction (agentic-rag) to production RAG in Perch, with 273+ tests and real API-measured benchmarks, not just demos
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI (Jan 2026) · Excellence @ AWS KIROTHON (Mar 2026) · 1st Place @ FORIF Ideathon (Dec 2025)
+- 📄 &nbsp;**Published Researcher** — APAF 2025 · GPT sentiment L/S strategy (**+11.91% vs KOSPI −14.43%**)
 - 🌏 &nbsp;Korean · Chinese (native) · English (professional)
 
 <br/>
@@ -38,7 +39,7 @@
 
 - 🔨 &nbsp;Shipping new features for **Perch** after Apple Watch integration planning
 - 📚 &nbsp;Researching **retrieval ↔ decoding time ratio** in RAG systems (Prism benchmark)
-- ✍️ &nbsp;Translating KR→CN news for NewsHYU — **1,033 articles · 1.3M+ characters** and counting
+- 🎓 &nbsp;Still building out **agentic-rag** — an ongoing capstone project on decode-RAG speculative prefetch
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- QUICK STATS                                             -->
@@ -51,7 +52,7 @@
     <td align="center" width="160">🚀<br/><b>500+</b><br/>Perch users<br/><sub>App Store · 100+ DAU</sub></td>
     <td align="center" width="160">📄<br/><b>APAF '25</b><br/>Paper accepted<br/><sub>Co-authored</sub></td>
     <td align="center" width="160">🏆<br/><b>Grand Prize</b><br/>Hyundai NGV<br/><sub>HYPER AI</sub></td>
-    <td align="center" width="160">🌐<br/><b>1.3M+</b><br/>Chars translated<br/><sub>1,033 articles · KR → CN</sub></td>
+    <td align="center" width="160">🧪<br/><b>273+</b><br/>Tests passing<br/><sub>agentic-rag · real-run verified</sub></td>
   </tr>
 </table>
 
@@ -119,27 +120,6 @@
 - <img src="https://api.iconify.design/lucide:layers.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Flutter MVVM 5-layer** + **FastAPI** + PostgreSQL/pgvector; 4-tier cache-first fallback; **178/178 tests passing**
 - <img src="https://api.iconify.design/lucide:file-text.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** · KR · EN · 中文 auto-locale · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
 - <img src="https://api.iconify.design/lucide:link.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;[App Store](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko) · [perch.ai.kr](https://perch.ai.kr/ko) · [Repo](https://github.com/Happ11quokka/perch_care)
-
----
-
-### 💹 WorldQuant — Freelancer Consultant <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/worldquant-logo.jpg" alt="WorldQuant" />
-
-`Remote` · `Apr 2026 – Present`
-
-> Engaged as a **freelancer consultant**; active engagement begins after the **IQC (International Quant Championship)** competition concludes.
-
-- <img src="https://api.iconify.design/lucide:trending-up.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Quantitative alpha research** — to contribute systematic alpha signals and quantitative modeling on the WorldQuant BRAIN platform after IQC completion
-- <img src="https://api.iconify.design/lucide:hourglass.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**Status**: currently competing in **IQC**; consultant engagement paused until competition wrap-up
-
----
-
-### 📰 Hanyang Media Strategy Team GCC — Global Communicator (Translator) <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/newshyu-logo.png" alt="NewsHYU" />
-
-`Seoul` · `Jan 2025 – Present`
-
-- Translated **1,033 articles** (Korean → Chinese) totaling **1.3M+ characters** (1,326,206 chars · ~1.05M Chinese characters), Jan 2025 – Jun 2026
-- Coverage: science & engineering research (24%), campus events (21%), student & faculty news, university rankings, startups, and international affairs
-- 📊 [**Translation report (1-page)**](https://htmlpreview.github.io/?https://github.com/Happ11quokka/Happ11quokka/blob/main/translation-report.html) · ✍️ Published at [NewsHYU](https://www.newshyu.com/index.html?editcode=MAIN_19)
 
 ---
 
@@ -267,15 +247,36 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ---
 
+### 🔍 agentic-rag — Decode-RAG Speculative Prefetch Research
+
+[![Repo](https://img.shields.io/badge/Repo-agentic--rag-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/agentic-rag)
+[![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![llama.cpp](https://img.shields.io/badge/llama.cpp-Metal%20%2F%20GGUF-000000?style=flat-square)](https://github.com/ggml-org/llama.cpp)
+[![Cohere](https://img.shields.io/badge/Cohere-embed%20%2B%20rerank--v3.5-39594C?style=flat-square)](https://cohere.com)
+[![Milvus](https://img.shields.io/badge/Milvus-DiskANN-00A1EA?style=flat-square)](https://milvus.io)
+[![tests](https://img.shields.io/badge/unit%20tests-273%20passed-brightgreen?style=flat-square)](https://github.com/Happ11quokka/agentic-rag)
+
+`Undergraduate Capstone · 2-person team` · `2026 – Present, in progress`
+
+> A from-scratch local reproduction of a HPCA-2026 AI-infrastructure paper, extended into an original study that treats the RAG retrieval backend's storage medium — network API → SSD vector DB → external HDD with a DiskANN index — as a controlled experimental variable.
+
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Reproduced KAIST's HotpotQA agent-idle-time findings locally on Apple Silicon (GPU idle **54.5%**)
+- <img src="https://api.iconify.design/lucide:hard-drive.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Pushed retrieval onto an external USB HDD — diagnosed a Qdrant+HNSW failure (48min+ timeout) and pivoted to Milvus+DiskANN (**17.7s**)
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;Built decode-RAG speculative prefetch (dual-model target/draft) behind a correctness-invariant cache
+- <img src="https://api.iconify.design/lucide:check-circle.svg?color=%236366F1" height="14" align="top" alt=""> &nbsp;**273 unit tests passing** · live Cohere API-measured benchmarks (not simulated)
+
+---
+
 <details>
 <summary><b>📦 More projects</b></summary>
 <br/>
 
 | Project | TL;DR | Stack | Link |
 |:--------|:------|:------|:----:|
+| **kakao_impact** | Emotion-tracking chatbot + PWA, live Node→Python backend migration | FastAPI · SQLAlchemy · PostgreSQL · React | [GitHub](https://github.com/Happ11quokka/kakao_impact) |
 | **ESG-report-KR** | Multimodal RAG for Korean ESG reports | Python · Pinecone · EXAONE · CLIP | [GitHub](https://github.com/Happ11quokka/ESG-report-KR) |
 | **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
-| **Motor Sticker Detection** | Vision-based quality inspection | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
+| **Motor Sticker Detection** | Vision QC agent — YOLO + VLM judgment loop, presented to Korean gov't officials | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
 | **koplegame** | Real-time hint-based PWA matching game | Next.js 15 · Firebase · Tailwind | [GitHub](https://github.com/Happ11quokka/koplegame) |
 
 </details>
@@ -342,7 +343,7 @@ Software Engineering · Operating Systems · Database Systems · Data Structures
 
 ## 👋 Say hi
 
-Always happy to chat about mobile apps, AI/ML research, hackathons, or Chinese literature.
+Always happy to chat about mobile apps, AI/ML research, agentic systems, or hackathons.
 
 <div align="center">
 
