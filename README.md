@@ -25,8 +25,6 @@
 <br/>
 
 [![Tistory](https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://hpyquokka.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/%EC%9E%84%EB%8F%99%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-[![CV](https://img.shields.io/badge/CV-PDF-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/limdonghyun_cv.pdf)
 [![Email](https://img.shields.io/badge/Email-limdongxian1207%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:limdongxian1207@gmail.com)
 
 <!-- ══════════════════════════════════════════════════════ -->
@@ -350,8 +348,6 @@ Always happy to chat about mobile apps, AI/ML research, agentic systems, or hack
 [![Email](https://img.shields.io/badge/Email-limdongxian1207%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limdongxian1207@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-donghyun--lim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donghyun-lim-b13289338/)
 [![Tistory](https://img.shields.io/badge/Blog-hpyquokka.tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://hpyquokka.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/%EC%9E%84%EB%8F%99%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-[![CV](https://img.shields.io/badge/CV-PDF-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/limdonghyun_cv.pdf)
 
 </div>
 
