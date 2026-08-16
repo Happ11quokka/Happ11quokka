@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <defs>
+    <linearGradient id="gMain" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#002856"/><stop offset="100%" stop-color="#1C5FA8"/>
+    </linearGradient>
+    <linearGradient id="gBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A3D75"/><stop offset="100%" stop-color="#5C9BD9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gBack)">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1" calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="0s" values="M0 150L 0 70Q 300 30 600 55T 1200 40L 1200 150 Z;M0 150L 0 50Q 300 65 600 60T 1200 75L 1200 150 Z;M0 150L 0 55Q 300 60 600 45T 1200 75L 1200 150 Z;M0 150L 0 70Q 300 30 600 55T 1200 40L 1200 150 Z"/>
+  </path>
+  <path fill="url(#gMain)">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1" calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="-9s" values="M0 150L 0 100Q 300 60 600 85T 1200 70L 1200 150 Z;M0 150L 0 80Q 300 90 600 85T 1200 105L 1200 150 Z;M0 150L 0 85Q 300 85 600 75T 1200 105L 1200 150 Z;M0 150L 0 100Q 300 60 600 85T 1200 70L 1200 150 Z"/>
+  </path>
+
+</svg>

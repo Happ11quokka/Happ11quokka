@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="gMain" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#002856"/><stop offset="100%" stop-color="#1C5FA8"/>
+    </linearGradient>
+    <linearGradient id="gBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A3D75"/><stop offset="100%" stop-color="#5C9BD9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gBack)">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1" calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="0s" values="M0 0L 0 150Q 300 205 600 170T 1200 185L 1200 0 Z;M0 0L 0 175Q 300 160 600 165T 1200 180L 1200 0 Z;M0 0L 0 170Q 300 165 600 180T 1200 195L 1200 0 Z;M0 0L 0 150Q 300 205 600 170T 1200 185L 1200 0 Z"/>
+  </path>
+  <path fill="url(#gMain)">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1" calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="-9s" values="M0 0L 0 120Q 300 175 600 145T 1200 160L 1200 0 Z;M0 0L 0 150Q 300 165 600 155T 1200 135L 1200 0 Z;M0 0L 0 160Q 300 140 600 170T 1200 135L 1200 0 Z;M0 0L 0 120Q 300 175 600 145T 1200 160L 1200 0 Z"/>
+  </path>
+  <text x="50%" y="78" text-anchor="middle" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="54" font-weight="700">Hi, I&apos;m Donghyun</text>
+  <text x="50%" y="112" text-anchor="middle" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="500" opacity="0.92">AI Engineer &#183; Software Engineer &#183; Singularity Maker</text>
+</svg>

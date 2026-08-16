@@ -2,7 +2,7 @@
 <!-- HEADER                                                  -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:002856,100:1C5FA8&height=220&section=header&text=Hi,%20I'm%20Donghyun&fontSize=44&fontColor=ffffff&fontAlignY=28&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Singularity%20Maker&descAlignY=41&descSize=15&animation=fadeIn)
+![Hi, I'm Donghyun — AI Engineer · Software Engineer · Singularity Maker](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/banner-header.svg?v=1)
 
 <div align="center">
 
@@ -472,4 +472,4 @@ Always happy to chat about mobile apps, AI/ML research, agentic systems, or hack
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:1C5FA8,100:002856&height=140&section=footer)
+![footer](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/banner-footer.svg?v=1)
