@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Agent Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A73C4"/>
+      <stop offset="1" stop-color="#11365F"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 96v34"/>
+    <path d="M256 330v34"/>
+    <path d="M152 386v-22h208v22"/>
+  </g>
+  <circle cx="256" cy="88" r="17" fill="#FFFFFF"/>
+  <rect x="104" y="196" width="28" height="68" rx="14" fill="#FFFFFF"/>
+  <rect x="380" y="196" width="28" height="68" rx="14" fill="#FFFFFF"/>
+  <rect x="136" y="130" width="240" height="200" rx="54" fill="#FFFFFF"/>
+  <circle cx="204" cy="212" r="25" fill="#11365F"/>
+  <circle cx="308" cy="212" r="25" fill="#11365F"/>
+  <rect x="214" y="268" width="84" height="16" rx="8" fill="#11365F"/>
+  <circle cx="152" cy="410" r="24" fill="#FFFFFF"/>
+  <circle cx="256" cy="410" r="24" fill="#FFFFFF"/>
+  <circle cx="360" cy="410" r="24" fill="#FFFFFF"/>
+</svg>

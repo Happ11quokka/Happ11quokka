@@ -52,17 +52,17 @@
     <td align="center" width="230" valign="top">
       <b>Perch</b><br/>
       <sub>App&nbsp;Store&nbsp;·&nbsp;800+&nbsp;users</sub><br/><br/>
-      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="104" alt="Perch app icon" /></a>
+      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="112" alt="Perch app icon" /></a>
     </td>
     <td align="center" width="230" valign="top">
       <b>ASBG @ HYU</b><br/>
       <sub>AWS&nbsp;Builders&nbsp;·&nbsp;Core&nbsp;Team</sub><br/><br/>
-      <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="124" alt="AWS SBG Core Team Member Badge" /></a>
+      <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="128" alt="AWS SBG Core Team Member Badge" /></a>
     </td>
     <td align="center" width="230" valign="top">
       <b>Agent Developer</b><br/>
       <sub>agentic-rag&nbsp;·&nbsp;dAIso&nbsp;·&nbsp;HARU</sub><br/><br/>
-      <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="104" alt="Agent Developer" />
+      <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/agent-icon.svg?v=1" height="112" alt="Agent Developer" />
     </td>
   </tr>
 </table>
