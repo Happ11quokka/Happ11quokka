@@ -49,20 +49,20 @@
 
 <table>
   <tr>
-    <td align="center" width="210" valign="top">
+    <td align="center" width="230" valign="top">
       <b>Perch</b><br/>
-      <sub>App Store Live · 800+ users · 100+ DAU</sub><br/><br/>
-      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="64" alt="Perch app icon" /></a>
+      <sub>App&nbsp;Store&nbsp;·&nbsp;800+&nbsp;users</sub><br/><br/>
+      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="104" alt="Perch app icon" /></a>
     </td>
-    <td align="center" width="210" valign="top">
+    <td align="center" width="230" valign="top">
       <b>ASBG @ HYU</b><br/>
-      <sub>AWS Students Builder Club · Core Team</sub><br/><br/>
-      <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="84" alt="AWS SBG Core Team Member Badge" /></a>
+      <sub>AWS&nbsp;Builders&nbsp;·&nbsp;Core&nbsp;Team</sub><br/><br/>
+      <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="124" alt="AWS SBG Core Team Member Badge" /></a>
     </td>
-    <td align="center" width="210" valign="top">
+    <td align="center" width="230" valign="top">
       <b>Agent Developer</b><br/>
-      <sub>agentic-rag · Agent OS · dAIso · HARU</sub><br/><br/>
-      <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="60" alt="Agent Developer" />
+      <sub>agentic-rag&nbsp;·&nbsp;dAIso&nbsp;·&nbsp;HARU</sub><br/><br/>
+      <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="104" alt="Agent Developer" />
     </td>
   </tr>
 </table>
