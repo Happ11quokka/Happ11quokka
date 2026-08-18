@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td align="center" width="160">🚀<br/><b>800+</b><br/>Perch users<br/><sub>App Store · 100+ DAU</sub></td>
-    <td align="center" width="160">☁️<br/><b>ASBG</b><br/>Core team<br/><sub>AWS Students Builder Club @ HYU</sub></td>
+    <td align="center" width="160"><a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="52" alt="AWS SBG Core Team Member Badge" /></a><br/><b>ASBG</b><br/>Core team<br/><sub>AWS Students Builder Club @ HYU</sub></td>
     <td align="center" width="160">🏆<br/><b>3 Wins</b><br/>Hackathons<br/><sub>Grand · Excellence · 1st Place</sub></td>
     <td align="center" width="160">🤖<br/><b>Agent OS</b><br/>Built from scratch<br/><sub>own harness · tool use · MCP</sub></td>
   </tr>
