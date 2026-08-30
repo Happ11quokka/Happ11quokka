@@ -210,7 +210,7 @@
 
 ---
 
-### 🐦 Perch — CEO & AI Developer <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
+### 🐦 Perch — Founder <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
 
 [![Repo](https://img.shields.io/badge/Repo-perch__care-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/perch_care)
 [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
