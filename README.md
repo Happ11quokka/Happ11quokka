@@ -432,7 +432,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 ## 🚀 Activities & Leadership
 
-- **Core Team** — [ASBG at HYU — AWS Students Builder Club](https://asbg-hyu.vercel.app/#recruiting) · Hanyang University · 2026 – Present
+- **Core Team** — [ASBG at HYU — AWS Students Builder Club](https://asbg-hyu.vercel.app/#recruiting) · Hanyang University · Aug 2026 – Present
 - **Participant** — [LG Aimers 8th Cohort](https://www.lgaimers.ai/) · LG AI Research · Jan – Feb 2026
 - **Mentor** — [Nexon Foundation HelloMate Coding](https://kr-newsroom.nexon.com/press-center/3399289) · Sep 2025 – Jan 2026
 - **Member** — [HySpark Startup Club (3rd)](https://hyspark.career.greetinghr.com/ko/main) · 2024 – 2025
