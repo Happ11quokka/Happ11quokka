@@ -365,23 +365,23 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 ---
 
-### 🔍 agentic-rag — Decode-RAG Speculative Prefetch Research <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+### 💎 Ulog — Emotion-tracking KakaoTalk chatbot + PWA
 
-[![Repo](https://img.shields.io/badge/Repo-agentic--rag-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/agentic-rag)
-[![Python](https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![llama.cpp](https://img.shields.io/badge/llama.cpp-Metal%20%2F%20GGUF-000000?style=flat-square)](https://github.com/ggml-org/llama.cpp)
-[![Cohere](https://img.shields.io/badge/Cohere-embed%20%2B%20rerank--v3.5-39594C?style=flat-square)](https://cohere.com)
-[![Qdrant](https://img.shields.io/badge/Qdrant-HNSW-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech)
-[![Milvus](https://img.shields.io/badge/Milvus-DiskANN-00A1EA?style=flat-square&logo=milvus&logoColor=white)](https://milvus.io)
+[![Repo](https://img.shields.io/badge/Repo-kakao__impact-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/kakao_impact)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Async_SQLAlchemy-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React_19-PWA-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Redis](https://img.shields.io/badge/Redis-SSE_Push-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Kakao](https://img.shields.io/badge/Kakao_i-Open_Builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://i.kakao.com)
 
-`Undergraduate Capstone · 2-person team` · `2026 – Present, in progress`
+`KakaoTalk chatbot · React PWA · Railway`
 
-> A from-scratch local reproduction of a HPCA-2026 AI-infrastructure paper, extended into an original study that treats the RAG retrieval backend's storage medium — network API → SSD vector DB → external HDD with a DiskANN index — as a controlled experimental variable.
+> Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **emotion gem**, and gives it back as something to look at later.
 
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Reproduced KAIST's HotpotQA agent-idle-time findings locally on Apple Silicon (GPU idle **54.5%**)
-- <img src="https://api.iconify.design/lucide:hard-drive.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Pushed retrieval onto an external USB HDD — diagnosed a Qdrant+HNSW failure (48min+ timeout) and pivoted to Milvus+DiskANN (**17.7s**)
-- <img src="https://api.iconify.design/lucide:zap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Built decode-RAG speculative prefetch (dual-model target/draft) behind a correctness-invariant cache
-- <img src="https://api.iconify.design/lucide:check-circle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Benchmarks measured against **live Cohere API calls**, not simulated latencies
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion terms onto 10 canonical codes, then a supervisor LLM validates and corrects it: **41.7% → 97.3%** accuracy, on a low-cost model at temperature 0
+- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Live Node → Python migration** — moved a running service off Fastify + Drizzle onto FastAPI + async SQLAlchemy without downtime, stamping Alembic onto the existing schema instead of rebuilding it
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SSE over WebSocket** — gem delivery only needs server → client push, and Kakao’s 5-second webhook limit is answered immediately with a callback while classification finishes asynchronously
+- <img src="https://api.iconify.design/lucide:chart-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Measured, then pivoted** — SUS **71.25** and emotional awareness 3.60 → 3.90; calendar reflection drew the highest engagement, which turned the product away from AI analytics toward reflective review
 
 ---
 
@@ -391,7 +391,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 | Project | TL;DR | Stack | Link |
 |:--------|:------|:------|:----:|
-| **kakao_impact** | Emotion-tracking chatbot + PWA, live Node→Python backend migration | FastAPI · SQLAlchemy · PostgreSQL · React | [GitHub](https://github.com/Happ11quokka/kakao_impact) |
+| **agentic-rag** | Decode-RAG speculative prefetch — HPCA-2026 reproduction, storage medium as a controlled variable | Python · llama.cpp · Milvus/DiskANN · Cohere | [GitHub](https://github.com/Happ11quokka/agentic-rag) |
 | **ESG-report-KR** | Multimodal RAG for Korean ESG reports | Python · Pinecone · EXAONE · CLIP | [GitHub](https://github.com/Happ11quokka/ESG-report-KR) |
 | **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
 | **Motor Sticker Detection** | Vision QC agent — YOLO + VLM judgment loop, presented to Korean gov't officials | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
