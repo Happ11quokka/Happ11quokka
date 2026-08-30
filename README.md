@@ -374,7 +374,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 [![Redis](https://img.shields.io/badge/Redis-SSE_Push-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
 [![Kakao](https://img.shields.io/badge/Kakao_i-Open_Builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://i.kakao.com)
 
-`KakaoTalk chatbot · React PWA · Railway`
+`KakaoTalk chatbot · React PWA` · `with Todaktodak Social Cooperative` · `mentored by Kakao Impact Foundation`
 
 > Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **emotion gem**, and gives it back as something to look at later.
 
