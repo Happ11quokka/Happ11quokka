@@ -365,7 +365,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 ---
 
-### 💎 Ulog — Emotion-tracking KakaoTalk chatbot + PWA
+### 💗 Ulog — Emotion-tracking KakaoTalk chatbot + PWA <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/tech-for-impact-white.svg"><img align="right" height="16" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/tech-for-impact-dark.svg" alt="Kakao Tech for Impact" /></picture>
 
 [![Repo](https://img.shields.io/badge/Repo-kakao__impact-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/kakao_impact)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Async_SQLAlchemy-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -378,11 +378,10 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 > Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **emotion gem**, and gives it back as something to look at later.
 
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion terms onto 10 canonical codes, then a supervisor LLM validates and corrects it: **41.7% → 97.3%** accuracy, on a low-cost model at temperature 0
-- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Live Node → Python migration** — moved a running service off Fastify + Drizzle onto FastAPI + async SQLAlchemy without downtime, stamping Alembic onto the existing schema instead of rebuilding it
-- <img src="https://api.iconify.design/lucide:zap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SSE over WebSocket** — gem delivery only needs server → client push, and Kakao’s 5-second webhook limit is answered immediately with a callback while classification finishes asynchronously
-- <img src="https://api.iconify.design/lucide:chart-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Measured, then pivoted** — SUS **71.25** and emotional awareness 3.60 → 3.90; calendar reflection drew the highest engagement, which turned the product away from AI analytics toward reflective review
-
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion terms onto 10 canonical DB codes, then a supervisor LLM re-checks and corrects it — temperature 0 on a low-cost model, **41.7% → 97.3%**
+- <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Timeout-decoupled inference** — the messenger’s 5-second webhook budget is acknowledged instantly, classification runs asynchronously, and the result comes back on a callback — model latency stops being the webhook’s problem
+- <img src="https://api.iconify.design/lucide:layers.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Three services, one schema** — chatbot webhook · REST/SSE API · React PWA, on FastAPI with async SQLAlchemy over PostgreSQL and Redis, migrations under Alembic
+- <img src="https://api.iconify.design/lucide:radio.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SSE, not WebSocket** — the live gem inventory is server → client only, so a one-way event stream replaces a duplex socket and its reconnect/heartbeat machinery
 ---
 
 <details>
