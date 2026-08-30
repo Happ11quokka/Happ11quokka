@@ -266,11 +266,9 @@
 <summary><b>🎖️ Scholarships</b></summary>
 <br/>
 
-- **With Multicultural Scholarship** — 2026 Spring
 - **Saehaeam Academic Foundation Career Challenge Scholarship** — 2026 Spring
 - **GCC (Global Communication Center) Scholarship** — Jan 2025 – Present
 - **Startup Dormitory Scholarship** — 2025 Spring – 2026 Spring
-- **Myungin Multicultural Scholarship** — 2025 Spring
 
 </details>
 
