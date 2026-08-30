@@ -170,22 +170,24 @@
 
 ## 💼 Experience
 
-### 🧠 Hanyang University HCC Lab — Undergraduate Research Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+### 🧠 Hanyang University HCC Lab — Summer Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
 
 [![Lab](https://img.shields.io/badge/Lab-Human--Centered_Computing-002856?style=flat-square)](https://hcc.hanyang.ac.kr/)
 [![SAM 3](https://img.shields.io/badge/SAM_3-Text_Prompt_PCS-0467DF?style=flat-square&logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
 [![MLLM](https://img.shields.io/badge/MLLM-Multimodal-1C5FA8?style=flat-square)](#)
-[![OCR](https://img.shields.io/badge/OCR-Preprocessing_%2B_Edit_Distance-1C5FA8?style=flat-square)](#)
+[![YOLO](https://img.shields.io/badge/YOLO-Panel_Detector-1C5FA8?style=flat-square)](#)
+[![Grounding](https://img.shields.io/badge/Visual_Grounding-Manual--Driven-002856?style=flat-square)](#)
 
 `Dept. of Data Science · Human-Centered Computing Lab` · `Jul 2026 – Aug 2026`
 
 > Industrial image labeling has to separate objects that look identical but **mean** different things. I built a Human-in-the-Loop agent that labels by meaning — natural language and multimodal context instead of coordinates.
 
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SAM 3 semantic labeling pipeline** — OCR pulls on-surface text, an MLLM proposes meaning-based candidates, and **SAM 3 Text Prompt PCS** selects every same-meaning object from a single natural-language prompt
-- <img src="https://api.iconify.design/lucide:target.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Image Exemplar few-shot** — whatever the user picks becomes an instant exemplar for the next sweep
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SAM 3 semantic labeling pipeline** — an MLLM proposes meaning-based candidates, **SAM 3 Text Prompt PCS** selects every same-meaning object from a single natural-language prompt, and whatever the user picks becomes an instant **Image Exemplar** for the next sweep
 - <img src="https://api.iconify.design/lucide:tag.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Attribute prompting** — RESAnything-style attribute prompts, then attribute-based scoring across competing mask candidates to choose the best segmentation
-- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**OCR hardening** — ROI crop / upscale / contrast preprocessing tools, plus a button-name dictionary with edit-distance correction for misreads
-- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Outcome** — repetitive coordinate-level labeling became meaning-level labeling; surface text and LED state disambiguate visually identical objects; **KDMS poster presentation upcoming**
+- <img src="https://api.iconify.design/lucide:book-open-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual-driven manipulation grounding** — took the same meaning-first idea to robot operation: a machine manual becomes a symbolic element list, and those names get grounded onto real control-panel coordinates. Drove the full visual-grounding stage end-to-end on industrial CNC panels for the first time — **48 of 64 element names grounded**, entirely offline, no robot in the loop
+- <img src="https://api.iconify.design/lucide:crosshair.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Detector swap &amp; pipeline repair** — the reference detector lived behind an unreachable internal GPU cluster, so I wrote an adapter over our own **4-class YOLO** (mAP50 **0.893**) honoring its normalized-bbox contract, replaced LLM-based JSON formatting with deterministic parsing, and fixed **12 defects** in the reference implementation — one restored image crop alone cut a button’s localization error from 0.127 to 0.005
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Key finding** — tracing every failure showed the correct box was *always* already among the candidates: the bottleneck is name ↔ box matching, not detection. That argues for **candidates from the system, the class decision from the human** — exactly where a Human-in-the-Loop UI pays off
+- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Outcome** — repetitive coordinate-level labeling became meaning-level labeling; panel text and LED state disambiguate visually identical objects; **KDMS poster presentation upcoming**
 
 ---
 
