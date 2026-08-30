@@ -365,7 +365,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 ---
 
-### 💗 Ulog — Emotion-tracking KakaoTalk chatbot + PWA <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/tech-for-impact-white.svg"><img align="right" height="16" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/tech-for-impact-dark.svg" alt="Kakao Tech for Impact" /></picture>
+### 💗 Ulog — Emotion-tracking KakaoTalk chatbot + PWA <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-white.svg"><img align="right" height="20" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-dark.svg" alt="Kakao Impact" /></picture>
 
 [![Repo](https://img.shields.io/badge/Repo-kakao__impact-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/kakao_impact)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Async_SQLAlchemy-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
