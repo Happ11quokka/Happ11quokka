@@ -17,7 +17,7 @@
 ## Hi, I'm Donghyun — an AI / SW engineer, still figuring out how far agents can go
 
 - 🐦 &nbsp;**Shipped Perch to the App Store** — AI-powered pet bird health app, **800+ users · 100+ DAU**, full-stack solo (Flutter · FastAPI · LLM · ML · Agent · RAG)
-- 📊 &nbsp;**Agentic RAG systems** — HyDE · reranking · pgvector, and vector indexes pushed against real storage tiers: **HNSW** on SSD, **DiskANN** on Milvus over an external HDD
+- 📊 &nbsp;**Agentic RAG systems** — HyDE · reranking · pgvector, vector indexes pushed against real storage tiers (**HNSW** on SSD, **DiskANN** on Milvus over an external HDD), and a **draft-model speculative prefetch** that hides retrieval behind decode
 - 🤖 &nbsp;**Agent engineering** — semantic labeling agents · physical / industrial agents · AdTech Agent OS on a self-built harness
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon
 - 💹 &nbsp;**AI × Finance** — WorldQuant Consultant (**Gold Medal**) · IQC Stage 1 **top 20%** · APAF 2025 @ Quant Analytics Lab
@@ -35,10 +35,10 @@
 
 ## ⚡ What I'm up to right now
 
-`Last updated Aug 2026`
+`Last updated Sep 2026`
 
 - 🧠 &nbsp;Undergraduate research at **Hanyang HCC Lab** — a semantic labeling agent for industrial imagery, heading to a **KDMS poster**
-- 🎓 &nbsp;Still building out **agentic-rag** — an ongoing capstone project on decode-RAG speculative prefetch
+- 🎓 &nbsp;Deep in **agentic-rag**, my capstone on decode-RAG speculative prefetch — a **Qwen3-1.7B draft** predicts the next search a **Qwen3-14B target** will make and pre-runs it against **10M Wikipedia vectors on Milvus DiskANN over an external HDD**; latest round swapped the agent loop from ReAct to **Search-o1** (HotpotQA EM 0.00 → 0.47) and is now chasing draft hit rate (14% exact, 0% near)
 - ☁️ &nbsp;Starting up **ASBG at HYU** — Hanyang's AWS Students Builder Club — as core team
 
 <!-- ══════════════════════════════════════════════════════ -->
@@ -144,9 +144,9 @@
 | Category | Technology | Level |
 |:--------:|:-----------|:-----:|
 | **Agent Engineering** | Harness engineering — provider-neutral LLM/execution split, tool use, approval gates | Advanced |
-| **Agent Engineering** | Loop engineering — ReAct / Reflexion / LATS style loops, multi-agent pipelines | Advanced |
+| **Agent Engineering** | Loop engineering — ReAct / Reflexion / LATS / Search-o1 style loops, multi-agent pipelines | Advanced |
 | **Agent Engineering** | Human-in-the-Loop & self-evolving workflows — exemplar feedback, few-shot promotion | Advanced |
-| **Machine Learning** | RAG — HyDE, reranking, speculative prefetch, pgvector · Milvus (DiskANN) · Qdrant (HNSW) | Advanced |
+| **Machine Learning** | RAG — HyDE, reranking, draft/target speculative prefetch, BGE-M3, pgvector · Milvus (DiskANN) · Qdrant (HNSW) | Advanced |
 | **Machine Learning** | LLM routing & compression — model routing, quantization (GPTQ / AWQ) | Advanced |
 | **Machine Learning** | Multimodal & Vision — GPT-4V, SAM 3, OCR pipelines, YOLO | Intermediate |
 | **Machine Learning** | Classical ML — XGBoost, feature engineering, backtesting & statistical validation | Intermediate |
@@ -388,7 +388,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 | Project | TL;DR | Stack | Link |
 |:--------|:------|:------|:----:|
-| **agentic-rag** | Decode-RAG speculative prefetch — HPCA-2026 reproduction, storage medium as a controlled variable | Python · llama.cpp · Milvus/DiskANN · Cohere | [GitHub](https://github.com/Happ11quokka/agentic-rag) |
+| **agentic-rag** | Decode-RAG speculative prefetch — HPCA-2026 reproduction, then a Qwen3 draft/target prefetch study on 10M-vector Milvus DiskANN over an external HDD, ReAct → Search-o1 loop (HotpotQA EM 0.00 → 0.47) | Python · llama.cpp · Milvus/DiskANN · BGE-M3 · Qwen3 · Cohere | [GitHub](https://github.com/Happ11quokka/agentic-rag) |
 | **ESG-report-KR** | Multimodal RAG for Korean ESG reports | Python · Pinecone · EXAONE · CLIP | [GitHub](https://github.com/Happ11quokka/ESG-report-KR) |
 | **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
 | **Motor Sticker Detection** | Vision QC agent — YOLO + VLM judgment loop, presented to Korean gov't officials | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
