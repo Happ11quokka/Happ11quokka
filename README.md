@@ -17,7 +17,7 @@
 ## Hi, I'm Donghyun — an AI / SW engineer, still figuring out how far agents can go
 
 - 🐦 &nbsp;**Shipped Perch to the App Store** — AI-powered pet bird health app, **800+ users · 100+ DAU**, full-stack solo (Flutter · FastAPI · LLM · ML · Agent · RAG)
-- 📊 &nbsp;**Agentic RAG systems** — HyDE · reranking · pgvector, vector indexes pushed against real storage tiers (**HNSW** on SSD, **DiskANN** on Milvus over an external HDD), and a **draft-model speculative prefetch** that hides retrieval behind decode
+- 📊 &nbsp;**Agentic RAG systems** — **decode-RAG speculative prefetch**: a Qwen3-1.7B draft predicts a Qwen3-14B target's next search and pre-runs it on **10M-vector Milvus DiskANN over an external HDD**, inside a **Search-o1** loop; plus HyDE · reranking · pgvector in production
 - 🤖 &nbsp;**Agent engineering** — semantic labeling agents · physical / industrial agents · AdTech Agent OS on a self-built harness
 - 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon
 - 💹 &nbsp;**AI × Finance** — WorldQuant Consultant (**Gold Medal**) · IQC Stage 1 **top 20%** · APAF 2025 @ Quant Analytics Lab
