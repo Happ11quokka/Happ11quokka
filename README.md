@@ -14,20 +14,14 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## Hi, I'm Donghyun — an AI / SW engineer, still figuring out how far agents can go
+## Hi, I'm Donghyun — an AI / Software Engineer building, experimenting, and exploring what's possible with AI agents
 
-- 🐦 &nbsp;**Shipped Perch to the App Store** — AI-powered pet bird health app, **800+ users · 100+ DAU**, full-stack solo (Flutter · FastAPI · LLM · ML · Agent · RAG)
-- 📊 &nbsp;**Agentic RAG systems** — **decode-RAG speculative prefetch**: a Qwen3-1.7B draft predicts a Qwen3-14B target's next search and pre-runs it on **10M-vector Milvus DiskANN over an external HDD**, inside a **Search-o1** loop; plus HyDE · reranking · pgvector in production
-- 🤖 &nbsp;**Agent engineering** — semantic labeling agents · physical / industrial agents · AdTech Agent OS on a self-built harness
-- 🏆 &nbsp;**Hackathon Wins** — Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon
-- 💹 &nbsp;**AI × Finance** — WorldQuant Consultant (**Gold Medal**) · IQC Stage 1 **top 20%** · APAF 2025 @ Quant Analytics Lab
-- ✍️ &nbsp;**Translation** — Hanyang GCC translation scholarship recipient · **100,000+ characters** translated
-- 🌏 &nbsp;Korean · Chinese (native) · English (professional)
+**Work that stayed with me**
 
-<br/>
-
-[![Tistory](https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://hpyquokka.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-limdongxian1207%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:limdongxian1207@gmail.com)
+- 🐦 &nbsp;**Perch — my first app, and my first AI project.** A daily journal for the bird you share your home with: weight, meals, water, droppings and check-up photos, all in one place. An AI that knows birds reads them back to you. It watches weight trends over time, looks over photos of feathers and droppings, and answers questions from an avian-care knowledge base. **Live on the App Store.**
+- 🎓 &nbsp;**Capstone: retrieval latency hiding in agentic RAG.** We asked whether a small draft LLM (Qwen3-1.7B) can predict a larger target model's (Qwen3-14B) next search and run it early, so disk-bound retrieval over **10M-vector Milvus DiskANN on an HDD** overlaps with generation. Prefetched results matched the target's own searches exactly (overlap 1.0) at a **13.6–16.3% hit rate**. On a single device, GPU bandwidth and I/O contention kept end-to-end latency from improving (+6–18%). It is a negative result, and we isolated its causes.
+- 🤖 &nbsp;**Agent developer across domains.** I've built agents for **AdTech** (creative-ad generation), **manufacturing** (defect inspection, industrial image labeling), **robotics** (from a manual to button presses for a robot arm), **finance** (bank-process mapping, disclosure research, quant signals) and **everyday & public services** (youth-finance navigation, smart-home routines, emotion journaling).
+- 🏆 &nbsp;**Wins.** Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon · **Gold Medal** as a WorldQuant Consultant
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->
@@ -35,34 +29,60 @@
 
 ## ⚡ What I'm up to right now
 
-`Last updated Sep 2026`
+`Last updated Nov 2026`
 
-- 🧠 &nbsp;Undergraduate research at **Hanyang HCC Lab** — a semantic labeling agent for industrial imagery, heading to a **KDMS poster**
-- 🎓 &nbsp;Deep in **agentic-rag**, my capstone on decode-RAG speculative prefetch — a **Qwen3-1.7B draft** predicts the next search a **Qwen3-14B target** will make and pre-runs it against **10M Wikipedia vectors on Milvus DiskANN over an external HDD**; latest round swapped the agent loop from ReAct to **Search-o1** (HotpotQA EM 0.00 → 0.47) and is now chasing draft hit rate (14% exact, 0% near)
-- ☁️ &nbsp;Starting up **ASBG at HYU** — Hanyang's AWS Students Builder Club — as core team
+- 🏢 &nbsp;**AX Advisor @ [Samsung Global Research](https://www.samsungsgr.com)** (via [Centrogics](https://centrogics.com)) — AI-adoption workshops for researchers, plus Claude Code skills, agents and dashboards built with their teams
+- 🎯 &nbsp;**AI Engineer @ [GROVA Technology (HK)](https://www.aiprofita.com)** — building Profita's AdTech agent: one App Store link → competitor intel, briefs, image / video / playable ads, QC, AppLovin & Meta export
+- 🦾 &nbsp;**Undergraduate Researcher @ [Hanyang HCC Lab](https://hcc.hanyang.ac.kr/)** (HY_UP course) — CNC panel photo + instruction → SAM 3 / MLLM semantic labels → manual-grounded A\* plan → button presses for a robot arm
+- 🏦 &nbsp;**Undergraduate Researcher, Hanyang × [EY Han Young](https://www.ey.com/ko_kr)** — an agent that reads bank manuals and drafts the consultant's **as-is** process map, on local open models
+- 🏛️ &nbsp;**Youth Public AX Supporter @ [Ministry of the Interior and Safety](https://www.mois.go.kr)** — building *Youth Money Map* (청년머니맵): enter your situation once, see which youth-finance products fit you and why
+- 🐦 &nbsp;**Founder @ [Perch](https://perch.ai.kr/ko)** — one year in, a data-driven rebuild of the app, plus a smart perch scale (ESP32-C3) that weighs the bird the moment it lands
+- ☁️ &nbsp;**Core Team @ [ASBG at HYU](https://asbg-hyu.vercel.app)** — founding cohort of Hanyang's AWS Student Builders Group: weekly cloud study sessions and hands-on AWS seminars
 
 <!-- ══════════════════════════════════════════════════════ -->
-<!-- QUICK STATS                                             -->
+<!-- ROLES                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="230" valign="top">
-      <b>Perch</b><br/>
-      <sub>App&nbsp;Store&nbsp;·&nbsp;800+&nbsp;users</sub><br/><br/>
-      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="112" alt="Perch app icon" /></a>
+    <td align="center" width="200" valign="top">
+      <b>Samsung Global Research</b><br/>
+      <sub>AX&nbsp;Advisor</sub><br/><br/>
+      <a href="https://www.samsungsgr.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" width="160" alt="Samsung Global Research" /></a>
     </td>
-    <td align="center" width="230" valign="top">
+    <td align="center" width="200" valign="top">
+      <b>GROVA Technology</b><br/>
+      <sub>AI&nbsp;Engineer&nbsp;·&nbsp;Profita</sub><br/><br/>
+      <a href="https://www.aiprofita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-white.png"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-dark.png" width="130" alt="Profita by GROVA Technology" /></picture></a>
+    </td>
+    <td align="center" width="200" valign="top">
+      <b>Hanyang HCC Lab</b><br/>
+      <sub>Undergraduate&nbsp;Researcher</sub><br/><br/>
+      <a href="https://hcc.hanyang.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" height="72" alt="Hanyang HCC Lab" /></picture></a>
+    </td>
+    <td align="center" width="200" valign="top">
+      <b>Hanyang × EY Han Young</b><br/>
+      <sub>Undergraduate&nbsp;Researcher</sub><br/><br/>
+      <a href="https://www.ey.com/ko_kr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" height="72" alt="EY" /></picture></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" valign="top">
+      <b>Korea MOIS</b><br/>
+      <sub>Youth&nbsp;Public&nbsp;AX&nbsp;Supporter</sub><br/><br/>
+      <a href="https://www.mois.go.kr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/mois-logo-white.svg"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/mois-logo.svg" width="170" alt="Ministry of the Interior and Safety" /></picture></a>
+    </td>
+    <td align="center" width="200" valign="top">
+      <b>Perch</b><br/>
+      <sub>Founder&nbsp;·&nbsp;App&nbsp;&amp;&nbsp;Smart&nbsp;Scale</sub><br/><br/>
+      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-app-icon.png" height="96" alt="Perch app icon" /></a>
+    </td>
+    <td align="center" width="200" valign="top">
       <b>ASBG @ HYU</b><br/>
       <sub>AWS&nbsp;Builders&nbsp;·&nbsp;Core&nbsp;Team</sub><br/><br/>
       <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://images.credly.com/size/340x340/images/94475512-f247-408f-9809-9e1f93c60c18/blob" height="128" alt="AWS SBG Core Team Member Badge" /></a>
-    </td>
-    <td align="center" width="230" valign="top">
-      <b>Agent Developer</b><br/>
-      <sub>agentic-rag&nbsp;·&nbsp;dAIso&nbsp;·&nbsp;HARU</sub><br/><br/>
-      <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/agent-icon.svg?v=1" height="112" alt="Agent Developer" />
     </td>
   </tr>
 </table>
@@ -75,138 +95,102 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Frontend · Web & App**
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://www.swift.org)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-
-**Backend · Data & Vector DB**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
-[![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)](https://milvus.io)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app)
-
-**Cloud · AWS**
-
-[![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAADg0lEQVRYhe3VW4jVVRTH8c8644xaYVEoBgkVkiRFiT3YDSO6Yk7QNFOj2IWkl5KmkIwiGCi07OJYEVQQZU3WTFoWGT2UlRUh3TCSsofuRQQRXabU8aweOtk%2B4%2BTMaPRQLtgv%2B7v2b%2F%2FW%2Bq9zNnvj%2Fx6xO4dyhX2N8jYmSGprScxz279iAPJx86UHCgM%2FazAl2n09Ep3KiC%2FudRH40IN4t0D76bd4pHoj6kD2mC5skJqjzXO50gl4TYpaF1KYEXNtGK7msDuQKTRYLlSErlxrdLR7Q%2BgRtVJCSMszh1%2FY8D%2FBGvOEE2sXTfaLK0GjhUJfYWKGbnP%2FeQNp3wE7N%2BZqE6LFl7h9AFuSK3bK30MD29yPjUWl%2B9vu5prKLcJnBTtEg0XDkR3yW%2BVTDjXK1JhtbT7jVNu9WPz0qjguzvdu9pijqrtgv6qYGu0%2B3ZX%2B0B1odBvuzrVGR7OXsLqotIJ7MoVWK1WsL9hYVUuHkt%2BlgXzeSWjB4fp1gAYLhd%2BKtBOs0hohVXWgWrDWfMzM3TKQnSroEqJW0Q25ysHR7BNpWVEp3J7P2icu9I7wcB1LXdmjYcQGHG8%2Bphdi%2B2kyCWyzWPimYJNssRCE64WfCnasbS77u2sGHcJca5wGH0kTi6F6NGaZtyNnjYulh%2BqGjiOjxWf5hEW4pWDf2eKIuNQPw%2BtAo05MLHb6VN1Ql9NsBXV%2FuWNl7S0Iy6SPCzZekxsHu2onA7nOZFxR9x3Dkpjt8zIvQqq4Ssgirz17nRxttgrXDtBYkI%2BYMnQHqu4SmoqDX%2Bh352Duo9mbQnfdW1CxPDtV4gJPCy8UrFGDO3ZpIF92unD2gAm%2FJmbrG8xATeE64ZfizDRHuaRGrxH6CzYrH3f2oAbyLY3S3QPkX3eGVX97OWK2r3Br%2FaYl2WP%2FaLNJuK%2BOVd2Z92n8K%2FVPA6%2FqULWsmFyqWoT36gR%2BUx%2BzfKLXGKNtkg4tzi%2BNFotytYP02ywdWLCrY46uHQbyVeOxWTqgzsDwVlucozfXaEVPsb8VR8d5NmevBdJdBftROiLm%2BLZS68NNwgEDpna469ZcZ0ycq1d4pdhvovYWpHuF9ws2TuiESq53DObb%2FThM3453ogPbC3ZuPunMaLMdVw84d3l2mx653mqcsmN7V%2B3mj6dmZ%2FaTBtPiLN%2FnGvdgTsE%2BsNHM6FTNXj3SaQV7eQ8K3xv%2FkfgdjJZJbH5E78oAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/amplify/)
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE%2B0lEQVR42u2WaWwUZRjHf%2B%2B7M7M7O1vKITelUCg2LRUMIIQgAimnXBKUEBKVmGIUognxSDAhkhCMJoJIIhFQRJAKkaCCoAHkkvsoR2lLD9pCLdBytN3t7s52Dj8Ui4WCGD%2FwpU8yM1%2Fed95f%2Fu%2F%2FOUSvfsNdHmNIHnO0ALQAtAA8EEAIgZQS13VxXRcpJUKIxufuGnH3Z1I2%2BTbsu7v%2BkQGEEFiWRXV1DVJKpJQEQyFs28Y0Y8RiMaQQxGL1hMNRXLehloXDERzHIRSqw7ZtFEUhFApjWdYDIWSzh9s28a1ase7Lpfy2dT0Hdm7mi08X4%2FVqrFq%2BhInjMqi4Vsn0KePZsPozdJ8X04yxctliRg0fyvPjRrF720Z2bvmG79YsJy4ugGXbzUI0q4Bj2xiGzqkzOcx%2B4x1em%2FsekyZkMGHMKKRHMmvGFMxYjAljRzHi2SEkdOtCxw5PMGl8Bqqqsuyjhaxau5EXX36Tn3bsQlPVRpX%2BFcB1XbxeL5dKr7Bm3fd0T%2BiC8EjyC4pITOhC1g%2FbSO7Vk5TkXhh%2BnfyCYvqnp9EvPZXL5RXsP3QUq95i2OCBdGjfjg2btnK9suqBEMp9RFISjZqkpSSzftUyrl6r5HJ5BV07dwIER09kI4Rg6sQxBIMhdv1%2BkEEDnqKuLsLJ7HOUlpWT%2Bdb7zJ%2BXyY9Zq8nNL%2BT1txdQWXUTVVXug7hPASkEwVCIGdMmgoBBIyfzwqw53LxVjWHoXCq9TG5%2BIXNmz%2BRS2RV27T1I%2F76pjBg2mJ937CY%2BvhV79h9m6OhppA7KoE%2FvJKZNGkswFGrMjocq4AKaqpJXUEzmqzP5%2FJNFdO3cgU4d25Oe%2BiQeKTnwxzGGD32GvItFXMgvol27Nng1jb0HDpOWksyiD%2BZz%2BkwOAcOPFILs87n4vN5mr8DTtlPih%2Fd7QCW%2FoJjrVTdISU7i0NGTLF%2B5lsKiEiquVXL1ehVXyivYs%2F8QkWiEy%2BUV7Ny1j4LCEsxYDK%2Bm0ad3T2zbZuGSpew7eIz4%2BLhmAcS9A4kLKB4PNbW1RCImqqqgKAqaqlJfX08gYGBZFnV1YQzDQFU9BEN1AMQZBrbjUFMbxHVdknv1IKVPb4KhEOcvXMRuJhWbKCCFIBo16Zvah3mZr3DteiU3bt1G01R8Pi9%2Bv79hk8eDYfgRQuC6oOs6us8LCBRFQQpBxnPDmDl9MkMG9mf%2BvEzO5uSRl1%2BIrvuaKNHEA47rous%2BzuXk0bN7N1av%2BJhzF%2FLYtGU7p8%2FmcLu6BgF4FAXF40HcKcOu62LbDpZl4TgOfl3nVnU1lmWx8qsNBOICRCJRhJTcewtKc3VA0zSytmzjyPFsFrw7l6yvV1BdU8uR46c4mX2e4pIyqm7cIho1cXHRVJW2bVqT1KM7A55OZ%2FDA%2FgQMg2%2BzttCmdTymaXLkxGkChh%2FHcR7ugca78XiIRk1CdXWkp6Uw66UpTBg9kq5dOj20uxUUlbD91z1s3voLZ8%2FnMXXiaGqDIc6cy8UwdBzHfTSAf3bEcDhCOBIhLhCgZ48EeiclkpjQFU3TAIiEoxSXllFUXErZlT%2BJmiYBw0DXfUQiEVwXfF4N51GyoNl6LQVCyDvd0CRWb2HbdqOZhBCNmeL1akgpcRwH13UbXf%2BgXqA8ytDQIJsNNDje7weBAPG3bxpezp3ZwbbtJp56WCj%2FdYK510QtM2ELQAvA%2F42%2FANTqLBg67W6fAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEdElEQVRIibWWa2wUVRTHz7k7s4%2FpdG3LEqk02oCSNCjW0kdKfRQIBBI0YmOoRisxGFttbIz6QT75WaIEH1RDCHwwYgyY%2BMCGkBZoQ2q1bSwJpmIBK6WotGW3uzv7mJ17%2FDAzt7O7s7Uf4Mtk5p8z93fP4557cOqdICAhAiIhA7TeYUFEQOYmWvY5oqULUSICBCQgAAROwBCAABwiEHAElida9jkimDoyS5SIIOvP282QiPKWu60M0wM3hiTL5WsBcSHKQIjAw5cpHVk6QyJrX7kMb0Vd8On9%2Bl9DgIBg2SNjLFgRO%2Fbk0v2QiADcGIRS6o%2B%2BaM%2FenLoKtn7lWVFr%2FD28RAYjAiIgjkRAZD4BCMH85FkiEWgD%2B%2FxNb9v2lkjiyXNFZn%2B4McCFoU%2BNoLeYhaqWyPC8URcQQQYr3ggAUum9yrqdKPvllY%2FI5Q9mZiaA66aFEb0eqG9Pj39n24s0OZ5oicwk5%2FuRvj6mjX1jpkqqqFUa24Uf%2BpV%2BVlrJ7qp02Bf0Ay91lImDDuK4s%2BzTL%2FuWd%2FbOdm8GI2GK%2Fqod8urmeM9b%2F9tLGDnIhfJBeirx6%2FFAbZvIR3L8pFxRh%2BoKy6awH8yRQ3eGvLIamDc2eFipewmY17LnpA0eDDS8vrBcAQYjgkUYICuhPceV%2BjaeiCYv9vird4m6Slw44b1%2FM%2FpKFmfYZVqAoTbsjp0%2FrDa%2BDMwbHehWmzoIPRbDMLRfjgTqX83ach6DLXzkMYDJav1zkb5PtQvfK%2BtbjfhccuJcYO1TIr6JkS98D7WAXLQII7tMsxlq%2FfPxsR%2BMZCxy9jN1wx5COXrmI%2FWxTvv8I0%2BnEqPH%2FDVtuaF3MFhuWAQDpWDT7si5Q0RgaJHE%2BBml%2BpnM%2FL%2FpGxd9a7aI5eI%2FHfLXvAjMW4jhVqYciFCt2an93m%2FEw6YYOXuw%2BPEOApzvO1Dc3CWMeSqR%2Bu2k7%2BFWlxLiVohc04slm9pv9XYLkespZBJxps9czUSmvaseFcax858rDa8QSq4MT%2Fu6ItF%2FwHpDtXobk33RkW%2BFWLLxteSfP6cmRwEwc3OiZNve%2BOjXVsfWE9LyB3yrmz2llaiUGXNXna2Jgd03nH4s29o5e%2BoTkQ%2BQAur6lujgl%2BYe09PjXE%2FJFTViy9He9%2FWbl4lA3fJegTJ1MJSqJ1L%2FXNFnpkQ%2BghteiA6f4OmkOB%2BR0x8GN70pegnX5uNDR%2BNDR60O716mNiO0vWvmx4%2BFBaAcbGoL9x9xJik5OYq%2BYunuqpzlAHLvj%2Bwy5RBYVZOJzaVuTAixuK4lNnbK0KI5hRA%2BvT%2B4scsRW%2Fc7ypqLzCsUAZdtbfcUlZa3fYBIAIAIyprGyX07iIM9y1iWiUsDpdvfLXv2AALZdwwQ56YfYvbB4V3lzqnPG7pHCobMmdBk8PhsZu6a1eiZo9cjsKISb%2Bg%2BcFwAXJvl4WvguA%2By5iIATM9M67PTYM%2BdC2xzVsj2g8fDSe2Wyx3lmK8k4EiOmUVEgDgBE2xbzGPYa7nPPtZchHeSYc2md47xH5%2Fv3acGOCQFAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/lambda/)
-[![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEa0lEQVRIibVW608cVRQ%2F5zIsyz6QUo2BWmp9kLS1AUtrNGpitK0VjR%2F4pPGRaERNfSUm%2FgNq%2FNBEY5sYtYlEk8bYSOKjpmqhtqCNwRcLiGIMUMVHF1l2YV8su3t%2BfpiZO3e2C9%2BYZHfO3Dvn%2FM495%2Febe3nyuqfZuFSFraqMM9NqU8q42bYlAqVIX0KkTNt9NseJWAhVpxxbiJRjWwBEaP0wLABEtH4YDsBqGFxbw8GAZAtVA3G4XopFVZI1MGqe3NjJXlhi94Fra6LdN1328gPWpo35b34lInZ%2BpO%2BRZ7vCBw%2BgWC5Px0lgTmlbARB4lwjIUtF79lxx7Hmrpem%2FV%2FpIsTNlvGrfSXH60McUCUbffCLQfSNqayqjAcp0AFPjfbdu%2BeAFq3nD7CNH5l%2F%2FtLyUA8h0MDEIkGwhd2xo8Zl3KBSIvvF44N49IDIxjB4QhdpaGva2zzz4GrIFpZiZARBBgKo9B5ENLpl87t2zy33fRl%2B6vzTxp0zFdT8s0xnMhdn5cjrPzE7PAXsF1XkFEvsNezxTKP%2BTBLHDTEcHAlGOs85I8wpAZG%2B7qg9kTo1E9l%2Bf6x8N7%2B%2FIDYyG93XkB8aCt%2B3IfjJspkggECDQvLIAkJCDAdgV9JIFpQdicy8eZ%2Bbs4AQz54YmmDk%2F9Asz15%2FZ5vTDWx8AEnj6cHsgJIrgNlQ7AHZK0CmatYJbIz0OtwRag8rruEDsnppEdLkLdsY3PLaPgrX2oxPfzyvXiWzKVerA7YKBQaQaQpt7n1ONYdUYDt2ynQJW89GnuKHezsbkrs%2FfrpU%2FX8JFSgFR69sHE739xUQ6evfupc%2B%2BLyUzyfdOX36kRwfTGJpXGkNpHXkYYmAQEbDUP9LQtRuKo3d1Lp38AcyRA7uyX415BdUY5IWyL2WU2s7XsbweEMWPfpkZ%2Fi18Q1txdr6YyqpwXe673xd6B4ggfp2TP10AuslUWUPx9Tlx%2FGuqVYn3zwIoprKpvnPGgs2SeDWyx02hscdil5KaV0S0eGbc3gXJ%2BLY7sTR3XV5VF5pegE8H7n%2BFCERIV6RCB2sIjdyyu7FAofatlz50e25kKtJ5TW50JtxxVX7sfKh9az42E9x55eKH50x4r8Du98qqKAi567AdAKz8m8yMTBXnUhSbLsVTFJsuzS0SUWkuVbqQFL%2FONa%2F0N9HyV9DVIrGDAaxcWMjEppm5GE8p5mI8ZdoA%2FOcSmJBi72i641KW8PbWyK6rQbQGrwxOu%2FuBAER1O7cE2jZBZNUNJz1%2B%2Fo9XP2p%2B%2BI7IoUdTgz%2FPnxiuwitFRroAENzReklXZ%2BTmbYXJvxNvfb48%2BRcbdPBtOCIyf%2BqnRP9ITV2gaW97S8%2Bd0c5rU4PjvjIaGBBsPtyTi80sffHj3OETVCzb%2B6B9dHDOJScbuqsf%2F5hZsVVfZ4WDpWT64inFXNsUxfIKCiWfu%2F%2BUadmiqHKkISKhUr4gyyvMrHllrqO44ABX6MM8XzlCWwPD1PkqU34XP4bbg3XDMHSwPhj%2FAw7LF6t3yR3cAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/api-gateway/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFfUlEQVRIibWWW2xUVRSG19pzztw6ndNp6f02pRdKqVBKgUqECA%2BWAJEHMBjhQYgCSTFEI4kYRVCjEEgsCKESL7yAGtAQGqmRBgkC0oQit0ALLZRKb9N2pj1zbWfOXj6czvQwM5QXedvZWTtf9v7%2FtfaPL6%2B6g4jAGCICQ0QEZKhZACIyBIwUaCrVU%2BN7bKJSPYUIjDEiIiLgnIiAExEBcdIsgIg4AUUKNJXqqfE9PlGpniICzpla9PwYLFL0nBgCEBEAck6MQXiBHIgBAifOBBGtiZhoERBB9pHs5URqAQcIV6qnAIgDMI7AiAMyTpwJxAkZRDFAxypnmBdUWUoLDUTo9nLZywFAStRZLYwxvNMR%2FP2i%2F1Gf8kyGAMSJMy3DbGKfbst2yUpDk1x%2FbFBRIMpXosjKig3%2BAAdOz7yHeoMnGK%2BtSD13SW48NzLhXeDEGYQfbdMaa06GCAgACACA4PHR7u88cRkCEEXeS2Wk2HQWi07HQInRAxjMKdcbDfj54SGAcdfbs4XVNQlEFPceLFZ3AJAsrH6Pfc3K5LIiA2Og9dXaV6Vjp4bdbsXjVdwexeMNvVRpbLzgf5qvBOIUpTsQnDg9OOAMVVUkLlsi1eYZjEY2FqSjJ50A2N0X7O4PIqJ6Y72AM0vEIydkIIyrx%2FgTaRljYzw1Rdi%2BNaet3b%2BvvlfhEJkK%2B3fl7ql3EKeIHjOK9KnJuv3bUwDg9J%2F%2BpuZAFIPF9siZs4Mb3sio%2B6a74Q9nKKhEenBehTkwyi1mLLGLog7UR2u55V%2F9Ts%2BRn0cUTs03ArE9qMu1bwBEBFD9gICzZyUmWoRCu2npEltxgSk%2FR59sE%2FscY9npepsklEw1rFqW1OsI%2FtsbBAQEKCsybn5d2nFgSPZwAAyba3whEFGU7hXllsvNI00XXKJeVzzVnJVpyMvSX7uFl6%2B6%2F27xAGOHv8y7dtsHRMTZtCJD7bqkHXWDwzIHRGSc4Ik%2BF4BTlLcQYMPazLJp5lONQ3favHfv%2ByKzFwDyMoSBoVDArwDDonxx65spn9Q5hlwKIEMG407RMIQ4%2FgXauacjM9341rrM%2FDxjv2NsWFZktxJS6NdG18L5lr%2BuuImoIEu%2FbWPqrv19jkEFw80YyxBUD2kZxMFsZNVV1obGgavX3Uk2MS3VYLEIyDDgV6rnWD784nFOuvDBloy99f2KwtVhE%2FFVFIPF6v7PTXl5zZSm80ML5kuI4HQG2%2B57W667W667zSb0%2B7glgX38btbeQ70rX5EqZ5gmn%2B0sdr53dnpLSxJq384NBJTKWZYpyUKkzxfOt7a2%2B3a%2Bn737YM%2FcCnP5NNODrtHJ%2Fw8BKFr3FUvTDhzqvHrDPW%2BOVFVhXb0yLdmmR4TP9j1aVC1lpIk79nZ1PAh0dAbu3vcvXyy1tjui5pX2rcLTVMMQRazdnP%2FV1w8vXXFdbh6O%2FOlJSWJRgXHbroet93yAWDHdVLs%2BvaNzFOLNxAhDM00jDILvj3YtX5pWuzG%2Frd13r93rGg7JHkWv1x072T81z1Cz2FZabH7cO%2FrDj46F1dJEJ8VjhH80DQOAunv8Zxr7b7d6SooS7PaE4kKz2axjDL0%2BDkBnzzsPftszFiJ7nhHISkRx%2F1qVofnRwgyHY3TmC1Z7vnnrloL1m27cvO1%2BWv4pKTQNDAXh6f85MGCxuh%2F%2FqevFebYEs25fXUck3mhnoqiD8tKEj97LrXk56fgvjslzCc6e9VvcHDe3KnnRoill0xMZ4og7JMshApCsomQVAKH1nu9i88i1mx6CJ3IcahZq%2BsPZMxsmz4qCoJMkUUoSGbIRjyK7FYXDJFkxiiEQUVz%2FRjQPhRSnk1yuoDaPxuaf2Oyj6sGeRx7V6sGiNPnfGez55WqV8R9z3fpxGxuLtQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/dynamodb/)
-[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEuklEQVRIibVWS2wbVRS993kS%2F7%2F5NImTOGlT2pJASqUQNSmC0qpClJ9UWqRSsUCAym%2FBskJi0SWoGwSLCpDY8KmAgkBCQSVV1I9UaCUqhaZxk5A6cezEdmyP7Uns8cy7LPwbj52SBZ3V09F598jvnnOv8eCHOxABERGRseIBERlqzvVwhoCsHrkaFzgRAwQgAOAcGSMAAAAOyKB0rodzQMYJWA25GheIiAPcPw2BqEC9XxoCJyhRN9QwGRo9thajYDI2mHOKJHNZXF%2FlpG5GQyBOnGGtxtbm%2Fr19%2B3e173ZaPLKSS0gRWZVlNWtusBobTG5Ls2BoiKZD%2FpWbNxYmYpnwRhoCEQEHrcZo34GX974ZSi5cnbnw6%2BS55NrqRr5qc3YNdAy9NvI%2BAf%2F2xieLiTu1Gjh6urfsKYZw9NFXH%2BwY%2FPzSmUhqafPe3d7af2L4vfN%2FfXZ7%2BbrOu4wTUOHjxAlG%2Bw58eeXjcDJIJZzzEoGoQq7GZyK3xm%2F%2FMNg5wgmIV5ENnU%2B4ABCh%2BO32DZ%2FYe9JlaVoWlzLZVAnGCkNDLuB9rQMv7nnj6YHjNwITc9FbRUKRhGWbFl8tlFi4NjfRYBDeevJUi6M9lAjMRqYSUkySM2v5dDYv2YxOm8lhM9paHd5tLbs81pal5PxF%2F0%2BZrBgWFyvVdDkoaywlAlscHef%2B%2FGJ86hfBIPQ0b%2Fe6fW1Ob4fbZxRM5kbzel6SlVwqm5gO35zw%2F7wsBgGBMTi06%2Bi4%2F0eN6WtyUECD8cDDXUMF7yqqMheZ%2FifqZ4j3mleAnGOzvT2aDhGRLoOs0Ntyu4LxgNfdXe55qV1EBPt3PvPNycudrq21PQcCBkxRFR3OCZiuVkKKOy1ura%2FKGnlVzmTFU4fPvDR00m5yaWs5zZ7EWqyu30o90GRNURWGAidFh09Mj13y%2F9YoNB7sf%2B70C2dnI1MXps7PrPzNAdscXV5XT2%2FTjvlVv25eGbbsc2gdiADD2x6bDk%2Bm1kUdXrxGfDYyNTb5fV6VDz907NjQ65ZGa6vDG1%2BLHOo%2FksmJwcRdracNW0btVdZG3NkxIOXSwXhAh5fPCAhAYXHx6uzvl2fG2l3dzw4e97p7MlnRbnJfvzuhZetzAByC8YDX7SO6pMPrzsT0enps8rs93SNf%2FfHpel4S12JUPY%2BZtuNFI60G2l3ddcZDja%2FKM6PV4Q0lArH0isJ55SKHYpOrnAu0uBro9HTr8nHv32FAQ17NF95Ft6ME4gSsakMtJ5da7G3aPXFvDbel6NG6e7C4D7QaCucGxgBgkxod7p5gPEBEdXdqqQe86rlj6ajH2qx794360e7sDiUC2nfXklnlmkbjbnTO19xXW6uuRpendyE%2Bv9H%2BMHiGLUWfl0wOgCti%2BIMjHzXZW0QpnlxPElHVRgBEAKNg6vc%2B8sq%2Bt31NW7%2B%2BdlblKkIlKmU2bnu3ST8dGSKi1Wh5avD5kQce7%2FT4VK5IuUwml1rLSXazw25yOszOvCrPRfxX7ly4Pn8FkUoVauZu7ztN%2Bj9%2BJWIZbxQEl9VjM9qtJpuUS0lyRsqlOfHKRab9S1mlUZWDSverfSUrSiwVWcWortZ%2F5qNODjbSqFtrMxmsk4P%2FV6O0Mu%2Bbxr%2F8S4NfDZl1WQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/s3/)
-[![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEh0lEQVRIibVWW0xcVRTd%2Bz5mmGFmeAwwQwSxPopGIRirpRj9Mrb2o5omRhuLCbGipq3Ch020ilTSNjY0FmLbaWlJ8dHEL3%2BMxsTElmJF0zRRawNCERmgUEqZB2XmPuZsP%2B6DO%2FcSX5mem8zcu8%2FZZ51z1tp7HxyrWYNm4zC7gcOCnMNicQTnVAIRgdkYAAeWhsAo2wKMAZdtsTgiAGVbIBvgFmA4AHKNIZDDObcYAhFZp%2BNLS7yPNqAoGKwtP4gAiIgAoPNpviACxROZHwZheTYdgyOtMSIicInhw13oyQMAzQyWh0izap3mtzYS%2BNoaV%2FPL1tm0LgsHDMSqKmloOH7685Uk%2BE%2Fa5Xnf4W7rbNo%2BBG1FmpE4jknSirpCryf85ReZ6avLtKB2DgAAyHHJ5lf1rWU7ajswOCEwzsJBHc%2FLl4fmd7YiolBe7ln%2FBEhS%2BquvIZVCxMKeCGO0gq9FRagdsLdhbfjgB2Awqa8VAUVRG8CXlxcd2Lv48Wd8wF%2F4YWdsZwspCldc5GtvA7fLuTiripCAUj%2F%2FOt99xBr32h%2Fv9xe9sZ2IvBueTPb2pb87i4h8KCQ8WKf8%2BBOLJ25Gjvnfb2eMbNo1SGYAHBABW1yUJ6JOellBgACIEUstccGg5sWVlNBSiohIVdWpaU1PtvjIUpEmQr60pOCZTabeQVXjn5zWRhGRdHm47MghobKCKyxwr6tPfHSUmKFc49eKYUt2BAQsLcvRqBlJwDKmqvM3bvA%2Fu%2Fna9hbkeZCkdP9AcVdnbM9ePRYsKjIxsgAIgAgyyeTN7wd1hpdSnM8HgkBEQnnYv%2FX5maZXQJK0A5Qv%2FaYMj7jrahd27Samx9zyahlwtmSnBad4e2V5%2B25AIFm%2BfrC77K03bxw7If8%2BIq6649rbbSyV0uXFADhQJibUqM6ZU6aMgWDlXetOj46NN24za0i0qRkR%2BUAAADz1j7juvgsBUucHpQsXXdX35m%2FaKFZVsXg8faZ%2FfkeLMycKVt6JMTLPMTtnZRKJyRe3cS5RJ35qOtDUmLfmoURvnzr2h1Bakr%2F5ae9T62PvvEeKAk4VaRhSdNJbV%2Bu6cxWoanYcACIqV2c0Q2Zm1rP2YXfNA7M7WpEIEVkioXQe8m95zvdSU%2FLoces%2BBCvv6kJsen9n2euvcaIAepa2JB3jY65jX8HWLdf3HaBMRuvl8v1Fu1oXOvaH%2Bk4ke3pJVU0MwcZ74sy55NkBR7a0BjUiIh8sVian3PdVKyNXOJ%2BvtKsz0dtHqqqM%2F8mFQpnJSbNG2Uvmv6xTRECI3scfExtfECsrYidPpQfOIyJ6PCydNuZEYMQZxWG5MYfFVkOIKP3LJW9D%2FY1Ijzw0HDt%2Bcql%2FgIi4okI%2BGFRnZy1uIBDB%2F6i385Geiki3PD6x0Pepfmp5ecE978YiPbYijwOFlX9Xp5zN4COvenW4o00avaKMjArhkHddfaz31NI339oT5bmCCuP1v9%2FjeN5Tc7979T2Zubn0hYsgyysM6w%2FcZrHl4K5oG2ZTUQ7uirZhzotXjjHsF6%2BcY2SVzFuB8RdfaBiTlmGjsQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/cognito/)
-[![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFjUlEQVRIibVWa2wUVRQ%2B587s%2B9Httt2WtrRApaUtDVSCPFJCYy2KAaMIKo%2F4o2iUaEg0IRASg%2FxRI5rADyQEIjYxJjxCFDEgL4mCxhIoSAVKgZYC3W67bHdnX92d2Xv8MbvDdNuCf5hkJmdm7jnfud8595yDG1%2FsQECGiMjS90gBEVlaYOn3xwq69ciQiUQckHECBhyAccgWAIADZ8AAOAfGAB4vALDMeuDARU7E4CliiETqj6eFIRJR5scTMGw5gjVHYMiGIzwWov%2BJoVIEj8Eoq7HWNzsr6i2RQCrgVRDRmSeY7UL%2Fbbnjt3hfp%2FJ4DI2iMTDyS8xL1nliEr94XAr0ybUN9pPfDgGBwcRiQXqhxbVyq%2FtuR%2FLUnnBoYNwN4frGtrESjtXOcz6%2FquDITl9fV0L94nCLFTOts192JofJeyvpu6NI%2FpQgsuZ3nH8eiHW3y2PmrhqDbPDaObaGZXl7N%2FUkY4SY5iocUJ5b4mzd7E3J2PLVhHMHB7iMiLh%2F69CyjS4A6m5XxtgHJ07pi6uSu0hsfruw9dOeeDTFiYi4eueXilEpVTjFmONhggBKkqu68Yhy%2BMvg%2FDdsTg%2FykaaIuEhEWs6qmMvWTzy0%2FV40rDBELR5NazxWp3B0p29RS4HJyk61BkQTysNp3XhYObFHampxHP48mBUGlgbK7GNSjTUqKb03ohkvOAFVz3d4yoxHd%2FkCPvnAF97vt3htLqFhuVOv23czMRzlxZWi3n1O9IgiVZizOO%2FcT76RO%2BVTZ9kObe%2FjPM0VEb9yRiqvM9vdqNe9dCxS22jJoojp3efEy6psd66G1RVT6%2B0f7qh4%2F%2BspbccexiOKPh6c87ajofpmB%2Bl0791IFFWIWWFgGR1ORBa7IMt88nT7rCa3xc6Wvleyd%2FPt7z%2FreWVdscqVHqPjnFQ1x6p9ISLOeSzEzXbIokjT4Tn5BptTnLkw1%2BEWAQkQ4rFUPKIIBiirsVbPtSMDbX0ywYMDSm6RqMeIBBWrE0dnUbo2pFL81hXpwI5utZSfPdj%2F0TdViHj8O2%2FIn6hbkNO0ynOidaDrYlRdf%2FffWEmlMeCVNQtMQFnhuvoGomo%2FfZSGkk63QT16HPjV80Nd7VLIrxAhQzyy676rwPTqByXVcx2%2F7PZRij%2F0JgsnmfUW7G5BGlQ4waO6q6dVGko43EbKcDhjYW7tfFcqxbUtBwcTrVt7%2FA8Sqz8pJaC%2BW%2FH2kyHNAjAwWVBOPgpqNkUcoPdmeFK1vftahAErLDNfvxCiUbXk98ODl88GX1rrmVhlNdvYiX3%2BW5diDHj5dEtPRzxtL9M%2FtCxKP84f7W98vVh1QTSyaEgeXUuIeCpFpZWW3Ru69266u%2FBNt6r87CLHP2fDI%2FKK%2BAiKiHhn%2B5DDbaisdxJROJh0uA36g6JhJOKKycosdvSUGaMhhYiX15pFI97vjOvdJSKhrmg1ACCkHwhw%2B6q0dkt1268%2BV4HJ7jL0XIsAqL8R0hfyFA35kq%2BtLy2abP55V79gwBUbSg5t8ybiXG8KAIXpRSv17wAQk%2BSAL%2FnWx8%2F8dcw3b3HhhdODmmk9RsCbVJJ06XSwcUX%2BguX5Z37wP%2BiKZ5lCgHRPzmrCl%2F8YQIQ1G6cWFFtEIyrJR2OIVncn1TmnzXZID%2BUZja792%2B7f%2BDuCgKP7uVBTuDLj1QhwX2%2Bs82KwrMoxc0FePKL4%2B4aBtHWICEvfLZ1YZSuabNm3pbv3egwBALPdB0BcUffjqLlshFA509WwZEL5NIcUkMMBGRnk5BntLsO9m7G24%2F7ujlhWr82aE%2FVjC4zmigG%2FeTnYdSXEEJ25JqfbCISRoBILp7T5cLyZQbUgcsoep8YcijiANJQIB2Vt9Mzqg%2BNh6FvmkzEywhgxHw9D1ErbU8LQKHpaGP8B6hUuZMbF5%2FAAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/cloudfront/)
-
-**AI · Machine Learning & Agent Engineering**
-
-[![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-002856?style=flat-square)](#)
-[![Loop Engineering](https://img.shields.io/badge/Loop_Engineering-002856?style=flat-square)](#)
-[![Multi-Agent](https://img.shields.io/badge/Multi--Agent-002856?style=flat-square)](#)
-[![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-002856?style=flat-square)](#)
-[![Self-Evolving Agent](https://img.shields.io/badge/Self--Evolving_Agent-002856?style=flat-square)](#)
-[![RAG · HyDE](https://img.shields.io/badge/RAG_%C2%B7_HyDE-1C5FA8?style=flat-square)](#)
-[![Reranking](https://img.shields.io/badge/Reranking-1C5FA8?style=flat-square)](#)
-[![Speculative Prefetch](https://img.shields.io/badge/Speculative_Prefetch-1C5FA8?style=flat-square)](#)
-[![LLM Routing](https://img.shields.io/badge/LLM_Routing-1C5FA8?style=flat-square)](#)
-[![Quantization · GPTQ · AWQ](https://img.shields.io/badge/Quantization_%C2%B7_GPTQ_%C2%B7_AWQ-1C5FA8?style=flat-square)](#)
-[![Few-Shot Exemplar](https://img.shields.io/badge/Few--Shot_Exemplar-1C5FA8?style=flat-square)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)](https://xgboost.ai)
-[![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-0B23A9?style=flat-square&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
-[![MCP · Tool Use](https://img.shields.io/badge/MCP_%C2%B7_Tool_Use-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
-[![Kiro](https://img.shields.io/badge/Kiro-9046FF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAC50lEQVRYhcWXS0hUURjHf%2Bd0c8x8YZM9RFMr0NCkaNMDIelBTUFIECEEEpQgTqkQLgtaCQ7mYmpRZIsQCgkXSeUiosRNi%2FCVzyASszR8omLOnBbTTGbj3DPdsf5w4PJ93zn%2F37n3nHPvFSyRq0CliLU4heIkkAnEEBlNo%2BhB0OCd5k5Fm5jzJ4T%2Fova4uoDidgRNV9IgksKrz0R7AOCn%2BYNVNl6qCa%2FgUMVz0SVcBSpFGvSx%2BjNfrp6JBPKkWIvzP5gDZCVMctEQCkfYXQUkpYI9E6JjweuBqa%2FwtQ%2Fmp8MapsgA0sPxTsmBw2WwIUgv7yJ0t0DrPW2Q3RJYr2uefQQKq4ObA0gDck7AuVsQv0lryDipa745C46Ug1xjXpuYAqdvgGEzr9UGyC%2FxzVBX9gzYWxghAHsmbMnWN%2Fcr74z5HdMC2LZv5ZzL5cLtdgMwNjZGcXEx3d3dAMQkmoNrASTvCB73eDxUVVVRWVmJ1%2BulqamJ%2Bvr6ABBA8s4IANgzVugsJTabDSl9w0RHRwfifsVuDD221rKKSw4eF0JQU1NDVFQUUkocDgdOp5OysrJAjc1kk4vaY0qFKrDFQkmjDmZw9b%2BG5psr500fQVLq35sDeBZC500BtuZaA5ibsgAgBOw6ag1g%2FJMFgB2HICnNGsDogAWA7Qetmc9OwJc%2BCwAzo7%2BuPYvhAwy8gdB7zOQcaL0Pg23wfR5yHbD7lL65UvDuiXldSADlhc%2B%2BY520PfrmAL0vYXzIvE77dRyOxofgldu8zg%2Bg9fHU9ezP2FA7PK%2F%2BPTbcBY3XtD%2FJZgygAzhgVvn2EQx1gD0dFhd8q9u%2Fx6dGfC%2Bsbx9huNN84S3RBwN4qAMAMPLe15ZruMvXwpWAp3IigbtAb%2FjdLWvGMKiT1x%2BLBQFnBUz%2BQ3OlFJdKm8WIBLjyQnQqST4w%2BA%2FMZ5SiqLxFNMCSv2MA1361TsRzWSrOK8gC4iNkOqugX0KzYVBX2ixG%2FIkflk7RhZclnVQAAAAASUVORK5CYII%3D&logoColor=white)](https://kiro.dev)
-
-</div>
-
-<details>
-<summary><b>🔬 Detailed skill levels</b></summary>
-<br/>
-
-<div align="center">
-
-| Category | Technology | Level |
-|:--------:|:-----------|:-----:|
-| **Agent Engineering** | Harness engineering — provider-neutral LLM/execution split, tool use, approval gates | Advanced |
-| **Agent Engineering** | Loop engineering — ReAct / Reflexion / LATS / Search-o1 style loops, multi-agent pipelines | Advanced |
-| **Agent Engineering** | Human-in-the-Loop & self-evolving workflows — exemplar feedback, few-shot promotion | Advanced |
-| **Machine Learning** | RAG — HyDE, reranking, draft/target speculative prefetch, BGE-M3, pgvector · Milvus (DiskANN) · Qdrant (HNSW) | Advanced |
-| **Machine Learning** | LLM routing & compression — model routing, quantization (GPTQ / AWQ) | Advanced |
-| **Machine Learning** | Multimodal & Vision — GPT-4V, SAM 3, OCR pipelines, YOLO | Intermediate |
-| **Machine Learning** | Classical ML — XGBoost, feature engineering, backtesting & statistical validation | Intermediate |
-| **Frontend** | Flutter / Dart | Advanced |
-| **Frontend** | Swift / SwiftUI | Advanced |
-| **Frontend** | React / Next.js, TypeScript, Tailwind CSS | Intermediate |
-| **Backend** | FastAPI, PostgreSQL / pgvector, Supabase, Firebase | Intermediate |
-| **Backend** | Vector DB operations — Milvus DiskANN, Qdrant HNSW, index tuning | Intermediate |
-| **Cloud** | AWS — Amplify · Bedrock · Lambda · API Gateway · DynamoDB · S3 · Cognito · CloudFront | Intermediate |
-| **Cloud** | Docker, Railway | Intermediate |
-| **Agentic Dev Tools** | Kiro (AWS agentic IDE), MCP, Claude Code, harness engineering | Advanced |
-| **Design** | Figma | Advanced |
-
-</div>
-
-</details>
+| Domain | Stack | Level |
+|:-------|:------|:-----:|
+| **Agent Engineering** | ![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-002856?style=flat-square) ![Loop Engineering (ReAct · Search-o1)](https://img.shields.io/badge/Loop_Engineering_(ReAct_%C2%B7_Search--o1)-002856?style=flat-square) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-002856?style=flat-square) ![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-002856?style=flat-square) ![Approval Gates](https://img.shields.io/badge/Approval_Gates-002856?style=flat-square) ![Self-Evolving Agent](https://img.shields.io/badge/Self--Evolving_Agent-002856?style=flat-square) ![MCP · Tool Use](https://img.shields.io/badge/MCP_%C2%B7_Tool_Use-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white) [![Kiro](https://img.shields.io/badge/Kiro-9046FF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAC50lEQVRYhcWXS0hUURjHf%2Bd0c8x8YZM9RFMr0NCkaNMDIelBTUFIECEEEpQgTqkQLgtaCQ7mYmpRZIsQCgkXSeUiosRNi%2FCVzyASszR8omLOnBbTTGbj3DPdsf5w4PJ93zn%2F37n3nHPvFSyRq0CliLU4heIkkAnEEBlNo%2BhB0OCd5k5Fm5jzJ4T%2Fova4uoDidgRNV9IgksKrz0R7AOCn%2BYNVNl6qCa%2FgUMVz0SVcBSpFGvSx%2BjNfrp6JBPKkWIvzP5gDZCVMctEQCkfYXQUkpYI9E6JjweuBqa%2FwtQ%2Fmp8MapsgA0sPxTsmBw2WwIUgv7yJ0t0DrPW2Q3RJYr2uefQQKq4ObA0gDck7AuVsQv0lryDipa745C46Ug1xjXpuYAqdvgGEzr9UGyC%2FxzVBX9gzYWxghAHsmbMnWN%2Fcr74z5HdMC2LZv5ZzL5cLtdgMwNjZGcXEx3d3dAMQkmoNrASTvCB73eDxUVVVRWVmJ1%2BulqamJ%2Bvr6ABBA8s4IANgzVugsJTabDSl9w0RHRwfifsVuDD221rKKSw4eF0JQU1NDVFQUUkocDgdOp5OysrJAjc1kk4vaY0qFKrDFQkmjDmZw9b%2BG5psr500fQVLq35sDeBZC500BtuZaA5ibsgAgBOw6ag1g%2FJMFgB2HICnNGsDogAWA7Qetmc9OwJc%2BCwAzo7%2BuPYvhAwy8gdB7zOQcaL0Pg23wfR5yHbD7lL65UvDuiXldSADlhc%2B%2BY520PfrmAL0vYXzIvE77dRyOxofgldu8zg%2Bg9fHU9ezP2FA7PK%2F%2BPTbcBY3XtD%2FJZgygAzhgVvn2EQx1gD0dFhd8q9u%2Fx6dGfC%2Bsbx9huNN84S3RBwN4qAMAMPLe15ZruMvXwpWAp3IigbtAb%2FjdLWvGMKiT1x%2BLBQFnBUz%2BQ3OlFJdKm8WIBLjyQnQqST4w%2BA%2FMZ5SiqLxFNMCSv2MA1361TsRzWSrOK8gC4iNkOqugX0KzYVBX2ixG%2FIkflk7RhZclnVQAAAAASUVORK5CYII%3D&logoColor=white)](https://kiro.dev) | Advanced |
+| **LLM · RAG** | ![RAG · HyDE](https://img.shields.io/badge/RAG_%C2%B7_HyDE-1C5FA8?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-1C5FA8?style=flat-square) ![Speculative Prefetch](https://img.shields.io/badge/Speculative_Prefetch-1C5FA8?style=flat-square) ![LLM Routing](https://img.shields.io/badge/LLM_Routing-1C5FA8?style=flat-square) ![Structured Output](https://img.shields.io/badge/Structured_Output-1C5FA8?style=flat-square) ![Quantization (GPTQ · AWQ)](https://img.shields.io/badge/Quantization_(GPTQ_%C2%B7_AWQ)-1C5FA8?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square) ![Qwen3](https://img.shields.io/badge/Qwen3-615CED?style=flat-square) ![EXAONE](https://img.shields.io/badge/EXAONE-A50034?style=flat-square&logo=lg&logoColor=white) ![HyperCLOVA X](https://img.shields.io/badge/HyperCLOVA_X-03C75A?style=flat-square&logo=naver&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square) ![BGE-M3](https://img.shields.io/badge/BGE--M3-1C5FA8?style=flat-square) ![Cohere Rerank](https://img.shields.io/badge/Cohere_Rerank-39594D?style=flat-square) | Advanced |
+| **Vector Search** | ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Milvus · DiskANN](https://img.shields.io/badge/Milvus_%C2%B7_DiskANN-00A1EA?style=flat-square&logo=milvus&logoColor=white) ![Qdrant · HNSW](https://img.shields.io/badge/Qdrant_%C2%B7_HNSW-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) | Intermediate |
+| **Vision · Multimodal** | ![SAM 3](https://img.shields.io/badge/SAM_3-0467DF?style=flat-square&logo=meta&logoColor=white) ![SAM 2](https://img.shields.io/badge/SAM_2-0467DF?style=flat-square&logo=meta&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-0B23A9?style=flat-square&logo=ultralytics&logoColor=white) ![GPT-4o Vision](https://img.shields.io/badge/GPT--4o_Vision-412991?style=flat-square&logo=openai&logoColor=white) ![Qwen-VL](https://img.shields.io/badge/Qwen--VL-615CED?style=flat-square) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square) ![EasyOCR](https://img.shields.io/badge/EasyOCR-1C5FA8?style=flat-square) ![Tesseract](https://img.shields.io/badge/Tesseract-3C8FC5?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) | Intermediate |
+| **Generative Media** | ![Gemini Image](https://img.shields.io/badge/Gemini_Image-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Seedance 2.0](https://img.shields.io/badge/Seedance_2.0-1C5FA8?style=flat-square) ![Lyria](https://img.shields.io/badge/Lyria-4285F4?style=flat-square&logo=google&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) | Intermediate |
+| **ML · Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Backtesting](https://img.shields.io/badge/Backtesting-002856?style=flat-square) | Intermediate |
+| **Mobile · App** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Riverpod (MVVM)](https://img.shields.io/badge/Riverpod_(MVVM)-00B4AB?style=flat-square) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white) ![watchOS](https://img.shields.io/badge/watchOS-000000?style=flat-square&logo=apple&logoColor=white) ![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-DD2C00?style=flat-square&logo=firebase&logoColor=white) | Advanced |
+| **Web Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![next-intl](https://img.shields.io/badge/next--intl-000000?style=flat-square) | Intermediate |
+| **Backend · Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) | Intermediate |
+| **Cloud · DevOps** | [![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAADg0lEQVRYhe3VW4jVVRTH8c8644xaYVEoBgkVkiRFiT3YDSO6Yk7QNFOj2IWkl5KmkIwiGCi07OJYEVQQZU3WTFoWGT2UlRUh3TCSsofuRQQRXabU8aweOtk%2B4%2BTMaPRQLtgv%2B7v2b%2F%2FW%2Bq9zNnvj%2Fx6xO4dyhX2N8jYmSGprScxz279iAPJx86UHCgM%2FazAl2n09Ep3KiC%2FudRH40IN4t0D76bd4pHoj6kD2mC5skJqjzXO50gl4TYpaF1KYEXNtGK7msDuQKTRYLlSErlxrdLR7Q%2BgRtVJCSMszh1%2FY8D%2FBGvOEE2sXTfaLK0GjhUJfYWKGbnP%2FeQNp3wE7N%2BZqE6LFl7h9AFuSK3bK30MD29yPjUWl%2B9vu5prKLcJnBTtEg0XDkR3yW%2BVTDjXK1JhtbT7jVNu9WPz0qjguzvdu9pijqrtgv6qYGu0%2B3ZX%2B0B1odBvuzrVGR7OXsLqotIJ7MoVWK1WsL9hYVUuHkt%2BlgXzeSWjB4fp1gAYLhd%2BKtBOs0hohVXWgWrDWfMzM3TKQnSroEqJW0Q25ysHR7BNpWVEp3J7P2icu9I7wcB1LXdmjYcQGHG8%2Bphdi%2B2kyCWyzWPimYJNssRCE64WfCnasbS77u2sGHcJca5wGH0kTi6F6NGaZtyNnjYulh%2BqGjiOjxWf5hEW4pWDf2eKIuNQPw%2BtAo05MLHb6VN1Ql9NsBXV%2FuWNl7S0Iy6SPCzZekxsHu2onA7nOZFxR9x3Dkpjt8zIvQqq4Ssgirz17nRxttgrXDtBYkI%2BYMnQHqu4SmoqDX%2Bh352Duo9mbQnfdW1CxPDtV4gJPCy8UrFGDO3ZpIF92unD2gAm%2FJmbrG8xATeE64ZfizDRHuaRGrxH6CzYrH3f2oAbyLY3S3QPkX3eGVX97OWK2r3Br%2FaYl2WP%2FaLNJuK%2BOVd2Z92n8K%2FVPA6%2FqULWsmFyqWoT36gR%2BUx%2BzfKLXGKNtkg4tzi%2BNFotytYP02ywdWLCrY46uHQbyVeOxWTqgzsDwVlucozfXaEVPsb8VR8d5NmevBdJdBftROiLm%2BLZS68NNwgEDpna469ZcZ0ycq1d4pdhvovYWpHuF9ws2TuiESq53DObb%2FThM3453ogPbC3ZuPunMaLMdVw84d3l2mx653mqcsmN7V%2B3mj6dmZ%2FaTBtPiLN%2FnGvdgTsE%2BsNHM6FTNXj3SaQV7eQ8K3xv%2FkfgdjJZJbH5E78oAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/amplify/) [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE%2B0lEQVR42u2WaWwUZRjHf%2B%2B7M7M7O1vKITelUCg2LRUMIIQgAimnXBKUEBKVmGIUognxSDAhkhCMJoJIIhFQRJAKkaCCoAHkkvsoR2lLD9pCLdBytN3t7s52Dj8Ui4WCGD%2FwpU8yM1%2Fed95f%2Fu%2F%2FOUSvfsNdHmNIHnO0ALQAtAA8EEAIgZQS13VxXRcpJUKIxufuGnH3Z1I2%2BTbsu7v%2BkQGEEFiWRXV1DVJKpJQEQyFs28Y0Y8RiMaQQxGL1hMNRXLehloXDERzHIRSqw7ZtFEUhFApjWdYDIWSzh9s28a1ase7Lpfy2dT0Hdm7mi08X4%2FVqrFq%2BhInjMqi4Vsn0KePZsPozdJ8X04yxctliRg0fyvPjRrF720Z2bvmG79YsJy4ugGXbzUI0q4Bj2xiGzqkzOcx%2B4x1em%2FsekyZkMGHMKKRHMmvGFMxYjAljRzHi2SEkdOtCxw5PMGl8Bqqqsuyjhaxau5EXX36Tn3bsQlPVRpX%2BFcB1XbxeL5dKr7Bm3fd0T%2BiC8EjyC4pITOhC1g%2FbSO7Vk5TkXhh%2BnfyCYvqnp9EvPZXL5RXsP3QUq95i2OCBdGjfjg2btnK9suqBEMp9RFISjZqkpSSzftUyrl6r5HJ5BV07dwIER09kI4Rg6sQxBIMhdv1%2BkEEDnqKuLsLJ7HOUlpWT%2Bdb7zJ%2BXyY9Zq8nNL%2BT1txdQWXUTVVXug7hPASkEwVCIGdMmgoBBIyfzwqw53LxVjWHoXCq9TG5%2BIXNmz%2BRS2RV27T1I%2F76pjBg2mJ937CY%2BvhV79h9m6OhppA7KoE%2FvJKZNGkswFGrMjocq4AKaqpJXUEzmqzP5%2FJNFdO3cgU4d25Oe%2BiQeKTnwxzGGD32GvItFXMgvol27Nng1jb0HDpOWksyiD%2BZz%2BkwOAcOPFILs87n4vN5mr8DTtlPih%2Fd7QCW%2FoJjrVTdISU7i0NGTLF%2B5lsKiEiquVXL1ehVXyivYs%2F8QkWiEy%2BUV7Ny1j4LCEsxYDK%2Bm0ad3T2zbZuGSpew7eIz4%2BLhmAcS9A4kLKB4PNbW1RCImqqqgKAqaqlJfX08gYGBZFnV1YQzDQFU9BEN1AMQZBrbjUFMbxHVdknv1IKVPb4KhEOcvXMRuJhWbKCCFIBo16Zvah3mZr3DteiU3bt1G01R8Pi9%2Bv79hk8eDYfgRQuC6oOs6us8LCBRFQQpBxnPDmDl9MkMG9mf%2BvEzO5uSRl1%2BIrvuaKNHEA47rous%2BzuXk0bN7N1av%2BJhzF%2FLYtGU7p8%2FmcLu6BgF4FAXF40HcKcOu62LbDpZl4TgOfl3nVnU1lmWx8qsNBOICRCJRhJTcewtKc3VA0zSytmzjyPFsFrw7l6yvV1BdU8uR46c4mX2e4pIyqm7cIho1cXHRVJW2bVqT1KM7A55OZ%2FDA%2FgQMg2%2BzttCmdTymaXLkxGkChh%2FHcR7ugca78XiIRk1CdXWkp6Uw66UpTBg9kq5dOj20uxUUlbD91z1s3voLZ8%2FnMXXiaGqDIc6cy8UwdBzHfTSAf3bEcDhCOBIhLhCgZ48EeiclkpjQFU3TAIiEoxSXllFUXErZlT%2BJmiYBw0DXfUQiEVwXfF4N51GyoNl6LQVCyDvd0CRWb2HbdqOZhBCNmeL1akgpcRwH13UbXf%2BgXqA8ytDQIJsNNDje7weBAPG3bxpezp3ZwbbtJp56WCj%2FdYK510QtM2ELQAvA%2F42%2FANTqLBg67W6fAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/bedrock/) [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEdElEQVRIibWWa2wUVRTHz7k7s4%2FpdG3LEqk02oCSNCjW0kdKfRQIBBI0YmOoRisxGFttbIz6QT75WaIEH1RDCHwwYgyY%2BMCGkBZoQ2q1bSwJpmIBK6WotGW3uzv7mJ17%2FDAzt7O7s7Uf4Mtk5p8z93fP4557cOqdICAhAiIhA7TeYUFEQOYmWvY5oqULUSICBCQgAAROwBCAABwiEHAElida9jkimDoyS5SIIOvP282QiPKWu60M0wM3hiTL5WsBcSHKQIjAw5cpHVk6QyJrX7kMb0Vd8On9%2Bl9DgIBg2SNjLFgRO%2Fbk0v2QiADcGIRS6o%2B%2BaM%2FenLoKtn7lWVFr%2FD28RAYjAiIgjkRAZD4BCMH85FkiEWgD%2B%2FxNb9v2lkjiyXNFZn%2B4McCFoU%2BNoLeYhaqWyPC8URcQQQYr3ggAUum9yrqdKPvllY%2FI5Q9mZiaA66aFEb0eqG9Pj39n24s0OZ5oicwk5%2FuRvj6mjX1jpkqqqFUa24Uf%2BpV%2BVlrJ7qp02Bf0Ay91lImDDuK4s%2BzTL%2FuWd%2FbOdm8GI2GK%2Fqod8urmeM9b%2F9tLGDnIhfJBeirx6%2FFAbZvIR3L8pFxRh%2BoKy6awH8yRQ3eGvLIamDc2eFipewmY17LnpA0eDDS8vrBcAQYjgkUYICuhPceV%2BjaeiCYv9vird4m6Slw44b1%2FM%2FpKFmfYZVqAoTbsjp0%2FrDa%2BDMwbHehWmzoIPRbDMLRfjgTqX83ach6DLXzkMYDJav1zkb5PtQvfK%2BtbjfhccuJcYO1TIr6JkS98D7WAXLQII7tMsxlq%2FfPxsR%2BMZCxy9jN1wx5COXrmI%2FWxTvv8I0%2BnEqPH%2FDVtuaF3MFhuWAQDpWDT7si5Q0RgaJHE%2BBml%2BpnM%2FL%2FpGxd9a7aI5eI%2FHfLXvAjMW4jhVqYciFCt2an93m%2FEw6YYOXuw%2BPEOApzvO1Dc3CWMeSqR%2Bu2k7%2BFWlxLiVohc04slm9pv9XYLkespZBJxps9czUSmvaseFcax858rDa8QSq4MT%2Fu6ItF%2FwHpDtXobk33RkW%2BFWLLxteSfP6cmRwEwc3OiZNve%2BOjXVsfWE9LyB3yrmz2llaiUGXNXna2Jgd03nH4s29o5e%2BoTkQ%2BQAur6lujgl%2BYe09PjXE%2FJFTViy9He9%2FWbl4lA3fJegTJ1MJSqJ1L%2FXNFnpkQ%2BghteiA6f4OmkOB%2BR0x8GN70pegnX5uNDR%2BNDR60O716mNiO0vWvmx4%2BFBaAcbGoL9x9xJik5OYq%2BYunuqpzlAHLvj%2Bwy5RBYVZOJzaVuTAixuK4lNnbK0KI5hRA%2BvT%2B4scsRW%2Fc7ypqLzCsUAZdtbfcUlZa3fYBIAIAIyprGyX07iIM9y1iWiUsDpdvfLXv2AALZdwwQ56YfYvbB4V3lzqnPG7pHCobMmdBk8PhsZu6a1eiZo9cjsKISb%2Bg%2BcFwAXJvl4WvguA%2By5iIATM9M67PTYM%2BdC2xzVsj2g8fDSe2Wyx3lmK8k4EiOmUVEgDgBE2xbzGPYa7nPPtZchHeSYc2md47xH5%2Fv3acGOCQFAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/lambda/) [![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEa0lEQVRIibVW608cVRQ%2F5zIsyz6QUo2BWmp9kLS1AUtrNGpitK0VjR%2F4pPGRaERNfSUm%2FgNq%2FNBEY5sYtYlEk8bYSOKjpmqhtqCNwRcLiGIMUMVHF1l2YV8su3t%2BfpiZO3e2C9%2BYZHfO3Dvn%2FM495%2Febe3nyuqfZuFSFraqMM9NqU8q42bYlAqVIX0KkTNt9NseJWAhVpxxbiJRjWwBEaP0wLABEtH4YDsBqGFxbw8GAZAtVA3G4XopFVZI1MGqe3NjJXlhi94Fra6LdN1328gPWpo35b34lInZ%2BpO%2BRZ7vCBw%2BgWC5Px0lgTmlbARB4lwjIUtF79lxx7Hmrpem%2FV%2FpIsTNlvGrfSXH60McUCUbffCLQfSNqayqjAcp0AFPjfbdu%2BeAFq3nD7CNH5l%2F%2FtLyUA8h0MDEIkGwhd2xo8Zl3KBSIvvF44N49IDIxjB4QhdpaGva2zzz4GrIFpZiZARBBgKo9B5ENLpl87t2zy33fRl%2B6vzTxp0zFdT8s0xnMhdn5cjrPzE7PAXsF1XkFEvsNezxTKP%2BTBLHDTEcHAlGOs85I8wpAZG%2B7qg9kTo1E9l%2Bf6x8N7%2B%2FIDYyG93XkB8aCt%2B3IfjJspkggECDQvLIAkJCDAdgV9JIFpQdicy8eZ%2Bbs4AQz54YmmDk%2F9Asz15%2FZ5vTDWx8AEnj6cHsgJIrgNlQ7AHZK0CmatYJbIz0OtwRag8rruEDsnppEdLkLdsY3PLaPgrX2oxPfzyvXiWzKVerA7YKBQaQaQpt7n1ONYdUYDt2ynQJW89GnuKHezsbkrs%2FfrpU%2FX8JFSgFR69sHE739xUQ6evfupc%2B%2BLyUzyfdOX36kRwfTGJpXGkNpHXkYYmAQEbDUP9LQtRuKo3d1Lp38AcyRA7uyX415BdUY5IWyL2WU2s7XsbweEMWPfpkZ%2Fi18Q1txdr6YyqpwXe673xd6B4ggfp2TP10AuslUWUPx9Tlx%2FGuqVYn3zwIoprKpvnPGgs2SeDWyx02hscdil5KaV0S0eGbc3gXJ%2BLY7sTR3XV5VF5pegE8H7n%2BFCERIV6RCB2sIjdyyu7FAofatlz50e25kKtJ5TW50JtxxVX7sfKh9az42E9x55eKH50x4r8Du98qqKAi567AdAKz8m8yMTBXnUhSbLsVTFJsuzS0SUWkuVbqQFL%2FONa%2F0N9HyV9DVIrGDAaxcWMjEppm5GE8p5mI8ZdoA%2FOcSmJBi72i641KW8PbWyK6rQbQGrwxOu%2FuBAER1O7cE2jZBZNUNJz1%2B%2Fo9XP2p%2B%2BI7IoUdTgz%2FPnxiuwitFRroAENzReklXZ%2BTmbYXJvxNvfb48%2BRcbdPBtOCIyf%2BqnRP9ITV2gaW97S8%2Bd0c5rU4PjvjIaGBBsPtyTi80sffHj3OETVCzb%2B6B9dHDOJScbuqsf%2F5hZsVVfZ4WDpWT64inFXNsUxfIKCiWfu%2F%2BUadmiqHKkISKhUr4gyyvMrHllrqO44ABX6MM8XzlCWwPD1PkqU34XP4bbg3XDMHSwPhj%2FAw7LF6t3yR3cAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/api-gateway/) [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFfUlEQVRIibWWW2xUVRSG19pzztw6ndNp6f02pRdKqVBKgUqECA%2BWAJEHMBjhQYgCSTFEI4kYRVCjEEgsCKESL7yAGtAQGqmRBgkC0oQit0ALLZRKb9N2pj1zbWfOXj6czvQwM5QXedvZWTtf9v7%2FtfaPL6%2B6g4jAGCICQ0QEZKhZACIyBIwUaCrVU%2BN7bKJSPYUIjDEiIiLgnIiAExEBcdIsgIg4AUUKNJXqqfE9PlGpniICzpla9PwYLFL0nBgCEBEAck6MQXiBHIgBAifOBBGtiZhoERBB9pHs5URqAQcIV6qnAIgDMI7AiAMyTpwJxAkZRDFAxypnmBdUWUoLDUTo9nLZywFAStRZLYwxvNMR%2FP2i%2F1Gf8kyGAMSJMy3DbGKfbst2yUpDk1x%2FbFBRIMpXosjKig3%2BAAdOz7yHeoMnGK%2BtSD13SW48NzLhXeDEGYQfbdMaa06GCAgACACA4PHR7u88cRkCEEXeS2Wk2HQWi07HQInRAxjMKdcbDfj54SGAcdfbs4XVNQlEFPceLFZ3AJAsrH6Pfc3K5LIiA2Og9dXaV6Vjp4bdbsXjVdwexeMNvVRpbLzgf5qvBOIUpTsQnDg9OOAMVVUkLlsi1eYZjEY2FqSjJ50A2N0X7O4PIqJ6Y72AM0vEIydkIIyrx%2FgTaRljYzw1Rdi%2BNaet3b%2BvvlfhEJkK%2B3fl7ql3EKeIHjOK9KnJuv3bUwDg9J%2F%2BpuZAFIPF9siZs4Mb3sio%2B6a74Q9nKKhEenBehTkwyi1mLLGLog7UR2u55V%2F9Ts%2BRn0cUTs03ArE9qMu1bwBEBFD9gICzZyUmWoRCu2npEltxgSk%2FR59sE%2FscY9npepsklEw1rFqW1OsI%2FtsbBAQEKCsybn5d2nFgSPZwAAyba3whEFGU7hXllsvNI00XXKJeVzzVnJVpyMvSX7uFl6%2B6%2F27xAGOHv8y7dtsHRMTZtCJD7bqkHXWDwzIHRGSc4Ik%2BF4BTlLcQYMPazLJp5lONQ3favHfv%2ByKzFwDyMoSBoVDArwDDonxx65spn9Q5hlwKIEMG407RMIQ4%2FgXauacjM9341rrM%2FDxjv2NsWFZktxJS6NdG18L5lr%2BuuImoIEu%2FbWPqrv19jkEFw80YyxBUD2kZxMFsZNVV1obGgavX3Uk2MS3VYLEIyDDgV6rnWD784nFOuvDBloy99f2KwtVhE%2FFVFIPF6v7PTXl5zZSm80ML5kuI4HQG2%2B57W667W667zSb0%2B7glgX38btbeQ70rX5EqZ5gmn%2B0sdr53dnpLSxJq384NBJTKWZYpyUKkzxfOt7a2%2B3a%2Bn737YM%2FcCnP5NNODrtHJ%2Fw8BKFr3FUvTDhzqvHrDPW%2BOVFVhXb0yLdmmR4TP9j1aVC1lpIk79nZ1PAh0dAbu3vcvXyy1tjui5pX2rcLTVMMQRazdnP%2FV1w8vXXFdbh6O%2FOlJSWJRgXHbroet93yAWDHdVLs%2BvaNzFOLNxAhDM00jDILvj3YtX5pWuzG%2Frd13r93rGg7JHkWv1x072T81z1Cz2FZabH7cO%2FrDj46F1dJEJ8VjhH80DQOAunv8Zxr7b7d6SooS7PaE4kKz2axjDL0%2BDkBnzzsPftszFiJ7nhHISkRx%2F1qVofnRwgyHY3TmC1Z7vnnrloL1m27cvO1%2BWv4pKTQNDAXh6f85MGCxuh%2F%2FqevFebYEs25fXUck3mhnoqiD8tKEj97LrXk56fgvjslzCc6e9VvcHDe3KnnRoill0xMZ4og7JMshApCsomQVAKH1nu9i88i1mx6CJ3IcahZq%2BsPZMxsmz4qCoJMkUUoSGbIRjyK7FYXDJFkxiiEQUVz%2FRjQPhRSnk1yuoDaPxuaf2Oyj6sGeRx7V6sGiNPnfGez55WqV8R9z3fpxGxuLtQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/dynamodb/) [![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEuklEQVRIibVWS2wbVRS993kS%2F7%2F5NImTOGlT2pJASqUQNSmC0qpClJ9UWqRSsUCAym%2FBskJi0SWoGwSLCpDY8KmAgkBCQSVV1I9UaCUqhaZxk5A6cezEdmyP7Uns8cy7LPwbj52SBZ3V09F598jvnnOv8eCHOxABERGRseIBERlqzvVwhoCsHrkaFzgRAwQgAOAcGSMAAAAOyKB0rodzQMYJWA25GheIiAPcPw2BqEC9XxoCJyhRN9QwGRo9thajYDI2mHOKJHNZXF%2FlpG5GQyBOnGGtxtbm%2Fr19%2B3e173ZaPLKSS0gRWZVlNWtusBobTG5Ls2BoiKZD%2FpWbNxYmYpnwRhoCEQEHrcZo34GX974ZSi5cnbnw6%2BS55NrqRr5qc3YNdAy9NvI%2BAf%2F2xieLiTu1Gjh6urfsKYZw9NFXH%2BwY%2FPzSmUhqafPe3d7af2L4vfN%2FfXZ7%2BbrOu4wTUOHjxAlG%2Bw58eeXjcDJIJZzzEoGoQq7GZyK3xm%2F%2FMNg5wgmIV5ENnU%2B4ABCh%2BO32DZ%2FYe9JlaVoWlzLZVAnGCkNDLuB9rQMv7nnj6YHjNwITc9FbRUKRhGWbFl8tlFi4NjfRYBDeevJUi6M9lAjMRqYSUkySM2v5dDYv2YxOm8lhM9paHd5tLbs81pal5PxF%2F0%2BZrBgWFyvVdDkoaywlAlscHef%2B%2FGJ86hfBIPQ0b%2Fe6fW1Ob4fbZxRM5kbzel6SlVwqm5gO35zw%2F7wsBgGBMTi06%2Bi4%2F0eN6WtyUECD8cDDXUMF7yqqMheZ%2FifqZ4j3mleAnGOzvT2aDhGRLoOs0Ntyu4LxgNfdXe55qV1EBPt3PvPNycudrq21PQcCBkxRFR3OCZiuVkKKOy1ura%2FKGnlVzmTFU4fPvDR00m5yaWs5zZ7EWqyu30o90GRNURWGAidFh09Mj13y%2F9YoNB7sf%2B70C2dnI1MXps7PrPzNAdscXV5XT2%2FTjvlVv25eGbbsc2gdiADD2x6bDk%2Bm1kUdXrxGfDYyNTb5fV6VDz907NjQ65ZGa6vDG1%2BLHOo%2FksmJwcRdracNW0btVdZG3NkxIOXSwXhAh5fPCAhAYXHx6uzvl2fG2l3dzw4e97p7MlnRbnJfvzuhZetzAByC8YDX7SO6pMPrzsT0enps8rs93SNf%2FfHpel4S12JUPY%2BZtuNFI60G2l3ddcZDja%2FKM6PV4Q0lArH0isJ55SKHYpOrnAu0uBro9HTr8nHv32FAQ17NF95Ft6ME4gSsakMtJ5da7G3aPXFvDbel6NG6e7C4D7QaCucGxgBgkxod7p5gPEBEdXdqqQe86rlj6ajH2qx794360e7sDiUC2nfXklnlmkbjbnTO19xXW6uuRpendyE%2Bv9H%2BMHiGLUWfl0wOgCti%2BIMjHzXZW0QpnlxPElHVRgBEAKNg6vc%2B8sq%2Bt31NW7%2B%2BdlblKkIlKmU2bnu3ST8dGSKi1Wh5avD5kQce7%2FT4VK5IuUwml1rLSXazw25yOszOvCrPRfxX7ly4Pn8FkUoVauZu7ztN%2Bj9%2BJWIZbxQEl9VjM9qtJpuUS0lyRsqlOfHKRab9S1mlUZWDSverfSUrSiwVWcWortZ%2F5qNODjbSqFtrMxmsk4P%2FV6O0Mu%2Bbxr%2F8S4NfDZl1WQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/s3/) [![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEh0lEQVRIibVWW0xcVRTd%2Bz5mmGFmeAwwQwSxPopGIRirpRj9Mrb2o5omRhuLCbGipq3Ch020ilTSNjY0FmLbaWlJ8dHEL3%2BMxsTElmJF0zRRawNCERmgUEqZB2XmPuZsP%2B6DO%2FcSX5mem8zcu8%2FZZ51z1tp7HxyrWYNm4zC7gcOCnMNicQTnVAIRgdkYAAeWhsAo2wKMAZdtsTgiAGVbIBvgFmA4AHKNIZDDObcYAhFZp%2BNLS7yPNqAoGKwtP4gAiIgAoPNpviACxROZHwZheTYdgyOtMSIicInhw13oyQMAzQyWh0izap3mtzYS%2BNoaV%2FPL1tm0LgsHDMSqKmloOH7685Uk%2BE%2Fa5Xnf4W7rbNo%2BBG1FmpE4jknSirpCryf85ReZ6avLtKB2DgAAyHHJ5lf1rWU7ajswOCEwzsJBHc%2FLl4fmd7YiolBe7ln%2FBEhS%2BquvIZVCxMKeCGO0gq9FRagdsLdhbfjgB2Awqa8VAUVRG8CXlxcd2Lv48Wd8wF%2F4YWdsZwspCldc5GtvA7fLuTiripCAUj%2F%2FOt99xBr32h%2Fv9xe9sZ2IvBueTPb2pb87i4h8KCQ8WKf8%2BBOLJ25Gjvnfb2eMbNo1SGYAHBABW1yUJ6JOellBgACIEUstccGg5sWVlNBSiohIVdWpaU1PtvjIUpEmQr60pOCZTabeQVXjn5zWRhGRdHm47MghobKCKyxwr6tPfHSUmKFc49eKYUt2BAQsLcvRqBlJwDKmqvM3bvA%2Fu%2Fna9hbkeZCkdP9AcVdnbM9ePRYsKjIxsgAIgAgyyeTN7wd1hpdSnM8HgkBEQnnYv%2FX5maZXQJK0A5Qv%2FaYMj7jrahd27Samx9zyahlwtmSnBad4e2V5%2B25AIFm%2BfrC77K03bxw7If8%2BIq6649rbbSyV0uXFADhQJibUqM6ZU6aMgWDlXetOj46NN24za0i0qRkR%2BUAAADz1j7juvgsBUucHpQsXXdX35m%2FaKFZVsXg8faZ%2FfkeLMycKVt6JMTLPMTtnZRKJyRe3cS5RJ35qOtDUmLfmoURvnzr2h1Bakr%2F5ae9T62PvvEeKAk4VaRhSdNJbV%2Bu6cxWoanYcACIqV2c0Q2Zm1rP2YXfNA7M7WpEIEVkioXQe8m95zvdSU%2FLoces%2BBCvv6kJsen9n2euvcaIAepa2JB3jY65jX8HWLdf3HaBMRuvl8v1Fu1oXOvaH%2Bk4ke3pJVU0MwcZ74sy55NkBR7a0BjUiIh8sVian3PdVKyNXOJ%2BvtKsz0dtHqqqM%2F8mFQpnJSbNG2Uvmv6xTRECI3scfExtfECsrYidPpQfOIyJ6PCydNuZEYMQZxWG5MYfFVkOIKP3LJW9D%2FY1Ijzw0HDt%2Bcql%2FgIi4okI%2BGFRnZy1uIBDB%2F6i385Geiki3PD6x0Pepfmp5ecE978YiPbYijwOFlX9Xp5zN4COvenW4o00avaKMjArhkHddfaz31NI339oT5bmCCuP1v9%2FjeN5Tc7979T2Zubn0hYsgyysM6w%2FcZrHl4K5oG2ZTUQ7uirZhzotXjjHsF6%2BcY2SVzFuB8RdfaBiTlmGjsQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/cognito/) [![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFjUlEQVRIibVWa2wUVRQ%2B587s%2B9Httt2WtrRApaUtDVSCPFJCYy2KAaMIKo%2F4o2iUaEg0IRASg%2FxRI5rADyQEIjYxJjxCFDEgL4mCxhIoSAVKgZYC3W67bHdnX92d2Xv8MbvDdNuCf5hkJmdm7jnfud8595yDG1%2FsQECGiMjS90gBEVlaYOn3xwq69ciQiUQckHECBhyAccgWAIADZ8AAOAfGAB4vALDMeuDARU7E4CliiETqj6eFIRJR5scTMGw5gjVHYMiGIzwWov%2BJoVIEj8Eoq7HWNzsr6i2RQCrgVRDRmSeY7UL%2Fbbnjt3hfp%2FJ4DI2iMTDyS8xL1nliEr94XAr0ybUN9pPfDgGBwcRiQXqhxbVyq%2FtuR%2FLUnnBoYNwN4frGtrESjtXOcz6%2FquDITl9fV0L94nCLFTOts192JofJeyvpu6NI%2FpQgsuZ3nH8eiHW3y2PmrhqDbPDaObaGZXl7N%2FUkY4SY5iocUJ5b4mzd7E3J2PLVhHMHB7iMiLh%2F69CyjS4A6m5XxtgHJ07pi6uSu0hsfruw9dOeeDTFiYi4eueXilEpVTjFmONhggBKkqu68Yhy%2BMvg%2FDdsTg%2FykaaIuEhEWs6qmMvWTzy0%2FV40rDBELR5NazxWp3B0p29RS4HJyk61BkQTysNp3XhYObFHampxHP48mBUGlgbK7GNSjTUqKb03ohkvOAFVz3d4yoxHd%2FkCPvnAF97vt3htLqFhuVOv23czMRzlxZWi3n1O9IgiVZizOO%2FcT76RO%2BVTZ9kObe%2FjPM0VEb9yRiqvM9vdqNe9dCxS22jJoojp3efEy6psd66G1RVT6%2B0f7qh4%2F%2BspbccexiOKPh6c87ajofpmB%2Bl0791IFFWIWWFgGR1ORBa7IMt88nT7rCa3xc6Wvleyd%2FPt7z%2FreWVdscqVHqPjnFQ1x6p9ISLOeSzEzXbIokjT4Tn5BptTnLkw1%2BEWAQkQ4rFUPKIIBiirsVbPtSMDbX0ywYMDSm6RqMeIBBWrE0dnUbo2pFL81hXpwI5utZSfPdj%2F0TdViHj8O2%2FIn6hbkNO0ynOidaDrYlRdf%2FffWEmlMeCVNQtMQFnhuvoGomo%2FfZSGkk63QT16HPjV80Nd7VLIrxAhQzyy676rwPTqByXVcx2%2F7PZRij%2F0JgsnmfUW7G5BGlQ4waO6q6dVGko43EbKcDhjYW7tfFcqxbUtBwcTrVt7%2FA8Sqz8pJaC%2BW%2FH2kyHNAjAwWVBOPgpqNkUcoPdmeFK1vftahAErLDNfvxCiUbXk98ODl88GX1rrmVhlNdvYiX3%2BW5diDHj5dEtPRzxtL9M%2FtCxKP84f7W98vVh1QTSyaEgeXUuIeCpFpZWW3Ru69266u%2FBNt6r87CLHP2fDI%2FKK%2BAiKiHhn%2B5DDbaisdxJROJh0uA36g6JhJOKKycosdvSUGaMhhYiX15pFI97vjOvdJSKhrmg1ACCkHwhw%2B6q0dkt1268%2BV4HJ7jL0XIsAqL8R0hfyFA35kq%2BtLy2abP55V79gwBUbSg5t8ybiXG8KAIXpRSv17wAQk%2BSAL%2FnWx8%2F8dcw3b3HhhdODmmk9RsCbVJJ06XSwcUX%2BguX5Z37wP%2BiKZ5lCgHRPzmrCl%2F8YQIQ1G6cWFFtEIyrJR2OIVncn1TmnzXZID%2BUZja792%2B7f%2BDuCgKP7uVBTuDLj1QhwX2%2Bs82KwrMoxc0FePKL4%2B4aBtHWICEvfLZ1YZSuabNm3pbv3egwBALPdB0BcUffjqLlshFA509WwZEL5NIcUkMMBGRnk5BntLsO9m7G24%2F7ujlhWr82aE%2FVjC4zmigG%2FeTnYdSXEEJ25JqfbCISRoBILp7T5cLyZQbUgcsoep8YcijiANJQIB2Vt9Mzqg%2BNh6FvmkzEywhgxHw9D1ErbU8LQKHpaGP8B6hUuZMbF5%2FAAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/cloudfront/) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white) | Intermediate |
+| **Testing · Tooling** | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Intermediate |
+| **Hardware · Embedded** | ![ESP32-C3](https://img.shields.io/badge/ESP32--C3-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white) ![JLCPCB PCBA](https://img.shields.io/badge/JLCPCB_PCBA-1C5FA8?style=flat-square) | Learning |
+| **Design · Docs** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) | Advanced |
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- EXPERIENCE                                              -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 💼 Experience
+<details>
+<summary><b>💼 Experience</b> &nbsp;<sub>Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab</sub></summary>
+<br/>
 
-### 🧠 Hanyang University HCC Lab — Summer Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+### 🏢 Samsung Global Research — AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
 
-[![Lab](https://img.shields.io/badge/Lab-Human--Centered_Computing-002856?style=flat-square)](https://hcc.hanyang.ac.kr/)
-[![SAM 3](https://img.shields.io/badge/SAM_3-Text_Prompt_PCS-0467DF?style=flat-square&logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
-[![MLLM](https://img.shields.io/badge/MLLM-Multimodal-1C5FA8?style=flat-square)](#)
-[![YOLO](https://img.shields.io/badge/YOLO-Panel_Detector-1C5FA8?style=flat-square)](#)
-[![Robot Agent](https://img.shields.io/badge/Robot_Agent-Manual_%E2%86%92_Action-002856?style=flat-square)](#)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Skills_·_Hooks-D97757?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
+[![python-pptx](https://img.shields.io/badge/python--pptx-Deck_Agent-1C5FA8?style=flat-square)](#)
+[![Workshops](https://img.shields.io/badge/AX-Workshops-002856?style=flat-square)](#)
 
-`Dept. of Data Science · Human-Centered Computing Lab` · `Jul 2026 – Aug 2026`
+`Via Centrogics · On-site AX consulting` · `Sep 2026 – Present`
 
-> Industrial image labeling has to separate objects that look identical but **mean** different things. I built a Human-in-the-Loop agent that labels by meaning — natural language and multimodal context instead of coordinates.
+> Researchers at a corporate think tank want AI in their real workflow, not in a demo. On a three-person AX team, I'm the one who checks the tech and builds things.
 
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SAM 3 semantic labeling pipeline** — an MLLM proposes meaning-based candidates, **SAM 3 Text Prompt PCS** selects every same-meaning object from a single natural-language prompt, and whatever the user picks becomes an instant **Image Exemplar** for the next sweep
-- <img src="https://api.iconify.design/lucide:tag.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Attribute prompting** — RESAnything-style attribute prompts, then attribute-based scoring across competing mask candidates to choose the best segmentation
-- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual-to-policy robot agent** — a VLM distills the manual into a **structured symbolic model**, its symbolic actions are **visually grounded** to panel elements, and visual feedback closes the loop
-- <img src="https://api.iconify.design/lucide:git-compare.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Grounded state hand-off** — a domain-trained detector replaces the zero-shot one behind the same interface; the human-verified label becomes the symbol, its context the **observed state**, and **A\*** plans the press sequence
-- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Outcome** — repetitive coordinate-level labeling became meaning-level labeling, with the **human-in-the-loop as arbiter rather than annotator**: the model proposes, the person decides, and that decision feeds the next sweep. Panel text and LED state disambiguate visually identical objects; **KDMS poster presentation upcoming**
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI-adoption workshops** — hands-on lectures and "Axtive Day" sessions for research and staff teams, with a reusable HTML slide system
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consult → build** — Claude Code skills and agents for team workflows, including a **report-to-deck agent**, article translation that also handles charts, and a consulting-hypothesis agent
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboards & simulators** — review and redesign of internal dashboards, plus a fleet-sizing simulator for logistics robots (web app + Python engine)
 
 ---
 
-### 🎯 GROVA TECHNOLOGY (HK) LIMITED — Software Engineer Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-white.png"><img align="right" height="34" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-dark.png" alt="Profita by GROVA Technology" /></picture>
+### 🎯 GROVA TECHNOLOGY (HK) LIMITED — AI Engineer <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-white.png"><img align="right" height="34" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-dark.png" alt="Profita by GROVA Technology" /></picture>
 
+[![Profita](https://img.shields.io/badge/Profita-aiprofita.com-1C5FA8?style=flat-square)](https://www.aiprofita.com)
 [![MCP](https://img.shields.io/badge/MCP-Tool_Use-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
 [![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)](https://business.meta.com)
 [![AppLovin](https://img.shields.io/badge/AppLovin-000000?style=flat-square)](https://www.applovin.com)
-[![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Own_Harness-1C5FA8?style=flat-square)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Node_22-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 
-`AdTech · Multi-Agent Ad Operations · Remote` · `Jan 2026 – Jul 2026`
+`AdTech · Multi-Agent Ad Operations · Remote` · `Jan 2026 – Present`
 
-> The ad-ops demo was a front-end animation with no agent behind it. I built the real one — an end-to-end Agent OS wired to live ad platforms, in time for investor demos.
+> The ad-ops demo was a front-end animation with no agent behind it. I built the real one: an end-to-end Agent OS wired to live ad platforms. It is now growing into a creative engine that starts from a single App Store link.
 
 - <img src="https://api.iconify.design/lucide:puzzle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Self-built harness** — LLM separated from execution logic, in a **provider-neutral** architecture so the underlying model swaps out without touching the pipeline
-- <img src="https://api.iconify.design/lucide:plug.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Tool use** — Meta, AppLovin and other ad platforms integrated through **MCP** and vendor SDKs
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**5-stage agent pipeline** — competitor analysis → market analysis → creative generation → campaign creation → launch
-- <img src="https://api.iconify.design/lucide:shield-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Approval gates** — user verification required before any high-risk action executes
-- <img src="https://api.iconify.design/lucide:chart-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Ad-domain research** — mobile-game UA, ROAS and ad-ops workflows, competitor teardowns and platform surveys, turned into agent requirements and workflow design
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Profita Creative Engine** — five layers: intelligence (competitor & market ad intel) → strategy (briefs) → production (image, video, **playable** ads, voice & music) → QC with a repair loop → export & upload to **AppLovin / Meta**
+- <img src="https://api.iconify.design/lucide:layout-panel-left.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Studio & Console** — a client chat workbench with approval cards, an operator console, a queue worker and an Agent Map that shows every run
+- <img src="https://api.iconify.design/lucide:shield-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Approval gates** — user verification required before any high-risk action executes; Meta, AppLovin and other platforms integrated through **MCP** and vendor SDKs
 - <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Ran the **technical demo and Q&A for VCs and investors in Shanghai**; execution logs and metrics gave every agent run traceability and made debugging tractable
+
+---
+
+### 🦾 Hanyang University HCC Lab — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+
+[![Lab](https://img.shields.io/badge/Lab-Human--Centered_Computing-002856?style=flat-square)](https://hcc.hanyang.ac.kr/)
+[![SAM 3](https://img.shields.io/badge/SAM_3-Promptable_Concept_Segmentation-0467DF?style=flat-square&logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
+[![MLLM](https://img.shields.io/badge/MLLM-Multimodal-1C5FA8?style=flat-square)](#)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Panel_State-1C5FA8?style=flat-square)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
+[![ApBot](https://img.shields.io/badge/ApBot-Manual_%E2%86%92_Action-002856?style=flat-square)](https://arxiv.org/abs/2505.20424)
+
+`Dept. of Data Science · Human-Centered Computing Lab` · `Jul 2026 – Present` · `HY_UP course`
+
+> Industrial images are full of objects that look identical but **mean** different things. I build a Human-in-the-Loop agent that labels by meaning, then hand those labels to a planner that tells a robot arm which buttons to press.
+
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Multimodal context mining for labeling** — OCR + MLLM propose meaning-based candidates, **SAM 3 PCS** selects every same-meaning object from one concept prompt, and the user's pick becomes an **image exemplar** for the next sweep. After the first image, labeling is confirm-only
+- <img src="https://api.iconify.design/lucide:tag.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Extended the lab's HILIPS labeler** from SAM 2 to SAM 3, adding attribute prompting for lamp state (a keycap and its LED read as one control unit) and a LangGraph control-unit pipeline
+- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Photo + instruction → robot action** — a YOLOv8 panel-state detector, goal extraction from the instruction, then **goal-conditioned A\*** over a manual-grounded CNC state machine. Out comes a press sequence with 2D boxes for the arm. It covers two real CNC panels (4- and 50-class detectors)
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Robot-camera robustness** — fixed LED-state failures with flip-free augmentation, synthetic lamp-combination images and a dedicated LED-state model. Benchmarked rule vs. cloud vs. **local LLM** goal extraction for offline use
+- <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**KDMS 2026 poster, first author** — *Multimodal Context Mining for Semantic Labeling of Industrial Images*
+
+---
+
+### 🏦 Hanyang University × EY Han Young — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
+
+[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![vLLM](https://img.shields.io/badge/vLLM-Closed_Network-30A2FF?style=flat-square)](https://github.com/vllm-project/vllm)
+[![PaddleOCR-VL](https://img.shields.io/badge/PaddleOCR--VL-OCR-0062B0?style=flat-square)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+
+`Industry–academia PoC · Financial services consulting` · `Sep 2026 – Present`
+
+> Before consultants can redesign a bank's process, they spend days rebuilding its **as-is** from regulations and manuals. This PoC drafts that map for them.
+
+- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — OCR for scanned regulations, then activities, departments, roles, required documents and branches pulled into an as-is flow
+- <img src="https://api.iconify.design/lucide:git-fork.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consultant-ready tags** — HITL points, pain points and to-be candidates attached to every activity
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for closed networks** — a fixed pipeline with JSON-schema constrained decoding on local open models (Ollama → vLLM), plus an OCR benchmarking dashboard (OmniDocBench)
 
 ---
 
@@ -214,21 +198,23 @@
 
 [![Repo](https://img.shields.io/badge/Repo-perch__care-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/perch_care)
 [![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-Riverpod_MVVM-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![pgvector](https://img.shields.io/badge/pgvector-HyDE_RAG-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![ESP32-C3](https://img.shields.io/badge/ESP32--C3-Smart_Scale-E7352C?style=flat-square&logo=espressif&logoColor=white)](#)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app)
 
-`Seoul` · `Mar 2025 – Jun 2026`
+`Seoul` · `Mar 2025 – Present`
 
 > Bird owners can't catch health problems early, and avian veterinary care is hard to reach. Perch is the AI health-management service that closes that gap.
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **800+ registered users · 100+ DAU**; funded by Hanyang University Startup Support Center
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Knowledge base + RAG** — built a KR · EN · 中文 avian-health knowledge base from a Shanghai exotic-animal hospital's clinical material, then a **HyDE** pipeline on OpenAI embeddings + PostgreSQL/pgvector: question → hypothetical document → vector search → evidence-and-history-grounded prompt → answer
-- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hybrid LLM routing** — OpenAI or DeepSeek chosen per the user's language and cultural region
-- <img src="https://api.iconify.design/lucide:eye.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GPT-4V check-ups** — whole-body, body-part, droppings and food-safety analysis
-- <img src="https://api.iconify.design/lucide:file-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** health-score model wired into the AI consultation · JWT + Google/Apple/Kakao OAuth · in-app purchase quota
-- <img src="https://api.iconify.design/lucide:layers.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**End-to-end ownership** — FastAPI · PostgreSQL · Docker · Railway backend with the Flutter app, from knowledge base to deployment and operations
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **680+ sign-ups**, KR · EN · 中文; funded by Hanyang University Startup Support Center
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Knowledge base + RAG** — a KR · EN · 中文 avian-health knowledge base (30+ species, 50+ diseases) built from a Shanghai exotic-animal hospital's clinical material. The **HyDE** pipeline runs on OpenAI embeddings + pgvector HNSW with re-ranking, and answers stream over SSE
+- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hybrid LLM routing** — models routed by question type, with DeepSeek adding Chinese cultural & regulatory context for 中文 users
+- <img src="https://api.iconify.design/lucide:eye.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GPT-4o vision check-ups** — whole-body, body-part, droppings and food-safety analysis grounded in the bird's history
+- <img src="https://api.iconify.design/lucide:activity.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** from weight · food · water, with formulas per growth stage · weekly AI insight reports · JWT + Google/Apple/Kakao OAuth
+- <img src="https://api.iconify.design/lucide:refresh-ccw.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Year-one rebuild** — production usage analysis, a 20-user study and a 17-finding front-end audit drove the next version: premium removed, MVVM completed, WCAG AA fixes, and the UX now being redesigned from the as-is task flow
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Into hardware** — a perch-shaped smart scale that weighs the bird on landing, so there's no handling stress. Built on an ESP32-C3 with a 44 × 44 mm KiCad board, Li-Po power path and an I²C load-cell unit; currently in design review before the first PCBA run
 - <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Selected for the **Saehaeam Foundation Career Challenge startup scholarship** and Hanyang University's startup club · [perch.ai.kr](https://perch.ai.kr/ko)
 
 ---
@@ -250,41 +236,37 @@
 - <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Audited a teammate's pre-emption filter** — found an ISIN zero-padding join bug silently dropping ~24% of the news (**+31.56% → +13.72%** unfiltered) and replaced full-sample ranking with causal expanding rank
 - <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Independent reproduction engine** with t-tests and the Jobson–Korkie Sharpe test — the filter's edge survives correction (z = 3.29, p = 0.001), while the headline segment alphas mostly do not (all p > 0.1)
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!-- EDUCATION                                               -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-## 🎓 Education
-
-### 🎓 Hanyang University — B.S. in Computer Science <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
-
-`Seoul, Korea` · `Sep 2021 – Present (Senior)`
-
-*Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
-
-<details>
-<summary><b>🎖️ Scholarships</b></summary>
-<br/>
-
-- **Saehaeam Academic Foundation Career Challenge Scholarship** — 2026 Spring
-- **GCC (Global Communication Center) Scholarship** — Jan 2025 – Present
-- **Startup Dormitory Scholarship** — 2025 Spring – 2026 Spring
-
-</details>
-
-<details>
-<summary><b>📚 Key Courses</b></summary>
-<br/>
-
-Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial Applications · Software Engineering · Algorithms & Problem Solving · Database Systems & Applications · Computer Networks · Operating Systems · Computer Architecture
-
 </details>
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- FEATURED WORK                                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🌟 Featured Work
+<details>
+<summary><b>🌟 Featured Work</b> &nbsp;<sub>Capstone · KIROTHON Store · dAIso · HARU · Ulog · more</sub></summary>
+<br/>
+
+### 🎓 Capstone — Exploring Retrieval Latency Hiding in Agentic RAG with a Small Draft LLM <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+
+[![Repo](https://img.shields.io/badge/Repo-agentic--rag-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/agentic-rag)
+[![llama.cpp](https://img.shields.io/badge/llama.cpp-Metal_·_GGUF-000000?style=flat-square)](https://github.com/ggml-org/llama.cpp)
+[![Qwen3](https://img.shields.io/badge/Qwen3-1.7B_→_14B-615CED?style=flat-square)](https://qwenlm.github.io)
+[![Milvus](https://img.shields.io/badge/Milvus-DiskANN-00A1EA?style=flat-square&logo=milvus&logoColor=white)](https://milvus.io)
+[![Qdrant](https://img.shields.io/badge/Qdrant-HNSW-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech)
+[![BGE-M3](https://img.shields.io/badge/BGE--M3-Embeddings-1C5FA8?style=flat-square)](https://huggingface.co/BAAI/bge-m3)
+
+`Hanyang CSE Capstone · with Cheolwan Park` · `2026` · *소형 LLM을 이용한 Agentic RAG 검색 Latency Hiding 가능성 탐구*
+
+> **Research question.** In agentic RAG, reasoning and retrieval wait on each other, and when the index outgrows memory those waits compound across hops. Can a small draft model predict the target's next search and run it early, cutting end-to-end time without hurting answer quality?
+
+- <img src="https://api.iconify.design/lucide:gauge.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Bottleneck & predictability** — a modified Vidur simulator replaying MuSiQue traces put retrieval at 5.3% of time, rising to 26.0% under memory pressure. On 253 real tool calls, small models gave a semantically equal next query 7–11% of the time
+- <img src="https://api.iconify.design/lucide:database.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Disk-resident retrieval** — Wikipedia BGE-M3 embeddings: 29.5M vectors in Qdrant on SSD (warm 19.9 ms vs. cold 18.6 s) and **10M vectors in Milvus DiskANN on an external HDD** after HNSW failed at 47M vectors / 209 GB
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**A competent agent first** — replacing ReAct with **Search-o1** (Reason-in-Documents) raised HotpotQA EM **0.0% → 46.7%** (F1 54.6%, n = 30), so prefetch was judged on a working loop
+- <img src="https://api.iconify.design/lucide:target.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Speculative prefetch** — a Qwen3-1.7B draft syncs to the Qwen3-14B target's state and pre-runs its next query. Served results were always identical to the target's own search (overlap 1.0), with hit rates of 16.3% on FanOutQA (~350 s of search hidden) and 13.6% on Search-o1
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Finding** — on one device, E2E did not improve (+6–18%). Draft–target GPU bandwidth contention (14.7 → 11.1 tok/s) and HDD I/O from missed prefetches cancelled the gain. The project delivers a measurement harness and a conditional result: the idea pays off only where parallel model execution is cheap
+- <img src="https://api.iconify.design/lucide:book-marked.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Side track: reproduced *The Cost of Dynamic Reasoning* (arXiv 2506.04301) on an M3 Pro — ReAct–HotpotQA GPU idle 54.98% vs. the paper's 54.5%
+
+---
 
 ### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" alt="AWS" />
 
@@ -380,7 +362,6 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 - <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Timeout-decoupled inference** — the messenger’s 5-second webhook budget is acknowledged instantly, classification runs asynchronously, and the result comes back on a callback — model latency stops being the webhook’s problem
 - <img src="https://api.iconify.design/lucide:layers.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Three services, one schema** — chatbot webhook · REST/SSE API · React PWA, on FastAPI with async SQLAlchemy over PostgreSQL and Redis, migrations under Alembic
 - <img src="https://api.iconify.design/lucide:radio.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SSE, not WebSocket** — the live gem inventory is server → client only, so a one-way event stream replaces a duplex socket and its reconnect/heartbeat machinery
----
 
 <details>
 <summary><b>📦 More projects</b></summary>
@@ -388,7 +369,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 | Project | TL;DR | Stack | Link |
 |:--------|:------|:------|:----:|
-| **agentic-rag** | Decode-RAG speculative prefetch — HPCA-2026 reproduction, then a Qwen3 draft/target prefetch study on 10M-vector Milvus DiskANN over an external HDD, ReAct → Search-o1 loop (HotpotQA EM 0.00 → 0.47) | Python · llama.cpp · Milvus/DiskANN · BGE-M3 · Qwen3 · Cohere | [GitHub](https://github.com/Happ11quokka/agentic-rag) |
+| **Mirae Asset AI Festival** | Disclosure Q&A agent over 4,204 DART filings from 70 companies — SQL tables for facts, RAG only for narrative questions | Python · HyperCLOVA X · SQLite · Docker | — |
 | **ESG-report-KR** | Multimodal RAG for Korean ESG reports | Python · Pinecone · EXAONE · CLIP | [GitHub](https://github.com/Happ11quokka/ESG-report-KR) |
 | **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
 | **Motor Sticker Detection** | Vision QC agent — YOLO + VLM judgment loop, presented to Korean gov't officials | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
@@ -396,11 +377,56 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 </details>
 
+</details>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- EDUCATION                                               -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>🎓 Education</b> &nbsp;<sub>Hanyang University · B.S. Computer Science</sub></summary>
+<br/>
+
+### 🎓 Hanyang University — B.S. in Computer Science <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+
+`Seoul, Korea` · `Sep 2021 – Present (Senior)`
+
+*Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
+
+<details>
+<summary><b>🎖️ Scholarships</b></summary>
+<br/>
+
+- **Saehaeam Academic Foundation Career Challenge Scholarship** — 2026 Spring
+- **GCC (Global Communication Center) Scholarship** — Jan 2025 – Present
+- **Startup Dormitory Scholarship** — 2025 Spring – 2026 Spring
+
+</details>
+
+<details>
+<summary><b>📚 Key Courses</b></summary>
+<br/>
+
+Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial Applications · Software Engineering · Algorithms & Problem Solving · Database Systems & Applications · Computer Networks · Operating Systems · Computer Architecture
+
+</details>
+
+</details>
+
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- RESEARCH                                                -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 📄 Research
+<details>
+<summary><b>📄 Research</b> &nbsp;<sub>KDMS 2026 · APAF 2025</sub></summary>
+<br/>
+
+**KDMS 2026 (poster) — Multimodal Context Mining for Semantic Labeling of Industrial Images** <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+*First author · Hanyang University HCC Lab* · *멀티모달 맥락 정보 기반 산업 이미지 의미 라벨링*
+
+> OCR + MLLM semantic candidates become SAM 3 concept prompts, so labeling industrial control panels becomes confirm-only after the first image.
+
+<br/>
 
 **[APAF 2025](https://www.kafe2023.org/bbs/reference/254) — GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
 *Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
@@ -411,11 +437,15 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 
 ➡️ Repo · [StockNewsEstimator](https://github.com/Happ11quokka/StockNewsEstimator)
 
+</details>
+
 <!-- ══════════════════════════════════════════════════════ -->
-<!-- AWARDS                                                  -->
+<!-- AWARDS & ACTIVITIES                                     -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🏆 Awards
+<details>
+<summary><b>🏆 Awards</b> &nbsp;<sub>Hyundai NGV · AWS KIROTHON · FORIF · HySpark · more</sub></summary>
+<br/>
 
 - 🥈 &nbsp;**Excellence Award** — [AWS KIROTHON Hackathon](https://n.news.naver.com/article/025/0003514864?sid=102) · Mar 2026
 - 🥇 &nbsp;**Grand Prize** — [Hyundai NGV HYPER AI Hackathon](https://www.beyondpost.co.kr/view.php?ud=20260205175252753192e75d13a3_30) · Jan 2026
@@ -423,14 +453,17 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 - 🥉 &nbsp;**3rd Place** — [HySpark Startup Club Demo Day](https://hyspark.career.greetinghr.com/ko/main) · Jul 2025
 - ⭐ &nbsp;**Excellence Award** — [Hanyang University Startup Academy](https://startup.hanyang.ac.kr/) · Dec 2024
 - 🔐 &nbsp;**2nd Place** — [HUCC (Hanyang University Cryptography Club) Cryptography Competition](https://sites.google.com/view/hucc/%ED%95%9C%EC%96%91%EC%95%94%ED%98%B8%EA%B3%B5%EB%AA%A8%EC%A0%84) · Oct 2024
+- 🏅 &nbsp;**Gold Medal** — WorldQuant Consultant
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!-- ACTIVITIES                                              -->
-<!-- ══════════════════════════════════════════════════════ -->
+</details>
 
-## 🚀 Activities & Leadership
+<details>
+<summary><b>🚀 Activities & Leadership</b> &nbsp;<sub>ASBG at HYU · Public AX Supporters · LG Aimers · Nexon HelloMate</sub></summary>
+<br/>
 
-- **Core Team** — [ASBG at HYU — AWS Students Builder Club](https://asbg-hyu.vercel.app/#recruiting) · Hanyang University · Aug 2026 – Present
+- **Core Team** — [ASBG at HYU — AWS Student Builders Group](https://asbg-hyu.vercel.app/#recruiting) · Hanyang University · founding cohort · Aug 2026 – Present
+- **Youth Public AX Supporter** — [Ministry of the Interior and Safety](https://www.mois.go.kr) × NIA · Sep 2026 – Present
+- **Consultant** — WorldQuant · Gold Medal · IQC Stage 1 top 20%
 - **Participant** — [LG Aimers 8th Cohort](https://www.lgaimers.ai/) · LG AI Research · Jan – Feb 2026
 - **Mentor** — [Nexon Foundation HelloMate Coding](https://kr-newsroom.nexon.com/press-center/3399289) · Sep 2025 – Jan 2026
 - **Member** — [HySpark Startup Club (3rd)](https://hyspark.career.greetinghr.com/ko/main) · 2024 – 2025
@@ -438,11 +471,15 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 - **Member** — [ICEWALL Security Club](https://github.com/hyu-icewall) · Mar – Sep 2022
 - **Activity Director** — [Habitat for Humanity](https://www.habitat.or.kr/business/education) · Sep 2021 – Dec 2022
 
+</details>
+
 <!-- ══════════════════════════════════════════════════════ -->
-<!-- LATEST BLOG POSTS (auto, via blog-post-workflow)        -->
+<!-- LATEST BLOG POSTS                                       -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 📝 Latest Blog Posts
+<details>
+<summary><b>📝 Latest Blog Posts</b> &nbsp;<sub>hpyquokka.tistory.com</sub></summary>
+<br/>
 
 <!-- BLOG-POST-LIST:START -->
 - **`LG Aimers`** · [초거대 언어 모델(LLM) 압축 — Compressing Large Language Models](https://hpyquokka.tistory.com/entry/CLLM)
@@ -452,6 +489,8 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on hpyquokka.tistory.com](https://hpyquokka.tistory.com/)
+
+</details>
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- CONTACT                                                 -->
