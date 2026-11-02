@@ -31,7 +31,7 @@
 
 `Last updated Nov 2026`
 
-- 🏢 &nbsp;**AX Advisor @ [Samsung Global Research](https://www.samsungsgr.com)** (via [Centrogics](https://centrogics.com)) — AI-adoption workshops for researchers, plus Claude Code skills, agents and dashboards built with their teams
+- 🏢 &nbsp;**AX Advisor @ [Samsung Global Research](https://www.samsungsgr.com)** (part-time, employed by [Centrogics](https://centrogics.com)) — AI-adoption workshops for researchers, and Claude Code skills, agents and dashboards I build with their teams
 - 🎯 &nbsp;**AI Engineer @ [GROVA Technology (HK)](https://www.aiprofita.com)** — building Profita's AdTech agent: one App Store link → competitor intel, briefs, image / video / playable ads, QC, AppLovin & Meta export
 - 🦾 &nbsp;**Undergraduate Researcher @ [Hanyang HCC Lab](https://hcc.hanyang.ac.kr/)** (HY_UP course) — CNC panel photo + instruction → SAM 3 / MLLM semantic labels → manual-grounded A\* plan → button presses for a robot arm
 - 🏦 &nbsp;**Undergraduate Researcher, Hanyang × [EY Han Young](https://www.ey.com/ko_kr)** — an agent that reads bank manuals and drafts the consultant's **as-is** process map, on local open models
@@ -125,13 +125,13 @@
 [![python-pptx](https://img.shields.io/badge/python--pptx-Deck_Agent-1C5FA8?style=flat-square)](#)
 [![Workshops](https://img.shields.io/badge/AX-Workshops-002856?style=flat-square)](#)
 
-`Via Centrogics · On-site AX consulting` · `Sep 2026 – Present`
+`Part-time · Employed by Centrogics · On-site AX consulting` · `Sep 2026 – Present`
 
-> Researchers at a corporate think tank want AI in their real workflow, not in a demo. On a three-person AX team, I'm the one who checks the tech and builds things.
+> Researchers at a corporate think tank want to use AI in the work they already do. I'm on a three-person AX team there, and my part is checking what the tech can actually handle and building the tools.
 
-- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI-adoption workshops** — hands-on lectures and "Axtive Day" sessions for research and staff teams, with a reusable HTML slide system
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consult → build** — Claude Code skills and agents for team workflows, including a **report-to-deck agent**, article translation that also handles charts, and a consulting-hypothesis agent
-- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboards & simulators** — review and redesign of internal dashboards, plus a fleet-sizing simulator for logistics robots (web app + Python engine)
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI-adoption workshops** — hands-on lectures and "Axtive Day" sessions for research and staff teams, run on an HTML slide system I reuse across sessions
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consult → build** — Claude Code skills and agents for team workflows, including a **report-to-deck agent**, an article translator that translates the charts too, and an agent that drafts consulting hypotheses
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboards & simulators** — reviewed and redesigned internal dashboards, and built a fleet-sizing simulator for logistics robots (web app + Python engine)
 
 ---
 
