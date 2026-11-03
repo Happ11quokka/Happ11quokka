@@ -58,7 +58,7 @@
   <tr>
     <td align="center" width="200" valign="top">
       <b>Samsung Global Research</b><br/>
-      <sub>AX&nbsp;Advisor</sub><br/><br/>
+      <sub>FDE&nbsp;&amp;&nbsp;AX&nbsp;Advisor</sub><br/><br/>
       <a href="https://www.samsungsgr.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" width="160" alt="Samsung Global Research" /></a>
     </td>
     <td align="center" width="200" valign="top">
@@ -128,7 +128,7 @@
 <summary><b>💼 Experience</b> &nbsp;<sub>Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab</sub></summary>
 <br/>
 
-### 🏢 Samsung Global Research — AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
+### 🏢 Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Skills_·_Hooks-D97757?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
 [![python-pptx](https://img.shields.io/badge/python--pptx-Deck_Agent-1C5FA8?style=flat-square)](#)
