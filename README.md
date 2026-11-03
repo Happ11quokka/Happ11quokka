@@ -14,30 +14,39 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## Hi, I'm Donghyun — an AI / Software Engineer building, experimenting, and exploring what's possible with AI agents
+## Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next.
 
-**Work that stayed with me**
+**What I've Built & Explored**
 
-- 🐦 &nbsp;**Perch — my first app, and my first AI project.** A daily journal for the bird you share your home with: weight, meals, water, droppings and check-up photos, all in one place. An AI that knows birds reads them back to you. It watches weight trends over time, looks over photos of feathers and droppings, and answers questions from an avian-care knowledge base. **Live on the App Store.**
-- 🎓 &nbsp;**Capstone: retrieval latency hiding in agentic RAG.** We asked whether a small draft LLM (Qwen3-1.7B) can predict a larger target model's (Qwen3-14B) next search and run it early, so disk-bound retrieval over **10M-vector Milvus DiskANN on an HDD** overlaps with generation. Prefetched results matched the target's own searches exactly (overlap 1.0) at a **13.6–16.3% hit rate**. On a single device, GPU bandwidth and I/O contention kept end-to-end latency from improving (+6–18%). It is a negative result, and we isolated its causes.
-- 🤖 &nbsp;**Agent developer across domains.** I've built agents for **AdTech** (creative-ad generation), **manufacturing** (defect inspection, industrial image labeling), **robotics** (from a manual to button presses for a robot arm), **finance** (bank-process mapping, disclosure research, quant signals) and **everyday & public services** (youth-finance navigation, smart-home routines, emotion journaling).
-- 🏆 &nbsp;**Wins.** Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon · **Gold Medal** as a WorldQuant Consultant
+- 🐦 **Perch — my first app, and my first AI project.** Built and launched an AI-powered bird care app combining daily health tracking, image-based analysis, and an avian-care knowledge base. Now live on the App Store, Perch is undergoing a major redesign, while I'm expanding beyond software into hardware with an ESP32-based smart perch scale.
+
+- 🎓 **Capstone — exploring speculative retrieval for Agentic RAG.** Investigated whether a smaller draft LLM could predict and prefetch a larger model's search requests to reduce retrieval latency. Experiments with 10M vectors on Milvus DiskANN showed how GPU contention and disk I/O bottlenecks can offset the benefits of prefetching. Even without an end-to-end speedup, the research helped identify the practical limits of speculative retrieval.
+
+- 🤖 **Building AI agents across industries.** Developed AI agents for AdTech, manufacturing, robotics, finance, and public services — from generating advertising creatives and automating industrial inspections to controlling robotic arms, analyzing financial documents, and helping users navigate public services. My focus is on turning AI capabilities into systems that solve real problems.
+
+- 🏆 **Recognition along the way.** Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon · Gold Medal as a WorldQuant Consultant
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## ⚡ What I'm up to right now
+## ⚡ What I'm Working On
 
 `Last updated Nov 2026`
 
-- 🏢 &nbsp;**AX Advisor @ [Samsung Global Research](https://www.samsungsgr.com)** (part-time, employed by [Centrogics](https://centrogics.com)) — AI-adoption workshops for researchers, and Claude Code skills, agents and dashboards I build with their teams
-- 🎯 &nbsp;**AI Engineer @ [GROVA Technology (HK)](https://www.aiprofita.com)** — building Profita's AdTech agent: one App Store link → competitor intel, briefs, image / video / playable ads, QC, AppLovin & Meta export
-- 🦾 &nbsp;**Undergraduate Researcher @ [Hanyang HCC Lab](https://hcc.hanyang.ac.kr/)** (HY_UP course) — CNC panel photo + instruction → SAM 3 / MLLM semantic labels → manual-grounded A\* plan → button presses for a robot arm
-- 🏦 &nbsp;**Undergraduate Researcher, Hanyang × [EY Han Young](https://www.ey.com/ko_kr)** — an agent that reads bank manuals and drafts the consultant's **as-is** process map, on local open models
-- 🏛️ &nbsp;**Youth Public AX Supporter @ [Ministry of the Interior and Safety](https://www.mois.go.kr)** — building *Youth Money Map* (청년머니맵): enter your situation once, see which youth-finance products fit you and why
-- 🐦 &nbsp;**Founder @ [Perch](https://perch.ai.kr/ko)** — one year in, a data-driven rebuild of the app, plus a smart perch scale (ESP32-C3) that weighs the bird the moment it lands
-- ☁️ &nbsp;**Core Team @ [ASBG at HYU](https://asbg-hyu.vercel.app)** — founding cohort of Hanyang's AWS Student Builders Group: weekly cloud study sessions and hands-on AWS seminars
+- 🏢 **FDE & AX Advisor @ [Samsung Global Research](https://www.samsungsgr.com/)** (part-time via [Centrogics](https://centrogics.com/)) — Providing hands-on AI consulting and development support for researchers. Contributed to projects including a hospital logistics system, financial trend email automation, hypothesis-driven multi-agent systems, a presentation deck agent, and Japanese translation skills.
+
+- 🎯 **AI Engineer @ [GROVA Technology (HK)](https://www.aiprofita.com/)** — Building **Profita**, an AdTech AI agent that turns an App Store link into competitor research, creative briefs, AI-generated image/video/playable ads, quality checks, and ad-platform exports.
+
+- 🦾 **Undergraduate Researcher @ [Hanyang HCC Lab](https://hcc.hanyang.ac.kr/)** — First author of a **KDMS 2026 poster paper** on industrial image semantic labeling using SAM 3, RESAnything, and MLLM-based multimodal context mining. Developed an AI labeling agent and a Human-in-the-Loop label propagation workflow. Also developing a robotic automation system that translates CNC panel images and natural-language instructions into executable button-press sequences.
+
+- 🏦 **Undergraduate Researcher @ Hanyang × [EY Han Young](https://www.ey.com/ko_kr)** — Developing an AI assistant agent that analyzes banking procedure manuals and generates **as-is process maps** using locally deployed open-source models to support consulting workflows.
+
+- 🏛️ **Youth Public AX Supporter @ [Ministry of the Interior and Safety](https://www.mois.go.kr/)** — Developing **Youth Money Map (청년머니맵)**, an AI-powered service that matches young people with relevant financial support programs based on their circumstances.
+
+- 🐦 **Founder @ [Perch](https://perch.ai.kr/ko)** — Redesigning the AI-powered bird care app with a stronger focus on data-driven health tracking, while developing an **ESP32-C3 smart perch scale** for automatic weight monitoring.
+
+- ☁️ **Core Team @ [ASBG at HYU](https://asbg-hyu.vercel.app/)** — Founding member of Hanyang University's AWS Student Builders Group, organizing weekly cloud study sessions and hands-on AWS workshops.
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- ROLES                                                   -->
