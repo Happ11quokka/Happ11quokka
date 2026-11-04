@@ -59,8 +59,8 @@
 <sub><i>Every gym I've walked into so far, numbered in the order I showed up.</i></sub>
 
 ![Badges](https://img.shields.io/badge/Badges-16-002856?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/In_Progress-8-2F7BD6?style=for-the-badge)
-![Cleared](https://img.shields.io/badge/Cleared-6-2DA44E?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/In_Progress-7-2F7BD6?style=for-the-badge)
+![Cleared](https://img.shields.io/badge/Cleared-7-2DA44E?style=for-the-badge)
 ![Trophies](https://img.shields.io/badge/Trophies-2-C9971C?style=for-the-badge)
 
 </div>

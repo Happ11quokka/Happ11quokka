@@ -24,7 +24,7 @@ BADGES = [
     ("profita", "https://www.aiprofita.com", "GROVA Technology", "AI Engineer · Profita", "2026", A, None),
     ("lg-aimers", "https://github.com/Happ11quokka/lg-aimers8-llm-compression", "LG Aimers 8th", "LLM Compression", "2026", C, None),
     ("aws-kirothon", "https://github.com/Happ11quokka/hackathon-store", "AWS KIROTHON", "Kiro Hackathon", "2026", G, "EXCELLENCE"),
-    ("hyu-agentic-rag", "https://github.com/Happ11quokka/agentic-rag", "Capstone · Agentic RAG", "Speculative Retrieval", "2026", A, None),
+    ("hyu-agentic-rag", "https://github.com/Happ11quokka/agentic-rag", "Capstone · Agentic RAG", "Speculative Retrieval", "2026", C, None),
     ("kakao-ulog", "https://github.com/Happ11quokka/kakao_impact", "Ulog × Kakao Impact", "Backend & AI", "2026", C, None),
     ("hcc", "https://hcc.hanyang.ac.kr/", "Hanyang HCC Lab", "Undergraduate Researcher", "2026", A, None),
     ("asbg", "https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4", "ASBG @ HYU", "AWS Builders · Core Team", "2026", A, None),
