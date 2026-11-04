@@ -93,122 +93,194 @@
 <summary><b>💼 Experience</b> &nbsp;<sub>Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab</sub></summary>
 <br/>
 
-### 🏢 Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/sgr.png" height="32" align="center" alt="" /> Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skills_·_Hooks-D97757?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/claude-code)
-[![python-pptx](https://img.shields.io/badge/python--pptx-Deck_Agent-1C5FA8?style=flat-square)](#)
-[![Workshops](https://img.shields.io/badge/AX-Workshops-002856?style=flat-square)](#)
+<p>
+<a href="https://www.anthropic.com/claude-code"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-1.svg" height="26" width="112" alt="Claude Code" /></a>
+<a href="https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-2.svg" height="26" width="109" alt="Agent Skills" /></a>
+<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-3.svg" height="26" width="109" alt="MCP Server" /></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-4.svg" height="26" width="79" alt="Python" /></a>
+<a href="https://python-pptx.readthedocs.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-5.svg" height="26" width="99" alt="python-pptx" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-6.svg" height="26" width="112" alt="AX Workshops" />
+</p>
 
-`Part-time · Employed by Centrogics · On-site AX consulting` · `Sep 2026 – Present`
+`Part-time · Employed by Centrogics · On-site FDE` · `Sep 2026 – Present`
 
-> Researchers at a corporate think tank want to use AI in the work they already do. I'm on a three-person AX team there, and my part is checking what the tech can actually handle and building the tools.
+> Researchers at a corporate think tank want AI in the work they already do. I work on-site as a forward-deployed engineer: I find the problem with them, check what the tech can actually handle, and build the tool.
 
-- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI-adoption workshops** — hands-on lectures and "Axtive Day" sessions for research and staff teams, run on an HTML slide system I reuse across sessions
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consult → build** — Claude Code skills and agents for team workflows, including a **report-to-deck agent**, an article translator that translates the charts too, and an agent that drafts consulting hypotheses
-- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboards & simulators** — reviewed and redesigned internal dashboards, and built a fleet-sizing simulator for logistics robots (web app + Python engine)
-
----
-
-### 🎯 GROVA TECHNOLOGY (HK) LIMITED — AI Engineer <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-white.png"><img align="right" height="34" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-dark.png" alt="Profita by GROVA Technology" /></picture>
-
-[![Profita](https://img.shields.io/badge/Profita-aiprofita.com-1C5FA8?style=flat-square)](https://www.aiprofita.com)
-[![MCP](https://img.shields.io/badge/MCP-Tool_Use-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io)
-[![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta&logoColor=white)](https://business.meta.com)
-[![AppLovin](https://img.shields.io/badge/AppLovin-000000?style=flat-square)](https://www.applovin.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Node_22-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-
-`AdTech · Multi-Agent Ad Operations · Remote` · `Jan 2026 – Present`
-
-> The ad-ops demo was a front-end animation with no agent behind it. I built the real one: an end-to-end Agent OS wired to live ad platforms. It is now growing into a creative engine that starts from a single App Store link.
-
-- <img src="https://api.iconify.design/lucide:puzzle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Self-built harness** — LLM separated from execution logic, in a **provider-neutral** architecture so the underlying model swaps out without touching the pipeline
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Profita Creative Engine** — five layers: intelligence (competitor & market ad intel) → strategy (briefs) → production (image, video, **playable** ads, voice & music) → QC with a repair loop → export & upload to **AppLovin / Meta**
-- <img src="https://api.iconify.design/lucide:layout-panel-left.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Studio & Console** — a client chat workbench with approval cards, an operator console, a queue worker and an Agent Map that shows every run
-- <img src="https://api.iconify.design/lucide:shield-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Approval gates** — user verification required before any high-risk action executes; Meta, AppLovin and other platforms integrated through **MCP** and vendor SDKs
-- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Ran the **technical demo and Q&A for VCs and investors in Shanghai**; execution logs and metrics gave every agent run traceability and made debugging tractable
+- <img src="https://api.iconify.design/lucide:users.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Technical side of a three-person AX Advisor team** — AX adoption and AI skills for research groups across research coordination, bio, logistics, management, finance, insurance and accounting. I check whether each request is technically feasible and build it when it is
+- <img src="https://api.iconify.design/lucide:message-square-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AX consulting, problem → build** — first sessions map a team's current work and what to improve, then technical consulting and a work-automation tool designed and built together with the researchers
+  - **Financial-markets mailing** — improvement consulting for a daily newsletter pipeline (collect → render → check → send), with a clearer policy for data sources and delivery states
+  - **Japanese translation Skill, upgraded** — Claude Code skills that turn Japanese economic articles (PDF) into the team's Korean house style. Scripts handle text recovery and format rules, Claude translates, and a second skill swaps the Japanese text inside charts
+  - **Hospital logistics** — modeled a hospital's robot logistics as a fleet-sizing simulator (web app + Python engine) and dashboard
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hands-on AI education** — teaches researchers and staff what AI agents, Skills, MCP and workflows are and how to use them, with hands-on Claude Code and coding-agent sessions so non-developers can automate their own work. The signature session builds on **Matt Pocock**'s approach to AI coding agents: how the tools work, the mindset for using them, and how to design work for them
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Deck Agent (report → deck)** — turns a researcher's report into a draft deck in the company's official format, through a Claude Code skill, a local **MCP server** and a local Canva-style studio
+  - **Template as data** — the official PowerPoint template is not shipped as a .pptx. Its layouts, measurements, colors and fixed graphics were extracted into JSON standards, per-layout slot schemas and HTML/SVG reproductions. Two modes: official layouts kept one by one (re-laid out when item counts grow), and 19 sample layouts grouped by message shape (process, matrix, cycle, Venn, tree, pyramid, timeline…)
+  - **Claude judges, scripts compute** — the source of truth is a document model, not HTML. Claude splits the report into slides, picks a layout per slide and fills slots with text tagged by source-sentence ID. Scripts do PDF intake, stable sentence IDs, slot/overflow/color checks, rendering, and a source-to-slide trace table
+  - **Local MCP server** — a stdio JSON-RPC server that lets Claude Code or Codex read a job (manuscript, outline, writing context) and submit an outline, draft, slide fill, layout change or regeneration. Every write is a compare-and-swap on the job revision, and approvals are never exposed as tools
+  - **Two human checkpoints** — in the studio, ◆Check 1 approves the slide list, layouts and cover info before drafting, and ◆Check 2 signs off after reading the checks and trace table. Regenerating selected slides never overwrites web edits: a conflicting candidate is held for a keep / apply choice
+  - **Studio & export** — edit text, add, remove and reorder slides, or swap a slide's layout (displaced text is kept; only the new empty slots go back to the agent). Each revision exports as an HTML archive with presentation mode, or as PPTX via python-pptx with the trace table in the speaker notes
 
 ---
 
-### 🦾 Hanyang University HCC Lab — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/profita.png" height="32" align="center" alt="" /> GROVA TECHNOLOGY (HK) LIMITED — AI Engineer Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-white.png"><img align="right" height="34" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/profita-dark.png" alt="Profita by GROVA Technology" /></picture>
 
-[![Lab](https://img.shields.io/badge/Lab-Human--Centered_Computing-002856?style=flat-square)](https://hcc.hanyang.ac.kr/)
-[![SAM 3](https://img.shields.io/badge/SAM_3-Promptable_Concept_Segmentation-0467DF?style=flat-square&logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
-[![MLLM](https://img.shields.io/badge/MLLM-Multimodal-1C5FA8?style=flat-square)](#)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Panel_State-1C5FA8?style=flat-square)](#)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
-[![ApBot](https://img.shields.io/badge/ApBot-Manual_%E2%86%92_Action-002856?style=flat-square)](https://arxiv.org/abs/2505.20424)
+<p>
+<a href="https://www.aiprofita.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-1.svg" height="26" width="60" alt="Profita" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-2.svg" height="26" width="175" alt="TypeScript · Node 22" /></a>
+<a href="https://ai.google.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-3.svg" height="26" width="166" alt="Gemini Image · Lyria" /></a>
+<a href="https://www.byteplus.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-4.svg" height="26" width="123" alt="Seedance 2.0" /></a>
+<a href="https://elevenlabs.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-5.svg" height="26" width="105" alt="ElevenLabs" /></a>
+<a href="https://ffmpeg.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-6.svg" height="26" width="133" alt="FFmpeg · libass" /></a>
+<a href="https://reactflow.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-7.svg" height="26" width="158" alt="React · React Flow" /></a>
+<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-8.svg" height="26" width="59" alt="MCP" /></a>
+<a href="https://business.meta.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-9.svg" height="26" width="169" alt="Meta Ads · AppLovin" /></a>
+</p>
 
-`Dept. of Data Science · Human-Centered Computing Lab` · `Jul 2026 – Present` · `HY_UP course`
+`Intern · AdTech · Multi-agent development · Ad operations & analysis` · `Jan 2026 – Oct 2026`
 
-> Industrial images are full of objects that look identical but **mean** different things. I build a Human-in-the-Loop agent that labels by meaning, then hand those labels to a planner that tells a robot arm which buttons to press.
+> Profita is GROVA's AI ad-ops platform: paste one App Store link and it analyses the app and its competitors, plans the ads, produces and checks the creatives, and uploads them to ad platforms. I built the multi-agent system behind it, the chat Studio clients work in, and the operator Console.
 
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Multimodal context mining for labeling** — OCR + MLLM propose meaning-based candidates, **SAM 3 PCS** selects every same-meaning object from one concept prompt, and the user's pick becomes an **image exemplar** for the next sweep. After the first image, labeling is confirm-only
-- <img src="https://api.iconify.design/lucide:tag.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Extended the lab's HILIPS labeler** from SAM 2 to SAM 3, adding attribute prompting for lamp state (a keycap and its LED read as one control unit) and a LangGraph control-unit pipeline
-- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Photo + instruction → robot action** — a YOLOv8 panel-state detector, goal extraction from the instruction, then **goal-conditioned A\*** over a manual-grounded CNC state machine. Out comes a press sequence with 2D boxes for the arm. It covers two real CNC panels (4- and 50-class detectors)
-- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Robot-camera robustness** — fixed LED-state failures with flip-free augmentation, synthetic lamp-combination images and a dedicated LED-state model. Benchmarked rule vs. cloud vs. **local LLM** goal extraction for offline use
+- <img src="https://api.iconify.design/lucide:puzzle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Agent harness** — a hand-written TypeScript harness keeps the LLM apart from execution: code fixes the node order, and every model turn passes budget, tool allow-list and event-log checks. Untrusted text such as competitor ads is read only by **isolated** model calls, and only schema-checked results reach the planner (Dual-LLM boundary)
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Profita Creative Engine** — five stages, each with its own agents
+  - **Intelligence** — store lookup and competitor discovery; competitor ads ranked by days running and tagged from sampled frames (hook, segments, CTA, pointer) in one multimodal call each
+  - **Strategy** — code assigns templates by weighted apportionment; the brief agent writes copy, shots, voice lines and SFX under a schema contract, and any violation goes back to it to fix
+  - **Quality Control** — config-driven rules for text overflow (OCR), safe area, brand color (ΔE2000), black/static frames and loudness, plus a perceptual-hash check so no output copies a reference ad
+  - **Repair loop** — text-only failures re-render just the text layer (≤ 2), other failures regenerate with a new seed plus the failure reason (≤ 2), and a third hit on the same rule goes to a human
+  - **Export & Upload** — IPTC/C2PA AI-provenance tags go into every file, and runs export as AppLovin upload packages (Creative Sets + manifest) and Meta Ads creatives. Meta and AppLovin were first wired in through **MCP** servers (campaign creation behind an approval gate, reporting), later moved in-process behind the same MCP-shaped tool registry
+- <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Production agents** — image, video, playable, voice and music
+  - **Image** — Gemini 3.1 Flash Image 2K, guided by store screenshots and the app's brand colors; the icon is composited into the cleanest corner, and libass text is placed where it won't cover the subject
+  - **Storyboard → keyframes** — the storyboard agent writes a Look block and a per-shot plan; Gemini 3 Pro Image draws the keyframes, and shot 1 anchors the protagonist for every later shot
+  - **Shots** — Seedance 2.0 runs submit → poll → refill under a vendor in-flight cap; a shot that comes back black, static or off its keyframe gets a new seed, then **Gemini Omni Flash**, then a human
+  - **Assembly** — FFmpeg corrects each shot's color toward the median, upscales to 1080×1920, crops 4:5 / 1:1 from the 9:16 master and adds a code-rendered end card (a separate end-card still for AppLovin)
+  - **Code-rendered gameplay** — for puzzle apps, a seeded solver builds a board with a unique solution, and a TypeScript renderer draws the solve frame by frame into x264 at each aspect ratio
+  - **Playable ads** — a sandboxed Codex agent rebuilds a reference playable as one HTML file behind a local gateway that enforces spend caps; the result must pass AppLovin's spec (`mraid.open()`, no external refs) and share no bytes with the reference
+  - **Voice, music, SFX** — ElevenLabs reads each line into its shot's time slot, and Lyria 3 music ducks under the voice, normalized to −14 LUFS; sound effects come from a CC0 catalog or ElevenLabs SFX
+- <img src="https://api.iconify.design/lucide:layout-panel-left.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Studio & Console** — React 19 + Vite client Studio, a server-rendered operator Console, and a worker queue in between
+  - **Chat workbench** — streamed replies; answers cite their sources, and clicking a source jumps to that card on the run canvas
+  - **Confirmation card** — market, formats, count and credit estimate, re-estimated on every edit; confirming writes a queued job in the same transaction, and the card then shows its place in the queue
+  - **Human-in-the-Loop gates** — keyframe, copy and final-review gates: approve, edit copy, drop or regenerate, with the credit consequence updated live; a 409 conflict keeps the user's draft
+  - **Agent Map** — a React Flow run canvas in Studio, and a library-free SVG system map in the Console built from the pipeline code, with live status, loop turns, spend, prompt sources and model calls per node
+  - **Operator Console** — failures and stalled runs come first; run list, detail tabs, trace, ⌘K palette and upload-package downloads
+  - **Interaction** — Esc closes one layer at a time, phone layouts get bottom tabs and focus-trapped sheets, motion respects reduced-motion, and the dark theme meets WCAG contrast
+- <img src="https://api.iconify.design/lucide:gauge.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Faster Studio & Console**
+  - **Per-request read cache + parallel prefetch** — each page's reads go out in one parallel round; the Studio gallery went from 86 SQL queries in 54 round trips to 11 in 4, and the review API from 53 to 5 in 2
+  - **Streaming chat** — the reply streams over fetch-based SSE once it has passed checks; the client's own message appears at once, and a rejected send puts the text back in the input box
+  - **Polling** — 5 s while running, 30 s at a gate, exponential backoff, paused in background tabs; the gallery refetches only when the run changes, so thumbnails don't flicker
+  - **Caching** — hashed assets cached as immutable for a year, the ⌘K palette's data cached for a minute, and run-memo reads that cut a full dry run from ~4.5 to ~1.5 min
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Shanghai technical demo & investor Q&A** — ran the live demo and Q&A for VCs and investors in Shanghai, covering the architecture, platform integration and multi-agent execution, and traced each run through its execution logs and metrics
+
+---
+
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hcc.png" height="32" align="center" alt="" /> Hanyang University HCC Lab (한양대학교 HCC 연구실) — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
+
+<p>
+<a href="https://hcc.hanyang.ac.kr/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-1.svg" height="26" width="238" alt="Lab · Human-Centered Computing" /></a>
+<a href="https://ai.meta.com/sam3/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-2.svg" height="26" width="131" alt="SAM 2 / SAM 3" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-3.svg" height="26" width="94" alt="MLLM + OCR" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-4.svg" height="26" width="141" alt="Human-in-the-Loop" />
+<a href="https://docs.ultralytics.com/models/yolov8/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-5.svg" height="26" width="64" alt="YOLOv8" /></a>
+<a href="https://arxiv.org/abs/2505.20424"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-6.svg" height="26" width="55" alt="ApBot" /></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-7.svg" height="26" width="100" alt="LangGraph" /></a>
+</p>
+
+`Summer Research Intern · Dept. of Data Science · Human-Centered Computing Lab` · `Jul – Aug 2026 (summer internship)` · `Sep 2026 – Present (HY_UP research practicum)`
+
+> Industrial images are full of objects that look identical but **mean** different things. I automate meaning-based labeling for these images and turn natural-language instructions into CNC panel operations for a robot arm, using multimodal AI and Human-in-the-Loop agent pipelines.
+
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Multimodal context mining for semantic labeling** — semantic labeling and automatic label propagation for industrial images, combining SAM 2/3, an MLLM and OCR, built on the lab's HILIPS labeler (moved from SAM 2 to SAM 3)
+  - **Candidates:** OCR text, the panel image and class definitions go to an MLLM, which writes meaning-based phrases that become SAM 3 concept prompts
+  - **Exemplars:** one click gives a SAM 2 mask, and its box becomes an image exemplar for SAM 3, which finds every look-alike in one pass. Class names stay empty until a person assigns them
+  - **Attribute prompting:** a keycap and its LED are merged into one control unit. The lamp state is reported only when the model and the pixel channel agree; otherwise the system abstains and gives a reason
+  - **HITL verification:** a SAM 3 tracker carries labels confirmed on one image to the rest of the batch as `needs_review`. Reviewers reject objects one at a time before commit, and the run pauses at a LangGraph checkpoint while it waits
+- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Vision-language robot planning** — a YOLOv8 detector reads which keys are on the CNC panel and which lamps are lit. The target state is pulled from the natural-language instruction, then ApBot's **goal-conditioned A\*** plans over a CNC state machine grounded in the machine manual and returns the press order with 2D coordinates for the arm
+  - Each control's effect and preconditions in the manual (e.g. a key that works only in JOG mode) are written as guarded state transitions, so a blocked press or an unknown state ends in a refusal, not a guessed plan
+  - Built for two real CNC panels, with 4-class and 50-class detectors
+- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Robot-camera robustness & local LLM** — made LED-state recognition stable on robot-camera photos with flip-free retraining, synthetic lamp-combination images, a dedicated LED-state model and a button-layout correction template. Compared rule-based, cloud-LLM and local-LLM (Ollama) goal extraction on the same cases so the robot can run offline
 - <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**KDMS 2026 poster, first author** — *Multimodal Context Mining for Semantic Labeling of Industrial Images*
 
 ---
 
-### 🏦 Hanyang University × EY Han Young — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/ey.png" height="32" align="center" alt="" /> EY Han Young (EY한영) — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
 
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
-[![vLLM](https://img.shields.io/badge/vLLM-Closed_Network-30A2FF?style=flat-square)](https://github.com/vllm-project/vllm)
-[![PaddleOCR-VL](https://img.shields.io/badge/PaddleOCR--VL-OCR-0062B0?style=flat-square)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+<p>
+<a href="https://ollama.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-1.svg" height="26" width="72" alt="Ollama" /></a>
+<a href="https://github.com/vllm-project/vllm"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-2.svg" height="26" width="48" alt="vLLM" /></a>
+<a href="https://github.com/PaddlePaddle/PaddleOCR"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-3.svg" height="26" width="105" alt="PaddleOCR-VL" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-4.svg" height="26" width="147" alt="Qwen3.5 · Gemma 4" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-5.svg" height="26" width="159" alt="Constrained Decoding" />
+<a href="https://docs.pydantic.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-6.svg" height="26" width="89" alt="Pydantic" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-7.svg" height="26" width="82" alt="FastAPI" /></a>
+</p>
 
-`Industry–academia PoC · Financial services consulting` · `Sep 2026 – Present`
+`Undergraduate researcher · Hanyang University industry–academia PoC · Financial services consulting` · `Sep 2026 – Present`
 
-> Before consultants can redesign a bank's process, they spend days rebuilding its **as-is** from regulations and manuals. This PoC drafts that map for them.
+> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. On a four-person team (a Hanyang advising professor, an EY Han Young practitioner, a Hanyang PhD researcher and me), I build the AI assistant agent that drafts that as-is from the documents.
 
-- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — OCR for scanned regulations, then activities, departments, roles, required documents and branches pulled into an as-is flow
-- <img src="https://api.iconify.design/lucide:git-fork.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consultant-ready tags** — HITL points, pain points and to-be candidates attached to every activity
-- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for closed networks** — a fixed pipeline with JSON-schema constrained decoding on local open models (Ollama → vLLM), plus an OCR benchmarking dashboard (OmniDocBench)
-
----
-
-### 🐦 Perch — Founder <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
-
-[![Repo](https://img.shields.io/badge/Repo-perch__care-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/perch_care)
-[![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko)
-[![Flutter](https://img.shields.io/badge/Flutter-Riverpod_MVVM-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![pgvector](https://img.shields.io/badge/pgvector-HyDE_RAG-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
-[![ESP32-C3](https://img.shields.io/badge/ESP32--C3-Smart_Scale-E7352C?style=flat-square&logo=espressif&logoColor=white)](#)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app)
-
-`Seoul` · `Mar 2025 – Present`
-
-> Bird owners can't catch health problems early, and avian veterinary care is hard to reach. Perch is the AI health-management service that closes that gap.
-
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Live on the App Store** — **680+ sign-ups**, KR · EN · 中文; funded by Hanyang University Startup Support Center
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Knowledge base + RAG** — a KR · EN · 中文 avian-health knowledge base (30+ species, 50+ diseases) built from a Shanghai exotic-animal hospital's clinical material. The **HyDE** pipeline runs on OpenAI embeddings + pgvector HNSW with re-ranking, and answers stream over SSE
-- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hybrid LLM routing** — models routed by question type, with DeepSeek adding Chinese cultural & regulatory context for 中文 users
-- <img src="https://api.iconify.design/lucide:eye.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GPT-4o vision check-ups** — whole-body, body-part, droppings and food-safety analysis grounded in the bird's history
-- <img src="https://api.iconify.design/lucide:activity.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Proprietary **Bird Health Index (BHI)** from weight · food · water, with formulas per growth stage · weekly AI insight reports · JWT + Google/Apple/Kakao OAuth
-- <img src="https://api.iconify.design/lucide:refresh-ccw.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Year-one rebuild** — production usage analysis, a 20-user study and a 17-finding front-end audit drove the next version: premium removed, MVVM completed, WCAG AA fixes, and the UX now being redesigned from the as-is task flow
-- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Into hardware** — a perch-shaped smart scale that weighs the bird on landing, so there's no handling stress. Built on an ESP32-C3 with a 44 × 44 mm KiCad board, Li-Po power path and an I²C load-cell unit; currently in design review before the first PCBA run
-- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Selected for the **Saehaeam Foundation Career Challenge startup scholarship** and Hanyang University's startup club · [perch.ai.kr](https://perch.ai.kr/ko)
+- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — scanned banking procedure manuals in; activities, departments, roles, required documents and conditional branches out, linked into one as-is process
+  - **OCR**: local VLMs (Qwen3.5 9B, Gemma 4 12B, PaddleOCR-VL 1.6) read each page after orientation is fixed, either whole or region by region through the PaddleX layout pipeline. Tables and regions that come back broken are re-read by a second model
+  - **Clause chunks**: OCR lines are re-ordered by page geometry and split along the manual's numbering (1. › 가. › (1) › ①), so every clause gets a stable `<doc>:<clause path>` ID. Each annex table row becomes its own chunk with merged cells filled in
+  - **Extraction**: per section, schema-constrained calls return activities, branches, documents and notes. One more call returns the flow (normal path, exception paths, merge points), and code builds the edges and IDs
+- <img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is consulting assistant** — each activity carries a Human-in-the-Loop review-point candidate, pain-point candidates and to-be improvement candidates, so consultants can scan for bottlenecks and automation potential
+  - Every item cites at least one clause ID plus a quoted span. Fields manuals rarely state (department, role, system) are tagged *regulation / inferred / needs interview* instead of guessed
+  - Output is a JSON process graph (lanes, activities, Y/N branches, edges, required documents by submitter × condition), rendered as an activity definition sheet and a Mermaid flowchart
+- <img src="https://api.iconify.design/lucide:link.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Cross-reference linking** — page-level OCR output is stitched into documents: tables split across pages are merged, merged cells expanded, and phrases like "Article N", "Annex N", "item 가. above" or "the preceding paragraph" resolved to a target page and heading path. References that rules can't resolve go to a text-only Qwen3 8B agent with page-read and search tools and a capped tool budget
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for a bank's closed network** — plain Python + Pydantic with JSON-schema constrained decoding through one OpenAI-compatible client. Ollama runs on the dev Mac and vLLM inside the closed network, switched by config. It is a fixed-stage pipeline instead of an open tool loop, with temperature 0, a fixed seed and thinking off, so the same manual gives the same draft
 
 ---
 
-### 📊 Hanyang Quant Analytics Lab — Undergraduate Research Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/perch.png" height="32" align="center" alt="" /> Perch — Founder <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
 
-[![Repo](https://img.shields.io/badge/Repo-StockNewsEstimator-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/StockNewsEstimator)
-[![APAF 2025](https://img.shields.io/badge/APAF_2025-Accepted-002856?style=flat-square)](https://www.kafe2023.org/bbs/reference/254)
-[![GPT-4.1 Nano](https://img.shields.io/badge/GPT--4.1_Nano-412991?style=flat-square)](https://openai.com)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+<p>
+<a href="https://github.com/Happ11quokka/perch_care"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-2.svg" height="26" width="99" alt="App Store" /></a>
+<a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-3.svg" height="26" width="77" alt="Flutter" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-4.svg" height="26" width="122" alt="Hybrid AI Agent" />
+<a href="https://github.com/pgvector/pgvector"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-5.svg" height="26" width="93" alt="pgvector" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-6.svg" height="26" width="86" alt="AI Chatbot" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-7.svg" height="26" width="188" alt="Smart Scale · ESP32-C3" />
+</p>
 
-`Business School · Quantitative Analytics Lab` · `Mar 2025 – Jul 2025` · `follow-up audit through 2026`
+`Founder` · `Mar 2025 – Present`
 
-> GPT news sentiment as an alpha signal for Korean equities — and then a hard look at whether that alpha was real or a bug.
+> Bird owners struggle to catch health problems early, and avian vets are hard to reach. I founded and run PerchCare, an AI health-management platform for pet birds.
 
-- <img src="https://api.iconify.design/lucide:file-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**APAF 2025 paper, 2nd author** — GPT-4.1 Nano sentiment over **~500K Maeil Business news articles** (2022.01–2025.03) joined to FnGuide daily prices; long-short equity-neutral backtest split by publication window (PRE / IN / AFTER / DAY-OFF)
-- <img src="https://api.iconify.design/lucide:trending-up.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Baseline** — **+11.91%** cumulative return (Sharpe 0.38) vs **KOSPI −14.43%**
-- <img src="https://api.iconify.design/lucide:bug.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Look-ahead audit, solo (2026)** — traced a follow-up pipeline reporting +640% ~ +2,183% to a **KST→UTC timezone bug** that misfiled ~190K intraday/after-hours articles as PRE; corrected returns landed at **+12.78%**, consistent with the paper
-- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Audited a teammate's pre-emption filter** — found an ISIN zero-padding join bug silently dropping ~24% of the news (**+31.56% → +13.72%** unfiltered) and replaced full-sample ranking with causal expanding rank
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Independent reproduction engine** with t-tests and the Jobson–Korkie Sharpe test — the filter's edge survives correction (z = 3.29, p = 0.001), while the headline segment alphas mostly do not (all p > 0.1)
+- <img src="https://api.iconify.design/lucide:rocket.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Launch & growth** — live on the iOS App Store with **680+ sign-ups**, in KR · EN · 中文
+  - Supported by the Hanyang University Startup Support Center
+  - Selected as a Saehaeam Foundation startup scholar
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Knowledge base & RAG** — a multilingual knowledge base of 30+ bird species and 50+ diseases, built from a Shanghai exotic-animal hospital's clinical material
+  - **HyDE retrieval** — each question is first rewritten as a short English reference passage, so KR, EN and 中文 questions all search the same English and Chinese documents
+  - **Search & re-rank** — OpenAI embeddings + pgvector HNSW cosine search (top 5, similarity floor 0.3), then re-ranked by blending similarity with query keyword overlap
+  - **When sources disagree** — one model makes the final call: retrieved passages arrive tagged with their source and relevance score, outside supplements are fenced off as reference data, and the prompt rules out claims the knowledge base doesn't support. If retrieval fails or times out, the answer falls back to the bird's own records
+- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hybrid AI agent & photo check-ups**
+  - **Routing by question type and language** — each question is classified (disease, nutrition, behavior, species, general) and answered in that category's format; the reply language is detected per message, and Chinese questions also pull a DeepSeek supplement on local bird-keeping practices and products
+  - **GPT-4o Vision** for whole-body, body-part, droppings and food photos, read against the bird's past check-ups. Areas the photo doesn't show are marked "not visible" rather than normal, and the model's self-reported confidence is capped
+  - **Dr. Aeng (앵박사) chatbot** — health Q&A and multilingual consultation with saved chat sessions, streamed answers, and advice tied to the bird's weight, food and water records
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**IoT smart perch scale** — a perch-shaped scale that weighs the bird when it lands, so there's no handling stress; readings link to the PerchCare service
+  - ESP32-C3 on a 44 × 44 mm two-layer KiCad board
+  - USB-C Li-Po charging and power path, with separate 3.3 V logic and 5 V sensor rails
+  - I²C load-cell module connected over Grove
+
+---
+
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hanyang-quant.png" height="32" align="center" alt="" /> Hanyang Quant Analytics Lab (한양대학교 퀀트분석 연구실) — Undergraduate Research Intern <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-business-white.png"><img align="right" height="36" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-business-blue.png" alt="Hanyang University Business School" /></picture>
+
+<p>
+<a href="https://github.com/Happ11quokka/StockNewsEstimator"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://www.kafe2023.org/bbs/reference/254"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-2.svg" height="26" width="86" alt="APAF 2025" /></a>
+<a href="https://openai.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-3.svg" height="26" width="119" alt="GPT-4.1 Nano" /></a>
+<a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-4.svg" height="26" width="78" alt="pandas" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-5.svg" height="26" width="150" alt="Quantitative Finance" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/quant-6.svg" height="26" width="94" alt="Backtesting" />
+</p>
+
+`Business School · Quantitative Analytics Lab` · `Mar – Jul 2025 (research intern)`
+
+> Can an LLM's read of the news be used as a trading signal in Korean equities? I was second author on the paper that tested it.
+
+- <img src="https://api.iconify.design/lucide:newspaper.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GPT news-sentiment strategy** — scored **~500K Maeil Business articles** (2022.01–2025.03) with GPT-4.1 Nano, mapped each article to its listed stock, and joined the result to FnGuide daily prices
+- <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Market-neutral long-short backtest** — daily-rebalanced portfolio, long on positive-sentiment stocks and short on negative, with entry and exit set by publication window (PRE / IN / AFTER / DAY-OFF)
+- <img src="https://api.iconify.design/lucide:file-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**APAF 2025 paper, 2nd author** — **+11.91%** cumulative return, Sharpe 0.38, against **KOSPI −14.43%** over the same period
 
 </details>
 
