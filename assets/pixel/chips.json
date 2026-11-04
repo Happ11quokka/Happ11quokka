@@ -106,56 +106,6 @@
     "url": "https://www.applovin.com"
    }
   ],
-  "ey": [
-   {
-    "label": "Ollama",
-    "color": "#000000",
-    "icon": "ollama",
-    "url": "https://ollama.com"
-   },
-   {
-    "label": "vLLM",
-    "color": "#30A2FF",
-    "icon": null,
-    "url": "https://github.com/vllm-project/vllm"
-   },
-   {
-    "label": "PaddleOCR-VL",
-    "color": "#0062B0",
-    "icon": null,
-    "url": "https://github.com/PaddlePaddle/PaddleOCR"
-   },
-   {
-    "label": "Qwen3.5",
-    "color": "#615CED",
-    "icon": null,
-    "url": null
-   },
-   {
-    "label": "Gemma 4",
-    "color": "#4285F4",
-    "icon": "google",
-    "url": "https://ai.google.dev/gemma"
-   },
-   {
-    "label": "Structured Output",
-    "color": "#1C5FA8",
-    "icon": null,
-    "url": null
-   },
-   {
-    "label": "Pydantic",
-    "color": "#E92063",
-    "icon": "pydantic",
-    "url": "https://docs.pydantic.dev"
-   },
-   {
-    "label": "FastAPI",
-    "color": "#009688",
-    "icon": "fastapi",
-    "url": "https://fastapi.tiangolo.com"
-   }
-  ],
   "hcc": [
    {
     "label": "HCC Lab",
@@ -406,20 +356,6 @@
     "color": "#181717",
     "icon": "github",
     "url": "https://github.com/Happ11quokka/koplegame"
-   }
-  ],
-  "edu": [
-   {
-    "label": "Minor · Entrepreneurship Convergence",
-    "color": "#002856",
-    "icon": null,
-    "url": null
-   },
-   {
-    "label": "Micro-major · Industrial AI",
-    "color": "#1C5FA8",
-    "icon": null,
-    "url": null
    }
   ],
   "kdms": [

@@ -98,7 +98,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-experience.svg" width="95%" align="absmiddle" alt="💼 Experience — Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab" /></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-experience.svg" width="95%" align="absmiddle" alt="💼 Experience — Samsung Global Research · GROVA Technology · HCC Lab · Perch · Quant Analytics Lab" /></summary>
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/sgr.png" height="32" align="center" alt="" /> Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
@@ -172,29 +172,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/ey.png" height="32" align="center" alt="" /> EY Han Young (EY한영) — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
-
-<p>
-<a href="https://ollama.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-1.svg" height="26" width="72" alt="Ollama" /></a>
-<a href="https://github.com/vllm-project/vllm"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-2.svg" height="26" width="48" alt="vLLM" /></a>
-<a href="https://github.com/PaddlePaddle/PaddleOCR"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-3.svg" height="26" width="105" alt="PaddleOCR-VL" /></a>
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-4.svg" height="26" width="73" alt="Qwen3.5" />
-<a href="https://ai.google.dev/gemma"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-5.svg" height="26" width="91" alt="Gemma 4" /></a>
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-6.svg" height="26" width="138" alt="Structured Output" />
-<a href="https://docs.pydantic.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-7.svg" height="26" width="89" alt="Pydantic" /></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-8.svg" height="26" width="82" alt="FastAPI" /></a>
-</p>
-
-`Undergraduate researcher · Hanyang University industry–academia PoC · Financial services consulting` · `Sep 2026 – Present`
-
-> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. On a four-person team (a Hanyang advising professor, an EY Han Young practitioner, a Hanyang PhD researcher and me), I build the AI assistant agent that drafts that as-is from the documents.
-
-- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Document structuring** — local VLM OCR for scanned banking manuals, split into clause chunks with stable IDs, with cross-references ("Article N", "Annex N") linked across pages
-- <img src="https://api.iconify.design/lucide:git-fork.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is assistant agent** — extracts activities, departments, roles, required documents and branches into a process graph, each item cited to its clause, with HITL, pain-point and to-be candidates for consultants
-- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Local LLM for closed networks** — a fixed-stage pipeline with JSON-schema constrained decoding through one OpenAI-compatible client: Ollama in development, vLLM inside the bank's network
-
----
-
 ### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/perch.png" height="32" align="center" alt="" /> Perch — Founder <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/perch-logo.svg" alt="Perch" />
 
 <p>
@@ -259,9 +236,9 @@
 <a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-8.svg" height="26" width="82" alt="FastAPI" /></a>
 </p>
 
-`Hanyang University × EY Han Young · industry–academia PoC` · `Sep 2026 – Present`
+`Undergraduate researcher · Hanyang University × EY Han Young industry–academia PoC` · `Sep 2026 – Present`
 
-> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. This agent drafts that map from the documents, on local models that can run inside a bank's closed network.
+> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. On a four-person team (a Hanyang advising professor, an EY Han Young practitioner, a Hanyang PhD researcher and me), I build the agent that drafts that map from the documents, on local models that can run inside a bank's closed network.
 
 - <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — scanned banking procedure manuals in; activities, departments, roles, required documents and conditional branches out, linked into one as-is process
   - **OCR**: local VLMs (Qwen3.5 9B, Gemma 4 12B, PaddleOCR-VL 1.6) read each page after orientation is fixed, either whole or region by region through the PaddleX layout pipeline. Tables and regions that come back broken are re-read by a second model
@@ -434,31 +411,6 @@
 | **koplegame** | Real-time, hint-based matching game built as a PWA | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-1.svg" height="20" width="76" alt="Next.js 15" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-2.svg" height="20" width="67" alt="Firebase" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-3.svg" height="20" width="88" alt="Tailwind CSS" /> | <a href="https://github.com/Happ11quokka/koplegame"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-4.svg" height="20" width="57" alt="GitHub" /></a> |
 
 </details>
-
-</details>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!-- EDUCATION                                               -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<details>
-<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-education.svg" width="95%" align="absmiddle" alt="🎓 Education — Hanyang University · B.S. Computer Science" /></summary>
-<br/>
-
-### Hanyang University — B.S. in Computer Science <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
-
-<p>
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/edu-1.svg" height="26" width="275" alt="Minor · Entrepreneurship Convergence" />
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/edu-2.svg" height="26" width="192" alt="Micro-major · Industrial AI" />
-</p>
-
-`Seoul, Korea` · `Sep 2021 – Present (Senior)`
-
-**Scholarships**
-
-- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Saehaeam Academic Foundation Career Challenge Scholarship** · `2026 Spring`
-- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GCC (Global Communication Center) Scholarship** · `Jan 2025 – Present`
-- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Startup Dormitory Scholarship** · `2025 Spring – 2026 Spring`
 
 </details>
 
