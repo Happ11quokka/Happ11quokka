@@ -14,7 +14,7 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next.
+### Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next.
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->
