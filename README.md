@@ -98,7 +98,7 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-experience.svg" width="95%" align="absmiddle" alt="💼 Experience — Samsung Global Research · GROVA Technology · HCC Lab · Perch · Quant Analytics Lab" /></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-experience.svg?v=2" width="95%" align="absmiddle" alt="💼 Experience — Samsung Global Research · GROVA Technology · HCC Lab · Perch · Quant Analytics Lab" /></summary>
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/sgr.png" height="32" align="center" alt="" /> Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
@@ -223,7 +223,7 @@
 <summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-work.svg" width="95%" align="absmiddle" alt="🌟 Featured Work — As-Is Process Agent · Capstone · KIROTHON Store · Ulog · dAIso · HARU · more" /></summary>
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/ey.png" height="32" align="center" alt="" /> As-Is Process Agent — banking manuals → consultant-ready process maps <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/ey.png" height="32" align="center" alt="" /> As-Is Process Agent <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
 
 <p>
 <a href="https://ollama.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-1.svg" height="26" width="72" alt="Ollama" /></a>
@@ -238,17 +238,11 @@
 
 `Undergraduate researcher · Hanyang University × EY Han Young industry–academia PoC` · `Sep 2026 – Present`
 
-> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. On a four-person team (a Hanyang advising professor, an EY Han Young practitioner, a Hanyang PhD researcher and me), I build the agent that drafts that map from the documents, on local models that can run inside a bank's closed network.
+> Consultants rebuild a bank's **as-is** process by hand from its manuals. On a four-person Hanyang × EY team, I build the agent that drafts it on local models.
 
-- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — scanned banking procedure manuals in; activities, departments, roles, required documents and conditional branches out, linked into one as-is process
-  - **OCR**: local VLMs (Qwen3.5 9B, Gemma 4 12B, PaddleOCR-VL 1.6) read each page after orientation is fixed, either whole or region by region through the PaddleX layout pipeline. Tables and regions that come back broken are re-read by a second model
-  - **Clause chunks**: OCR lines are re-ordered by page geometry and split along the manual's numbering (1. › 가. › (1) › ①), so every clause gets a stable `<doc>:<clause path>` ID. Each annex table row becomes its own chunk with merged cells filled in
-  - **Extraction**: per section, schema-constrained calls return activities, branches, documents and notes. One more call returns the flow (normal path, exception paths, merge points), and code builds the edges and IDs
-- <img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is consulting assistant** — each activity carries a Human-in-the-Loop review-point candidate, pain-point candidates and to-be improvement candidates, so consultants can scan for bottlenecks and automation potential
-  - Every item cites at least one clause ID plus a quoted span. Fields manuals rarely state (department, role, system) are tagged *regulation / inferred / needs interview* instead of guessed
-  - Output is a JSON process graph (lanes, activities, Y/N branches, edges, required documents by submitter × condition), rendered as an activity definition sheet and a Mermaid flowchart
-- <img src="https://api.iconify.design/lucide:link.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Cross-reference linking** — page-level OCR output is stitched into documents: tables split across pages are merged, merged cells expanded, and phrases like "Article N", "Annex N", "item 가. above" or "the preceding paragraph" resolved to a target page and heading path. References that rules can't resolve go to a text-only Qwen3 8B agent with page-read and search tools and a capped tool budget
-- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for a bank's closed network** — plain Python + Pydantic with JSON-schema constrained decoding through one OpenAI-compatible client. Ollama runs on the dev Mac and vLLM inside the closed network, switched by config. It is a fixed-stage pipeline instead of an open tool loop, with temperature 0, a fixed seed and thinking off, so the same manual gives the same draft
+- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → clauses** — local VLMs (Qwen3.5, Gemma 4, PaddleOCR-VL) read scanned manuals, which are split into clause chunks with stable IDs and cross-references linked across pages
+- <img src="https://api.iconify.design/lucide:git-fork.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is process graph** — schema-constrained extraction of activities, roles, documents and branches, each cited to its clause, with HITL, pain-point and to-be candidates for consultants
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Closed-network ready** — a fixed-stage pipeline with constrained decoding through one OpenAI-compatible client: Ollama in development, vLLM inside the bank
 
 ---
 
@@ -266,15 +260,11 @@
 
 `Hanyang University CSE capstone · 2026` · `Advised by Prof. Hunjun Lee · two-student team (Donghyun Lim, Cheolwan Park)`
 
-> *소형 LLM을 이용한 Agentic RAG 검색 Latency Hiding 가능성 탐구* — In multi-hop agentic RAG, LLM reasoning and retrieval wait on each other in turn. Can a small draft LLM predict the target's next search and run it early, cutting end-to-end time on a disk-resident index without hurting answer quality?
+> *소형 LLM을 이용한 Agentic RAG 검색 Latency Hiding 가능성 탐구* — can a small draft LLM run the target's next search early and hide retrieval latency?
 
-- <img src="https://api.iconify.design/lucide:compass.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Research objective** — designed a **speculative prefetching** setup where a small draft LLM predicts the target LLM's next search query and runs it ahead of time, and measured whether it shortens E2E latency on large disk-based retrieval while keeping answers the same
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Implementation & results**
-  - **Large-scale retrieval** — ~29.5M Wikipedia BGE-M3 embeddings in Qdrant on SSD, plus a Milvus DiskANN index on HDD
-  - **A working agent first** — moved from ReAct to **Search-o1** (Reason-in-Documents), raising HotpotQA EM **0.0% → 46.7%** (F1 54.6%, n = 30)
-  - **Prefetch hit rate** — Qwen3-1.7B draft / Qwen3-14B target predicted the next search **16.3%** of the time on FanOutQA and **13.6%** on Search-o1
-  - **Latency hidden** — on FanOutQA, about **350 s of search wait** was hidden by prefetching, with results identical to the target's own search (overlap 1.0)
-- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Key findings** — prefetching can hide retrieval latency, but on a single machine **E2E got 6–18% slower**. GPU memory-bandwidth contention between the draft and target models, plus HDD I/O from missed prefetches, cancelled the gain. Whether prefetching pays off depends on prediction accuracy, the cost of running two models in parallel, and the storage setup; it fits best where that resource contention can be kept low
+- <img src="https://api.iconify.design/lucide:database.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Disk-scale retrieval** — ~29.5M Wikipedia BGE-M3 vectors in Qdrant (SSD) plus Milvus DiskANN (HDD); moving to Search-o1 raised HotpotQA EM **0.0% → 46.7%**
+- <img src="https://api.iconify.design/lucide:target.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Speculative prefetch** — a Qwen3-1.7B draft predicted the Qwen3-14B target's next search **16.3%** (FanOutQA) / **13.6%** (Search-o1) of the time, hiding ~350 s of search with identical results
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Finding** — on one machine E2E got **6–18% slower**: GPU bandwidth contention and HDD I/O from missed prefetches cancelled the gain
 
 ---
 
@@ -293,24 +283,11 @@
 
 `AWS KIROTHON Excellence Award (우수상) · Mar 2026 · two-person team` · `Role: AI agent & frontend`
 
-> Student projects vanish after demo day, and calls for teammates are spread across group chats. At a one-day AWS hackathon for building with **[Kiro](https://kiro.dev)**, our two-person team built one place to archive projects, find competitions and match teammates through an AI concierge. I owned the concierge and the frontend.
+> One place for students to archive projects, find competitions and match teammates, built by a two-person team in a one-day AWS hackathon with **[Kiro](https://kiro.dev)**.
 
-- <img src="https://api.iconify.design/lucide:file-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Spec-driven build in Kiro** — the prototype came out of Kiro's requirements → design → tasks workflow
-  - **Requirements** — 8 user stories with WHEN / SHALL acceptance criteria covering layout, landing, chat, archive, events, recruiting, Vibe Coding and the data layer
-  - **Design** — route map for 8 pages, component tree and a typed domain model (`Project`, `HackathonEvent`, `RecruitPost`, `ChatResponse`, `VibeCodingGuide`)
-  - **Tasks** — about 50 steps, each traced back to requirement IDs; plan-writing and plan-execution steering docs plus agent hooks kept the agent working one task at a time
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI Chat Concierge** — one chat for project ideas, open competitions, teammate matching and a Vibe Coding guide
-  - Suggestion chips, typed message flow and a typing indicator; replies come from `findChatResponse`, a keyword router over five intents (project · event · team · Vibe Coding · general)
-  - The router is a single function with one input and one output, so the planned Bedrock call can replace it without touching the chat UI
-  - Vibe Coding turns an idea into step cards with a time estimate, a suggested stack and a copy-ready prompt
-- <img src="https://api.iconify.design/lucide:layout-grid.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Archive, event board, recruiting** — Next.js 16 App Router, React 19 and Tailwind 4, built as a client-side prototype over typed mock data
-  - **Project archive** — card grid with search over titles and descriptions plus category and stack filters, and a detail page per project
-  - **Event board** — hackathons and competitions with schedule, prize and recruiting status, filterable by status and organizer
-  - **Team recruiting** — posts filtered by position, stack and status, a post form in a modal and an apply action; `⌘K` command palette, dark mode, sidebar ↔ bottom tab bar on mobile
-- <img src="https://api.iconify.design/lucide:cloud.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Planned serverless architecture on AWS** — the backend the team designed for the prototype to plug into
-  - Request path: CloudFront → Next.js hosted on AWS Amplify → API Gateway → Lambda, with Lambda calling Amazon Bedrock for the concierge and recommendations, and DynamoDB for projects, events and recruit posts
-  - Cognito for sign-in, so recruit posts and applications belong to a real user; S3 for project thumbnails and event posters
-  - The prototype keeps data in typed `src/data` modules and the concierge behind one function, so API Gateway calls can replace them one by one
+- <img src="https://api.iconify.design/lucide:file-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Spec-driven build in Kiro** — requirements → design → tasks: 8 user stories, a typed domain model and ~50 traced tasks, guided by steering docs and agent hooks
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI concierge & frontend** — a Next.js 16 + React 19 prototype with a chat concierge and Vibe Coding guide, project archive, event board and team recruiting
+- <img src="https://api.iconify.design/lucide:cloud.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Planned AWS serverless backend** — CloudFront → Amplify → API Gateway → Lambda, with Bedrock for the concierge, DynamoDB for data, Cognito and S3
 
 ---
 
@@ -328,16 +305,11 @@
 
 `Backend & AI Engineer · 4-person team (I owned the backend)` · `Mentored by Kakao Impact Foundation · with Todaktodak Social Cooperative`
 
-> Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **Emotion Gem**, and shows it back in a PWA. I owned the backend: the data model and API behind the chatbot, real-time delivery to the PWA, and the Redis analytics layer.
+> A KakaoTalk chatbot that turns a feeling into an **Emotion Gem** and shows it back in a PWA. I owned the backend on a four-person team.
 
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion expressions onto 10 canonical emotion codes, then a supervisor LLM re-checks and corrects the result, raising accuracy **41.7% → 97.3%**
-- <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Async inference & API** — KakaoTalk gives a webhook 5 seconds, so the reply goes out at once and the LLM result follows on Kakao's callback URL. The backend is async FastAPI (webhook + REST + SSE); the webhook checks a shared secret in constant time and drops Kakao retries by provider message ID
-- <img src="https://api.iconify.design/lucide:database.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Database & real-time gems** — PostgreSQL behind async SQLAlchemy models (users, gems, emotions, chatbot records, LLM calls, events) with 10 Alembic migrations; when a record is created or reclassified, a per-user SSE stream pushes the new gem state to the PWA
-- <img src="https://api.iconify.design/lucide:activity.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Redis for live analytics** — the operator dashboard reads usage from Redis without querying Postgres, and Redis carries events between backend instances
-  - **Counters** — each `/events` batch (up to 100) updates per-day total and per-type counters in one pipelined round trip, kept 35 days; KPI cards come from a single pipelined read
-  - **Unique users** — a daily HyperLogLog per user or anonymous ID gives DAU; a multi-key `PFCOUNT` returns trailing 7-day WAU and 30-day MAU in the same pipeline, and a set with a sliding 30-minute TTL counts active sessions
-  - **Rate limit** — a fixed one-minute window per identity caps ingest at 300 events/min with a 429, and lets requests through if Redis is down
-  - **Pub/Sub fan-out** — events are published to an `analytics:events` channel after the DB commit, and the dashboard's SSE stream subscribes to it, so both instances of a blue-green deploy see every event
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 expressions onto 10 emotion codes and a supervisor LLM corrects it: **41.7% → 97.3%**
+- <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Async FastAPI backend** — answers within Kakao's 5-second webhook limit and sends the LLM result on the callback; PostgreSQL + async SQLAlchemy, per-user SSE gem updates
+- <img src="https://api.iconify.design/lucide:activity.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Redis live analytics** — pipelined counters, HyperLogLog DAU / WAU / MAU, a 300 events/min rate limit and Pub/Sub fan-out to the dashboard's SSE
 
 ---
 
@@ -357,12 +329,11 @@
 
 `Hanyang University × Hyundai NGV HYPER AI Competition · Jan 2026` · `Two-person team · AI agent design & development`
 
-> dAIso is an AI quality-inspection agent that finds defects in semiconductor material images and uses a multimodal LLM to analyze each defect's type and condition.
+> An AI inspection agent that finds defects in semiconductor material images and analyzes each one with a multimodal LLM, built by a two-person team.
 
-- <img src="https://api.iconify.design/lucide:trophy.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Grand Prize (최우수상), Hanyang × Hyundai NGV HYPER AI** — entered as a two-person team and built a multimodal AI agent that automates defect detection and analysis for semiconductor materials
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage prompting** — YOLO object detection first, then GPT-4o analyzes each detected defect
-- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Confidence-based recheck** — depending on how confident the model is, the agent picks from **four image-preprocessing tools** and runs the analysis again
-- <img src="https://api.iconify.design/lucide:vote.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Weighted voting** — results from each stage are combined by weighted voting into the final defect verdict
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage prompting** — YOLO detects defects, then GPT-4o analyzes each one
+- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Confidence-based recheck** — low-confidence calls rerun through one of four image-preprocessing tools
+- <img src="https://api.iconify.design/lucide:vote.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Weighted voting** — results from each stage combine into the final defect verdict
 
 ---
 
@@ -381,22 +352,11 @@
 
 `Hanyang × LG Electronics IC-PBL · Sep – Dec 2025` · `4-person team · iOS app & UI/UX`
 
-> A smart-home service that reads the user's fatigue and daily patterns from iPhone and Apple Watch, then runs home appliances to match. I built the iOS and watchOS app and designed its UI/UX.
+> An iPhone + Apple Watch smart-home app that adjusts appliances to the user's fatigue. I built the iOS / watchOS app and its UI/UX on a four-person team.
 
-- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**iOS & Apple Watch app** — SwiftUI app with a watchOS companion, about 19k lines of Swift
-  - **Structure** — SwiftUI views on shared `ObservableObject` managers (HealthKit, location, watch link, devices, notifications), a REST service layer and `Codable` models. A `NavigationCoordinator` opens the right persona chat when a push notification is tapped
-  - **HealthKit** — `HKObserverQuery` with background delivery for heart rate, steps, calories and distance, and hourly for HRV (SDNN). The latest HRV is sent to the FastAPI backend every 30 minutes, which returns the user's 1–4 fatigue level. 7-day sleep, stress and calorie history come from `HKStatisticsCollectionQuery`
-  - **Apple Watch** — the watch app runs an `HKWorkoutSession` with a live workout builder and an anchored heart-rate query, shows the route on a map, and sends health data to the iPhone every 30 s over WatchConnectivity. Messages wait in a queue until the phone is reachable
-  - **Location timeline** — background GPS, filtered by accuracy and speed and smoothed with a 4-point moving average. Checkpoints are added on an HRV jump (≥ 15 ms or 20%), a 5-minute stay within 15 m, or every 10 minutes, and drawn on a MapKit route
-  - **Data sync** — Supabase auth and user / persona tables through its REST API, plus hourly health and daily sleep uploads to FastAPI. Failed uploads go to an offline queue that retries when the network comes back
-- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboard & UI/UX** — a home screen of timeline, health and persona widgets above the user's appliance cards
-  - Health widgets show sleep, HRV-based stress and calories, with 7-day bar charts in Swift Charts
-  - Appliance toggles update the card at once and roll back if the server call fails. Detail screens for the AC, lights, air purifier, humidifier, dehumidifier and TV use sliders that save after a 500 ms pause
-  - Home setup on a map with a 500 m / 1 km / 2 km radius picker, plus font-size and do-not-disturb settings
-- <img src="https://api.iconify.design/lucide:message-circle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI smart-home control** — GPT-4o appliance suggestions in a Sendbird chat with an AI persona
-  - Each persona gets its own Sendbird channel. Suggested changes appear as a summary card the user approves or rejects, and replies arrive as push notifications
-  - The backend uses a 100 m home geofence and travel-distance patterns to detect the user coming home and start automation. Appliance-control suggestions change with fatigue and location
-- <img src="https://api.iconify.design/lucide:users.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**IC-PBL** — 4-person team. I built the iOS prototype and gave the final demo to **LG Electronics**
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SwiftUI + HealthKit** — background HealthKit queries for heart rate, steps and HRV; HRV goes to FastAPI every 30 min and comes back as a 1–4 fatigue level
+- <img src="https://api.iconify.design/lucide:watch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Apple Watch & location** — a workout session streams data to the phone over WatchConnectivity every 30 s, and a GPS timeline adds checkpoints on HRV jumps and stays
+- <img src="https://api.iconify.design/lucide:message-circle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI control & demo** — GPT-4o appliance suggestions in a Sendbird chat, approved from a summary card; final demo to **LG Electronics**
 
 <details>
 <summary><b>📦 More projects</b></summary>
