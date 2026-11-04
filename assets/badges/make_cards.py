@@ -1,14 +1,21 @@
 """Build the Gym Challenge cards and README block from the pixel badges.
 
-Usage: python3 assets/badges/make_cards.py
+Usage: python3 assets/badges/make_cards.py <dir with Galmuri11.ttf and Galmuri11-Bold.ttf>
 Writes assets/badges/cards/NN-<slug>.svg and prints the README block.
 To add a badge: drop <slug>.png (square) into assets/badges/ and add a row to BADGES.
+Card text uses the Galmuri pixel font (see assets/pixel/make_pixel.py).
 """
 import base64
+import sys
 from html import escape
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE.parent / "pixel"))
+import make_pixel  # noqa: E402
+
+if len(sys.argv) > 1:
+    make_pixel.FONT_DIR = Path(sys.argv[1])
 CARDS = HERE / "cards"
 RAW = "https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/"
 
@@ -34,8 +41,8 @@ BADGES = [
 ]
 
 STATUS = {  # chip colour, chip text
-    A: ("#2F7BD6", "IN PROGRESS"),
-    C: ("#2DA44E", "✓ CLEARED"),
+    A: ("#2F7BD6", "▶ IN PROGRESS"),
+    C: ("#2DA44E", "☑ CLEARED"),
     G: ("#C9971C", None),
 }
 
@@ -53,13 +60,15 @@ def card(i, slug, name, role, year, status, prize):
     if status == G:
         chip = f"★ {prize}"
     png = base64.b64encode((HERE / f"{slug}.png").read_bytes()).decode()
-    mono = "font-family=\"'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace\" font-weight=\"700\""
-    sans = "font-family=\"-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif\""
-    fit = ' textLength="180" lengthAdjust="spacingAndGlyphs"' if len(name) > 21 else ""
-    chip_w = 22 + 7.4 * len(chip)
+    bold = 'font-family="GalmuriB"'
+    reg = 'font-family="GalmuriR"'
+    fit = ' textLength="180" lengthAdjust="spacingAndGlyphs"' if len(name) > 19 else ""
+    chip_w = 24 + 7.2 * len(chip)
+    css = make_pixel.fonts(regular_text=role, bold_text=f"No.{i:02d}{year}{name}{chip}")
     edge = color if status == G else None
     return f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
   <style>
+    {css}
     .panel {{ fill: #F6F8FA; stroke: {edge or "#D0D7DE"}; }}
     .fg {{ fill: #1F2328; }}
     .muted {{ fill: #59636E; }}
@@ -70,13 +79,13 @@ def card(i, slug, name, role, year, status, prize):
     }}
   </style>
   <path class="panel" stroke-width="2" d="{pixel_rect(2, 2, W-4, H-4, 4)}"/>
-  <text class="muted" x="16" y="25" {mono} font-size="11.5" letter-spacing="1">No.{i:02d}</text>
-  <text class="muted" x="{W-16}" y="25" {mono} font-size="11.5" letter-spacing="1" text-anchor="end">{year}</text>
-  <image x="36" y="36" width="128" height="128" xlink:href="data:image/png;base64,{png}" href="data:image/png;base64,{png}"/>
-  <text class="fg" x="{W/2}" y="190" {sans} font-size="14.5" font-weight="700" text-anchor="middle"{fit}>{escape(name)}</text>
-  <text class="muted" x="{W/2}" y="209" {sans} font-size="11.5" text-anchor="middle">{escape(role)}</text>
+  <text class="muted" x="16" y="25" {bold} font-size="11">No.{i:02d}</text>
+  <text class="muted" x="{W-16}" y="25" {bold} font-size="11" text-anchor="end">{year}</text>
+  <image x="36" y="36" width="128" height="128" xlink:href="data:image/png;base64,{png}"/>
+  <text class="fg" x="{W/2}" y="190" {bold} font-size="14" text-anchor="middle"{fit}>{escape(name)}</text>
+  <text class="muted" x="{W/2}" y="209" {reg} font-size="11" text-anchor="middle">{escape(role)}</text>
   <path fill="{color}" d="{pixel_rect(W/2 - chip_w/2, 224, chip_w, 22, 2)}"/>
-  <text x="{W/2}" y="239" {mono} font-size="10.5" letter-spacing="0.8" fill="#FFFFFF" text-anchor="middle">{escape(chip)}</text>
+  <text x="{W/2}" y="239" {bold} font-size="11" fill="#FFFFFF" text-anchor="middle">{escape(chip)}</text>
 </svg>
 '''
 
@@ -98,7 +107,7 @@ def main():
 <!-- GYM CHALLENGE                                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🏅 Gym Challenge (도장깨기)
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-gym.svg" width="100%" alt="🏅 Gym Challenge (도장깨기)" />
 
 <div align="center">
 

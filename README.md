@@ -2,11 +2,11 @@
 <!-- HEADER                                                  -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-![Hi, I'm Donghyun — AI Engineer · Software Engineer · Singularity Maker](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/banner-header.svg?v=1)
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/header.svg" width="100%" alt="Hi, I'm Donghyun — AI Engineer · Software Engineer · Singularity Maker" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=100000&color=1C5FA8&center=true&vCenter=true&width=700&lines=When+prediction+becomes+free%2C+judgment+becomes+priceless)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=100000&color=1C5FA8&center=true&vCenter=true&width=820&lines=When+prediction+becomes+free%2C+judgment+becomes+priceless)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,13 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-### Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next.
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/hello.svg" width="100%" alt="Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next." />
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## ⚡ What I'm Working On
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-working-on.svg" width="100%" alt="⚡ What I'm Working On" />
 
 `Last updated Nov 2026`
 
@@ -42,7 +42,7 @@
 <!-- GYM CHALLENGE                                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🏅 Gym Challenge (도장깨기)
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-gym.svg" width="100%" alt="🏅 Gym Challenge (도장깨기)" />
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 <!-- TECH STACK                                              -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-stack.svg" width="100%" alt="🛠️ Tech Stack" />
 
 | Domain | Stack | Level |
 |:-------|:------|:-----:|
@@ -490,7 +490,7 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 <!-- CONTACT                                                 -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 👋 Say hi
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-say-hi.svg" width="100%" alt="👋 Say hi" />
 
 Always happy to chat about mobile apps, AI/ML research, agentic systems, or hackathons.
 
@@ -508,10 +508,8 @@ Always happy to chat about mobile apps, AI/ML research, agentic systems, or hack
 
 <div align="center">
 
-*Thanks for stopping by · Made with ☕ in Seoul*
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Happ11quokka.Happ11quokka&left_color=002856&right_color=1c5fa8)
 
 </div>
 
-![footer](https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/banner-footer.svg?v=1)
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/footer.svg" width="100%" alt="Thanks for stopping by!" />
