@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 34" width="51" height="34">
+<title>SSE</title>
+<style>@font-face{font-family:'GalmuriB';src:url(data:font/woff2;base64,d09GMgABAAAAAAMIAAwAAAAAB0gAAAK6AAJm6QAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcIAZgAEQKglCCLgE2AiQDEAsKAAQgBYcOByAbSQYRVZTRFD8TzPNuSiWsoWiMSIUJ+2/eswf/X2uf53a/2fQnVAEkB4gdAsk2FberwoocoCQamYpQwCqsJwAqcPBwzgbKnBwR/fsAtZyULFvO/j509RgxFKsRClfaLb0Ig+oKxSmqMqgmDPGg6BqLR7/RgFGYN3JFQ3v2ksnUZJh+HgLydKcnmjl74UoCBpBlAJgOe7vgHpKAL7q3wPppv64R9T7gCsE7MQABvB/Lli6cRW96s8LuZJPT5CgpIADf2xYCvXGAAzzQxCOgiTEaCAQc0JtZrMiyzw8fH7JH2R2E3dAfgBpwBDi1psp6IbOi4dFib+UaYXVeBVRI8iqTtwInyCuqwEoWvmh5wTsH3qBiT16FhNeAQadyFYqUoLheqUBJ+db2BZU4Ui9SQKfLUxQLRXvzJoqUzA+rw170Jkfs/GvbsSM53FSPfzv1+LCZ1mTW9siZ3ggL16ZdvxhOoor0gD1NV3bF+C+qrwZAgNv147D9N7ZUpv8P3u4AfH72syfAt+r1gC20hUARABA8M7QjokH2hDoYf4b+uYfgewMCjJlUAHDIsRrv8MhywAFQILpzAI4yZ+AZy9lJMyLhCCk66K7J6MZcrUSOgbqMAv31fLIIlDitrygz0R1Albq7ghrBPZhsLQ3t58zgMEc4JtBKyAhKpAydVntc59M7fbgxBnflGebv6Q9jFThspf1PDcqS8hE5bqxVuw0b36EfJmIH6U6j1+pM36/bfupiqdO/Xm2U7wH1Sz8ia05IaUeG0amLbGYb5ixjHt950GjBbv+/vz1f9/3jF2g8g9NAGUAQaUTZbdZEsAjPdvlG4p5lGUW7m0mz+YDWT4ZJ8CwoSpgA9SgNNBF32FGE3SXKsUKUdCOS5Zbv+QbPgHlw8J+++cRSl9ek7xANJru/W8PXIu9oKxTFW3aZAgA=) format('woff2');}</style>
+<path fill="#134275" d="M3,3 H48 V6 H51 V31 H48 V34 H3 V31 H0 V6 H3 Z"/>
+<path fill="#1C5FA8" d="M3,0 H48 V3 H51 V28 H48 V31 H3 V28 H0 V3 H3 Z"/>
+<text x="10" y="21" font-family="GalmuriB" font-size="16" fill="#FFFFFF" text-anchor="start">SSE</text>
+</svg>

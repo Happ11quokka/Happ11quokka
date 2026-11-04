@@ -36,7 +36,9 @@
 <!-- GYM CHALLENGE                                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-gym.svg" width="100%" alt="🏅 Gym Challenge (도장깨기)" />
+<details>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-gym.svg" width="95%" align="absmiddle" alt="🏅 Gym Challenge (도장깨기)" /></summary>
+<br/>
 
 <div align="center">
 
@@ -77,20 +79,26 @@
   <a href="https://www.mois.go.kr"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/16-mois.svg" width="180" alt="No.16 Korea MOIS — Youth Public AX Supporter" /></a>
 </p>
 
+</details>
+
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- TECH STACK                                              -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-stack.svg" width="100%" alt="🛠️ Tech Stack" />
+<details>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-stack.svg" width="95%" align="absmiddle" alt="🛠️ Tech Stack" /></summary>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/stack.svg" width="100%" alt="Tech Stack — Agent Engineering (Advanced): Harness Engineering, Loop Engineering (ReAct · Search-o1), Multi-Agent, Human-in-the-Loop, Approval Gates, Self-Evolving Agent, MCP · Tool Use, LangGraph, LangSmith, Claude Code, Codex, Kiro / LLM · RAG (Advanced): RAG · HyDE, Reranking, Speculative Prefetch, LLM Routing, Structured Output, Quantization (GPTQ · AWQ), OpenAI, Gemini, DeepSeek, Qwen3, EXAONE, HyperCLOVA X, llama.cpp, Ollama, vLLM, BGE-M3, Cohere Rerank / Vector Search (Intermediate): pgvector, Milvus · DiskANN, Qdrant · HNSW, FAISS, ChromaDB, Pinecone / Vision · Multimodal (Intermediate): SAM 3, SAM 2, YOLOv8, GPT-4o Vision, Qwen-VL, PaddleOCR, EasyOCR, Tesseract, OpenCV, Roboflow, Gradio / Generative Media (Intermediate): Gemini Image, Seedance 2.0, Lyria, ElevenLabs, FFmpeg / ML · Data (Intermediate): PyTorch, Transformers, XGBoost, pandas, SciPy, Backtesting / Mobile · App (Advanced): Flutter, Dart, Riverpod (MVVM), Swift, SwiftUI, watchOS, Firebase FCM / Web Frontend (Intermediate): React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, TanStack Query, React Flow, Framer Motion, Three.js, next-intl / Backend · Data (Intermediate): Python, FastAPI, Node.js, SQLAlchemy, Pydantic, Alembic, Zod, PostgreSQL, Supabase, Redis, SQLite, Firebase / Cloud · DevOps (Intermediate): AWS Amplify, Amazon Bedrock, AWS Lambda, API Gateway, DynamoDB, Amazon S3, Cognito, CloudFront, Docker, Railway, Vercel, NGINX, Caddy / Testing · Tooling (Intermediate): pytest, Vitest, Playwright, uv, Git / Hardware · Embedded (Learning): ESP32-C3, ESP-IDF, KiCad, JLCPCB PCBA / Design · Docs (Advanced): Figma, draw.io, Notion" />
+
+</details>
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- EXPERIENCE                                              -->
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>💼 Experience</b> &nbsp;<sub>Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-experience.svg" width="95%" align="absmiddle" alt="💼 Experience — Samsung Global Research · GROVA Technology · HCC Lab · EY Han Young · Perch · Quant Analytics Lab" /></summary>
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/sgr.png" height="32" align="center" alt="" /> Samsung Global Research — FDE & AX Advisor <img align="right" height="22" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/sgr-logo.png" alt="Samsung Global Research" />
@@ -98,7 +106,7 @@
 <p>
 <a href="https://www.anthropic.com/claude-code"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-1.svg" height="26" width="112" alt="Claude Code" /></a>
 <a href="https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-2.svg" height="26" width="109" alt="Agent Skills" /></a>
-<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-3.svg" height="26" width="109" alt="MCP Server" /></a>
+<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-3.svg" height="26" width="59" alt="MCP" /></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-4.svg" height="26" width="79" alt="Python" /></a>
 <a href="https://python-pptx.readthedocs.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-5.svg" height="26" width="99" alt="python-pptx" /></a>
 <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/sgr-6.svg" height="26" width="112" alt="AX Workshops" />
@@ -108,18 +116,9 @@
 
 > Researchers at a corporate think tank want AI in the work they already do. I work on-site as a forward-deployed engineer: I find the problem with them, check what the tech can actually handle, and build the tool.
 
-- <img src="https://api.iconify.design/lucide:users.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Technical side of a three-person AX Advisor team** — AX adoption and AI skills for research groups across research coordination, bio, logistics, management, finance, insurance and accounting. I check whether each request is technically feasible and build it when it is
-- <img src="https://api.iconify.design/lucide:message-square-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AX consulting, problem → build** — first sessions map a team's current work and what to improve, then technical consulting and a work-automation tool designed and built together with the researchers
-  - **Financial-markets mailing** — improvement consulting for a daily newsletter pipeline (collect → render → check → send), with a clearer policy for data sources and delivery states
-  - **Japanese translation Skill, upgraded** — Claude Code skills that turn Japanese economic articles (PDF) into the team's Korean house style. Scripts handle text recovery and format rules, Claude translates, and a second skill swaps the Japanese text inside charts
-  - **Hospital logistics** — modeled a hospital's robot logistics as a fleet-sizing simulator (web app + Python engine) and dashboard
-- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hands-on AI education** — teaches researchers and staff what AI agents, Skills, MCP and workflows are and how to use them, with hands-on Claude Code and coding-agent sessions so non-developers can automate their own work. The signature session builds on **Matt Pocock**'s approach to AI coding agents: how the tools work, the mindset for using them, and how to design work for them
-- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Deck Agent (report → deck)** — turns a researcher's report into a draft deck in the company's official format, through a Claude Code skill, a local **MCP server** and a local Canva-style studio
-  - **Template as data** — the official PowerPoint template is not shipped as a .pptx. Its layouts, measurements, colors and fixed graphics were extracted into JSON standards, per-layout slot schemas and HTML/SVG reproductions. Two modes: official layouts kept one by one (re-laid out when item counts grow), and 19 sample layouts grouped by message shape (process, matrix, cycle, Venn, tree, pyramid, timeline…)
-  - **Claude judges, scripts compute** — the source of truth is a document model, not HTML. Claude splits the report into slides, picks a layout per slide and fills slots with text tagged by source-sentence ID. Scripts do PDF intake, stable sentence IDs, slot/overflow/color checks, rendering, and a source-to-slide trace table
-  - **Local MCP server** — a stdio JSON-RPC server that lets Claude Code or Codex read a job (manuscript, outline, writing context) and submit an outline, draft, slide fill, layout change or regeneration. Every write is a compare-and-swap on the job revision, and approvals are never exposed as tools
-  - **Two human checkpoints** — in the studio, ◆Check 1 approves the slide list, layouts and cover info before drafting, and ◆Check 2 signs off after reading the checks and trace table. Regenerating selected slides never overwrites web edits: a conflicting candidate is held for a keep / apply choice
-  - **Studio & export** — edit text, add, remove and reorder slides, or swap a slide's layout (displaced text is kept; only the new empty slots go back to the agent). Each revision exports as an HTML archive with presentation mode, or as PPTX via python-pptx with the trace table in the speaker notes
+- <img src="https://api.iconify.design/lucide:message-square-text.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AX consulting → build** — technical lead on a three-person AX Advisor team for SGR's research groups (research coordination, bio, logistics, management, finance, insurance, accounting). I check what's feasible and build it: a financial-markets mailing service, a Japanese translation Skill that also translates charts, and a fleet-sizing simulator and dashboard for hospital logistics
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hands-on AI education** — sessions on agents, Skills, MCP and workflows with Claude Code, so non-developers can automate their own work. The signature session builds on **Matt Pocock**'s approach to AI coding agents
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Deck Agent (report → deck)** — drafts a deck in the official company format: the template becomes JSON slot schemas and HTML, Claude Code drives it through a local **MCP server**, two human checkpoints sit in a Canva-style studio, and decks export as HTML or PPTX
 
 ---
 
@@ -127,76 +126,48 @@
 
 <p>
 <a href="https://www.aiprofita.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-1.svg" height="26" width="60" alt="Profita" /></a>
-<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-2.svg" height="26" width="175" alt="TypeScript · Node 22" /></a>
-<a href="https://ai.google.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-3.svg" height="26" width="166" alt="Gemini Image · Lyria" /></a>
-<a href="https://www.byteplus.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-4.svg" height="26" width="123" alt="Seedance 2.0" /></a>
-<a href="https://elevenlabs.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-5.svg" height="26" width="105" alt="ElevenLabs" /></a>
-<a href="https://ffmpeg.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-6.svg" height="26" width="133" alt="FFmpeg · libass" /></a>
-<a href="https://reactflow.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-7.svg" height="26" width="158" alt="React · React Flow" /></a>
-<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-8.svg" height="26" width="59" alt="MCP" /></a>
-<a href="https://business.meta.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-9.svg" height="26" width="169" alt="Meta Ads · AppLovin" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-2.svg" height="26" width="106" alt="TypeScript" /></a>
+<a href="https://ai.google.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-3.svg" height="26" width="119" alt="Gemini Image" /></a>
+<a href="https://deepmind.google/models/lyria/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-4.svg" height="26" width="63" alt="Lyria" /></a>
+<a href="https://www.byteplus.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-5.svg" height="26" width="123" alt="Seedance 2.0" /></a>
+<a href="https://elevenlabs.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-6.svg" height="26" width="105" alt="ElevenLabs" /></a>
+<a href="https://ffmpeg.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-7.svg" height="26" width="82" alt="FFmpeg" /></a>
+<a href="https://reactflow.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-8.svg" height="26" width="88" alt="React Flow" /></a>
+<a href="https://modelcontextprotocol.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-9.svg" height="26" width="59" alt="MCP" /></a>
+<a href="https://business.meta.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-10.svg" height="26" width="93" alt="Meta Ads" /></a>
+<a href="https://www.applovin.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/grova-11.svg" height="26" width="76" alt="AppLovin" /></a>
 </p>
 
 `Intern · AdTech · Multi-agent development · Ad operations & analysis` · `Jan 2026 – Oct 2026`
 
 > Profita is GROVA's AI ad-ops platform: paste one App Store link and it analyses the app and its competitors, plans the ads, produces and checks the creatives, and uploads them to ad platforms. I built the multi-agent system behind it, the chat Studio clients work in, and the operator Console.
 
-- <img src="https://api.iconify.design/lucide:puzzle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Agent harness** — a hand-written TypeScript harness keeps the LLM apart from execution: code fixes the node order, and every model turn passes budget, tool allow-list and event-log checks. Untrusted text such as competitor ads is read only by **isolated** model calls, and only schema-checked results reach the planner (Dual-LLM boundary)
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Profita Creative Engine** — five stages, each with its own agents
-  - **Intelligence** — store lookup and competitor discovery; competitor ads ranked by days running and tagged from sampled frames (hook, segments, CTA, pointer) in one multimodal call each
-  - **Strategy** — code assigns templates by weighted apportionment; the brief agent writes copy, shots, voice lines and SFX under a schema contract, and any violation goes back to it to fix
-  - **Quality Control** — config-driven rules for text overflow (OCR), safe area, brand color (ΔE2000), black/static frames and loudness, plus a perceptual-hash check so no output copies a reference ad
-  - **Repair loop** — text-only failures re-render just the text layer (≤ 2), other failures regenerate with a new seed plus the failure reason (≤ 2), and a third hit on the same rule goes to a human
-  - **Export & Upload** — IPTC/C2PA AI-provenance tags go into every file, and runs export as AppLovin upload packages (Creative Sets + manifest) and Meta Ads creatives. Meta and AppLovin were first wired in through **MCP** servers (campaign creation behind an approval gate, reporting), later moved in-process behind the same MCP-shaped tool registry
-- <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Production agents** — image, video, playable, voice and music
-  - **Image** — Gemini 3.1 Flash Image 2K, guided by store screenshots and the app's brand colors; the icon is composited into the cleanest corner, and libass text is placed where it won't cover the subject
-  - **Storyboard → keyframes** — the storyboard agent writes a Look block and a per-shot plan; Gemini 3 Pro Image draws the keyframes, and shot 1 anchors the protagonist for every later shot
-  - **Shots** — Seedance 2.0 runs submit → poll → refill under a vendor in-flight cap; a shot that comes back black, static or off its keyframe gets a new seed, then **Gemini Omni Flash**, then a human
-  - **Assembly** — FFmpeg corrects each shot's color toward the median, upscales to 1080×1920, crops 4:5 / 1:1 from the 9:16 master and adds a code-rendered end card (a separate end-card still for AppLovin)
-  - **Code-rendered gameplay** — for puzzle apps, a seeded solver builds a board with a unique solution, and a TypeScript renderer draws the solve frame by frame into x264 at each aspect ratio
-  - **Playable ads** — a sandboxed Codex agent rebuilds a reference playable as one HTML file behind a local gateway that enforces spend caps; the result must pass AppLovin's spec (`mraid.open()`, no external refs) and share no bytes with the reference
-  - **Voice, music, SFX** — ElevenLabs reads each line into its shot's time slot, and Lyria 3 music ducks under the voice, normalized to −14 LUFS; sound effects come from a CC0 catalog or ElevenLabs SFX
-- <img src="https://api.iconify.design/lucide:layout-panel-left.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Studio & Console** — React 19 + Vite client Studio, a server-rendered operator Console, and a worker queue in between
-  - **Chat workbench** — streamed replies; answers cite their sources, and clicking a source jumps to that card on the run canvas
-  - **Confirmation card** — market, formats, count and credit estimate, re-estimated on every edit; confirming writes a queued job in the same transaction, and the card then shows its place in the queue
-  - **Human-in-the-Loop gates** — keyframe, copy and final-review gates: approve, edit copy, drop or regenerate, with the credit consequence updated live; a 409 conflict keeps the user's draft
-  - **Agent Map** — a React Flow run canvas in Studio, and a library-free SVG system map in the Console built from the pipeline code, with live status, loop turns, spend, prompt sources and model calls per node
-  - **Operator Console** — failures and stalled runs come first; run list, detail tabs, trace, ⌘K palette and upload-package downloads
-  - **Interaction** — Esc closes one layer at a time, phone layouts get bottom tabs and focus-trapped sheets, motion respects reduced-motion, and the dark theme meets WCAG contrast
-- <img src="https://api.iconify.design/lucide:gauge.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Faster Studio & Console**
-  - **Per-request read cache + parallel prefetch** — each page's reads go out in one parallel round; the Studio gallery went from 86 SQL queries in 54 round trips to 11 in 4, and the review API from 53 to 5 in 2
-  - **Streaming chat** — the reply streams over fetch-based SSE once it has passed checks; the client's own message appears at once, and a rejected send puts the text back in the input box
-  - **Polling** — 5 s while running, 30 s at a gate, exponential backoff, paused in background tabs; the gallery refetches only when the run changes, so thumbnails don't flicker
-  - **Caching** — hashed assets cached as immutable for a year, the ⌘K palette's data cached for a minute, and run-memo reads that cut a full dry run from ~4.5 to ~1.5 min
-- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Shanghai technical demo & investor Q&A** — ran the live demo and Q&A for VCs and investors in Shanghai, covering the architecture, platform integration and multi-agent execution, and traced each run through its execution logs and metrics
+- <img src="https://api.iconify.design/lucide:puzzle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Agent harness** — a hand-written TypeScript harness keeps the LLM apart from execution: code fixes the node order, every model turn passes budget and tool checks, and untrusted competitor ads are read only by isolated model calls
+- <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Profita Creative Engine** — intelligence → strategy → production → QC → export. Production agents generate Gemini images, Gemini keyframes animated by **Seedance 2.0** and cut in FFmpeg, Codex-built HTML **playables**, and ElevenLabs voice over Lyria music. QC failures are re-rendered or regenerated before a human steps in, and runs ship as AppLovin / Meta packages
+- <img src="https://api.iconify.design/lucide:layout-panel-left.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Studio & Console** — a React chat Studio with confirmation cards, Human-in-the-Loop approval gates and a React Flow **Agent Map**, plus an operator Console and queue worker. A per-request read cache with parallel prefetch cut the gallery from 86 SQL queries to 11, and replies stream over SSE
+- <img src="https://api.iconify.design/lucide:presentation.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Shanghai investor demo** — ran the live demo and Q&A for VCs and investors in Shanghai: the architecture, ad-platform integration (MCP, later in-process tools) and multi-agent runs traced through their logs
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hcc.png" height="32" align="center" alt="" /> Hanyang University HCC Lab (한양대학교 HCC 연구실) — Undergraduate Researcher <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
 
 <p>
-<a href="https://hcc.hanyang.ac.kr/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-1.svg" height="26" width="238" alt="Lab · Human-Centered Computing" /></a>
-<a href="https://ai.meta.com/sam3/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-2.svg" height="26" width="131" alt="SAM 2 / SAM 3" /></a>
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-3.svg" height="26" width="94" alt="MLLM + OCR" />
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-4.svg" height="26" width="141" alt="Human-in-the-Loop" />
-<a href="https://docs.ultralytics.com/models/yolov8/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-5.svg" height="26" width="64" alt="YOLOv8" /></a>
-<a href="https://arxiv.org/abs/2505.20424"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-6.svg" height="26" width="55" alt="ApBot" /></a>
-<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-7.svg" height="26" width="100" alt="LangGraph" /></a>
+<a href="https://hcc.hanyang.ac.kr/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-1.svg" height="26" width="67" alt="HCC Lab" /></a>
+<a href="https://ai.meta.com/sam3/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-2.svg" height="26" width="73" alt="SAM 3" /></a>
+<a href="https://ai.meta.com/sam3/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-3.svg" height="26" width="73" alt="SAM 2" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-4.svg" height="26" width="94" alt="MLLM + OCR" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-5.svg" height="26" width="141" alt="Human-in-the-Loop" />
+<a href="https://docs.ultralytics.com/models/yolov8/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-6.svg" height="26" width="81" alt="YOLOv8" /></a>
+<a href="https://arxiv.org/abs/2505.20424"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-7.svg" height="26" width="55" alt="ApBot" /></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/hcc-8.svg" height="26" width="100" alt="LangGraph" /></a>
 </p>
 
 `Summer Research Intern · Dept. of Data Science · Human-Centered Computing Lab` · `Jul – Aug 2026 (summer internship)` · `Sep 2026 – Present (HY_UP research practicum)`
 
 > Industrial images are full of objects that look identical but **mean** different things. I automate meaning-based labeling for these images and turn natural-language instructions into CNC panel operations for a robot arm, using multimodal AI and Human-in-the-Loop agent pipelines.
 
-- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Multimodal context mining for semantic labeling** — semantic labeling and automatic label propagation for industrial images, combining SAM 2/3, an MLLM and OCR, built on the lab's HILIPS labeler (moved from SAM 2 to SAM 3)
-  - **Candidates:** OCR text, the panel image and class definitions go to an MLLM, which writes meaning-based phrases that become SAM 3 concept prompts
-  - **Exemplars:** one click gives a SAM 2 mask, and its box becomes an image exemplar for SAM 3, which finds every look-alike in one pass. Class names stay empty until a person assigns them
-  - **Attribute prompting:** a keycap and its LED are merged into one control unit. The lamp state is reported only when the model and the pixel channel agree; otherwise the system abstains and gives a reason
-  - **HITL verification:** a SAM 3 tracker carries labels confirmed on one image to the rest of the batch as `needs_review`. Reviewers reject objects one at a time before commit, and the run pauses at a LangGraph checkpoint while it waits
-- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Vision-language robot planning** — a YOLOv8 detector reads which keys are on the CNC panel and which lamps are lit. The target state is pulled from the natural-language instruction, then ApBot's **goal-conditioned A\*** plans over a CNC state machine grounded in the machine manual and returns the press order with 2D coordinates for the arm
-  - Each control's effect and preconditions in the manual (e.g. a key that works only in JOG mode) are written as guarded state transitions, so a blocked press or an unknown state ends in a refusal, not a guessed plan
-  - Built for two real CNC panels, with 4-class and 50-class detectors
-- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Robot-camera robustness & local LLM** — made LED-state recognition stable on robot-camera photos with flip-free retraining, synthetic lamp-combination images, a dedicated LED-state model and a button-layout correction template. Compared rule-based, cloud-LLM and local-LLM (Ollama) goal extraction on the same cases so the robot can run offline
+- <img src="https://api.iconify.design/lucide:tag.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Semantic labeling by multimodal context mining** — OCR + an MLLM turn panel text into meaning-based concept prompts for **SAM 3**. One SAM 2 click becomes an image exemplar that finds every look-alike, attribute prompting reads LED state, and labels propagate to the batch for Human-in-the-Loop review (LangGraph)
+- <img src="https://api.iconify.design/lucide:workflow.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Natural-language CNC robot control** — YOLOv8 reads the panel's keys and lamps, the instruction becomes a goal state, and ApBot's **goal-conditioned A\*** over a manual-grounded state machine returns the press order with 2D coordinates for the arm. Built for two real panels; rule vs. cloud vs. local LLM goal extraction compared for offline use
 - <img src="https://api.iconify.design/lucide:circle-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**KDMS 2026 poster, first author** — *Multimodal Context Mining for Semantic Labeling of Industrial Images*
 
 ---
@@ -207,25 +178,20 @@
 <a href="https://ollama.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-1.svg" height="26" width="72" alt="Ollama" /></a>
 <a href="https://github.com/vllm-project/vllm"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-2.svg" height="26" width="48" alt="vLLM" /></a>
 <a href="https://github.com/PaddlePaddle/PaddleOCR"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-3.svg" height="26" width="105" alt="PaddleOCR-VL" /></a>
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-4.svg" height="26" width="147" alt="Qwen3.5 · Gemma 4" />
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-5.svg" height="26" width="159" alt="Constrained Decoding" />
-<a href="https://docs.pydantic.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-6.svg" height="26" width="89" alt="Pydantic" /></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-7.svg" height="26" width="82" alt="FastAPI" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-4.svg" height="26" width="73" alt="Qwen3.5" />
+<a href="https://ai.google.dev/gemma"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-5.svg" height="26" width="91" alt="Gemma 4" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-6.svg" height="26" width="138" alt="Structured Output" />
+<a href="https://docs.pydantic.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-7.svg" height="26" width="89" alt="Pydantic" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ey-8.svg" height="26" width="82" alt="FastAPI" /></a>
 </p>
 
 `Undergraduate researcher · Hanyang University industry–academia PoC · Financial services consulting` · `Sep 2026 – Present`
 
 > Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. On a four-person team (a Hanyang advising professor, an EY Han Young practitioner, a Hanyang PhD researcher and me), I build the AI assistant agent that drafts that as-is from the documents.
 
-- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — scanned banking procedure manuals in; activities, departments, roles, required documents and conditional branches out, linked into one as-is process
-  - **OCR**: local VLMs (Qwen3.5 9B, Gemma 4 12B, PaddleOCR-VL 1.6) read each page after orientation is fixed, either whole or region by region through the PaddleX layout pipeline. Tables and regions that come back broken are re-read by a second model
-  - **Clause chunks**: OCR lines are re-ordered by page geometry and split along the manual's numbering (1. › 가. › (1) › ①), so every clause gets a stable `<doc>:<clause path>` ID. Each annex table row becomes its own chunk with merged cells filled in
-  - **Extraction**: per section, schema-constrained calls return activities, branches, documents and notes. One more call returns the flow (normal path, exception paths, merge points), and code builds the edges and IDs
-- <img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is consulting assistant** — each activity carries a Human-in-the-Loop review-point candidate, pain-point candidates and to-be improvement candidates, so consultants can scan for bottlenecks and automation potential
-  - Every item cites at least one clause ID plus a quoted span. Fields manuals rarely state (department, role, system) are tagged *regulation / inferred / needs interview* instead of guessed
-  - Output is a JSON process graph (lanes, activities, Y/N branches, edges, required documents by submitter × condition), rendered as an activity definition sheet and a Mermaid flowchart
-- <img src="https://api.iconify.design/lucide:link.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Cross-reference linking** — page-level OCR output is stitched into documents: tables split across pages are merged, merged cells expanded, and phrases like "Article N", "Annex N", "item 가. above" or "the preceding paragraph" resolved to a target page and heading path. References that rules can't resolve go to a text-only Qwen3 8B agent with page-read and search tools and a capped tool budget
-- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for a bank's closed network** — plain Python + Pydantic with JSON-schema constrained decoding through one OpenAI-compatible client. Ollama runs on the dev Mac and vLLM inside the closed network, switched by config. It is a fixed-stage pipeline instead of an open tool loop, with temperature 0, a fixed seed and thinking off, so the same manual gives the same draft
+- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Document structuring** — local VLM OCR for scanned banking manuals, split into clause chunks with stable IDs, with cross-references ("Article N", "Annex N") linked across pages
+- <img src="https://api.iconify.design/lucide:git-fork.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is assistant agent** — extracts activities, departments, roles, required documents and branches into a process graph, each item cited to its clause, with HITL, pain-point and to-be candidates for consultants
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Local LLM for closed networks** — a fixed-stage pipeline with JSON-schema constrained decoding through one OpenAI-compatible client: Ollama in development, vLLM inside the bank's network
 
 ---
 
@@ -238,28 +204,16 @@
 <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-4.svg" height="26" width="122" alt="Hybrid AI Agent" />
 <a href="https://github.com/pgvector/pgvector"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-5.svg" height="26" width="93" alt="pgvector" /></a>
 <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-6.svg" height="26" width="86" alt="AI Chatbot" />
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-7.svg" height="26" width="188" alt="Smart Scale · ESP32-C3" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/perch-7.svg" height="26" width="178" alt="ESP32-C3 Smart Scale" />
 </p>
 
 `Founder` · `Mar 2025 – Present`
 
 > Bird owners struggle to catch health problems early, and avian vets are hard to reach. I founded and run PerchCare, an AI health-management platform for pet birds.
 
-- <img src="https://api.iconify.design/lucide:rocket.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Launch & growth** — live on the iOS App Store with **680+ sign-ups**, in KR · EN · 中文
-  - Supported by the Hanyang University Startup Support Center
-  - Selected as a Saehaeam Foundation startup scholar
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Knowledge base & RAG** — a multilingual knowledge base of 30+ bird species and 50+ diseases, built from a Shanghai exotic-animal hospital's clinical material
-  - **HyDE retrieval** — each question is first rewritten as a short English reference passage, so KR, EN and 中文 questions all search the same English and Chinese documents
-  - **Search & re-rank** — OpenAI embeddings + pgvector HNSW cosine search (top 5, similarity floor 0.3), then re-ranked by blending similarity with query keyword overlap
-  - **When sources disagree** — one model makes the final call: retrieved passages arrive tagged with their source and relevance score, outside supplements are fenced off as reference data, and the prompt rules out claims the knowledge base doesn't support. If retrieval fails or times out, the answer falls back to the bird's own records
-- <img src="https://api.iconify.design/lucide:git-branch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Hybrid AI agent & photo check-ups**
-  - **Routing by question type and language** — each question is classified (disease, nutrition, behavior, species, general) and answered in that category's format; the reply language is detected per message, and Chinese questions also pull a DeepSeek supplement on local bird-keeping practices and products
-  - **GPT-4o Vision** for whole-body, body-part, droppings and food photos, read against the bird's past check-ups. Areas the photo doesn't show are marked "not visible" rather than normal, and the model's self-reported confidence is capped
-  - **Dr. Aeng (앵박사) chatbot** — health Q&A and multilingual consultation with saved chat sessions, streamed answers, and advice tied to the bird's weight, food and water records
-- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**IoT smart perch scale** — a perch-shaped scale that weighs the bird when it lands, so there's no handling stress; readings link to the PerchCare service
-  - ESP32-C3 on a 44 × 44 mm two-layer KiCad board
-  - USB-C Li-Po charging and power path, with separate 3.3 V logic and 5 V sensor rails
-  - I²C load-cell module connected over Grove
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img alt="Apple" src="https://cdn.simpleicons.org/apple/black" height="13"></picture> &nbsp;**Launch & growth** — live on the iOS App Store with **680+ sign-ups** in KR · EN · 中文; backed by Hanyang University's Startup Support Center and selected as a Saehaeam Foundation startup scholar
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**RAG & hybrid AI agent** — a knowledge base of 30+ species and 50+ diseases from a Shanghai exotic-animal hospital's clinical material, searched with **HyDE** + pgvector HNSW + re-ranking. Questions are routed by type and language (DeepSeek adds context for 中文), and GPT-4o Vision photo check-ups and the Dr. Aeng (앵박사) chatbot answer against the bird's own records
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**IoT smart perch scale** — weighs the bird when it lands, so there's no handling stress: ESP32-C3 on a 44 × 44 mm KiCad board with Li-Po power and an I²C load cell
 
 ---
 
@@ -289,137 +243,195 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>🌟 Featured Work</b> &nbsp;<sub>Capstone · KIROTHON Store · dAIso · HARU · Ulog · more</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-work.svg" width="95%" align="absmiddle" alt="🌟 Featured Work — As-Is Process Agent · Capstone · KIROTHON Store · Ulog · dAIso · HARU · more" /></summary>
 <br/>
 
-### 🎓 Capstone — Exploring Retrieval Latency Hiding in Agentic RAG with a Small Draft LLM <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/ey.png" height="32" align="center" alt="" /> As-Is Process Agent — banking manuals → consultant-ready process maps <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo-white.svg"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/ey-logo.svg" alt="EY" /></picture>
 
-[![Repo](https://img.shields.io/badge/Repo-agentic--rag-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/agentic-rag)
-[![llama.cpp](https://img.shields.io/badge/llama.cpp-Metal_·_GGUF-000000?style=flat-square)](https://github.com/ggml-org/llama.cpp)
-[![Qwen3](https://img.shields.io/badge/Qwen3-1.7B_→_14B-615CED?style=flat-square)](https://qwenlm.github.io)
-[![Milvus](https://img.shields.io/badge/Milvus-DiskANN-00A1EA?style=flat-square&logo=milvus&logoColor=white)](https://milvus.io)
-[![Qdrant](https://img.shields.io/badge/Qdrant-HNSW-DC244C?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech)
-[![BGE-M3](https://img.shields.io/badge/BGE--M3-Embeddings-1C5FA8?style=flat-square)](https://huggingface.co/BAAI/bge-m3)
+<p>
+<a href="https://ollama.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-1.svg" height="26" width="72" alt="Ollama" /></a>
+<a href="https://github.com/vllm-project/vllm"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-2.svg" height="26" width="48" alt="vLLM" /></a>
+<a href="https://github.com/PaddlePaddle/PaddleOCR"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-3.svg" height="26" width="105" alt="PaddleOCR-VL" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-4.svg" height="26" width="73" alt="Qwen3.5" />
+<a href="https://ai.google.dev/gemma"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-5.svg" height="26" width="91" alt="Gemma 4" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-6.svg" height="26" width="138" alt="Structured Output" />
+<a href="https://docs.pydantic.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-7.svg" height="26" width="89" alt="Pydantic" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/eyasis-8.svg" height="26" width="82" alt="FastAPI" /></a>
+</p>
 
-`Hanyang CSE Capstone · with Cheolwan Park` · `2026` · *소형 LLM을 이용한 Agentic RAG 검색 Latency Hiding 가능성 탐구*
+`Hanyang University × EY Han Young · industry–academia PoC` · `Sep 2026 – Present`
 
-> **Research question.** In agentic RAG, reasoning and retrieval wait on each other, and when the index outgrows memory those waits compound across hops. Can a small draft model predict the target's next search and run it early, cutting end-to-end time without hurting answer quality?
+> Before consultants can improve a bank's process, they rebuild its **as-is** by hand from regulations and work manuals. This agent drafts that map from the documents, on local models that can run inside a bank's closed network.
 
-- <img src="https://api.iconify.design/lucide:gauge.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Bottleneck & predictability** — a modified Vidur simulator replaying MuSiQue traces put retrieval at 5.3% of time, rising to 26.0% under memory pressure. On 253 real tool calls, small models gave a semantically equal next query 7–11% of the time
-- <img src="https://api.iconify.design/lucide:database.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Disk-resident retrieval** — Wikipedia BGE-M3 embeddings: 29.5M vectors in Qdrant on SSD (warm 19.9 ms vs. cold 18.6 s) and **10M vectors in Milvus DiskANN on an external HDD** after HNSW failed at 47M vectors / 209 GB
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**A competent agent first** — replacing ReAct with **Search-o1** (Reason-in-Documents) raised HotpotQA EM **0.0% → 46.7%** (F1 54.6%, n = 30), so prefetch was judged on a working loop
-- <img src="https://api.iconify.design/lucide:target.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Speculative prefetch** — a Qwen3-1.7B draft syncs to the Qwen3-14B target's state and pre-runs its next query. Served results were always identical to the target's own search (overlap 1.0), with hit rates of 16.3% on FanOutQA (~350 s of search hidden) and 13.6% on Search-o1
-- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Finding** — on one device, E2E did not improve (+6–18%). Draft–target GPU bandwidth contention (14.7 → 11.1 tok/s) and HDD I/O from missed prefetches cancelled the gain. The project delivers a measurement harness and a conditional result: the idea pays off only where parallel model execution is cheap
-- <img src="https://api.iconify.design/lucide:book-marked.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Side track: reproduced *The Cost of Dynamic Reasoning* (arXiv 2506.04301) on an M3 Pro — ReAct–HotpotQA GPU idle 54.98% vs. the paper's 54.5%
-
----
-
-### 🛒 KIROTHON Store — University project archive + AI recommendation · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" alt="AWS" />
-
-[![Repo](https://img.shields.io/badge/Repo-hackathon--store-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hackathon-store)
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev)
-[![Kiro](https://img.shields.io/badge/Kiro-9046FF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAC50lEQVRYhcWXS0hUURjHf%2Bd0c8x8YZM9RFMr0NCkaNMDIelBTUFIECEEEpQgTqkQLgtaCQ7mYmpRZIsQCgkXSeUiosRNi%2FCVzyASszR8omLOnBbTTGbj3DPdsf5w4PJ93zn%2F37n3nHPvFSyRq0CliLU4heIkkAnEEBlNo%2BhB0OCd5k5Fm5jzJ4T%2Fova4uoDidgRNV9IgksKrz0R7AOCn%2BYNVNl6qCa%2FgUMVz0SVcBSpFGvSx%2BjNfrp6JBPKkWIvzP5gDZCVMctEQCkfYXQUkpYI9E6JjweuBqa%2FwtQ%2Fmp8MapsgA0sPxTsmBw2WwIUgv7yJ0t0DrPW2Q3RJYr2uefQQKq4ObA0gDck7AuVsQv0lryDipa745C46Ug1xjXpuYAqdvgGEzr9UGyC%2FxzVBX9gzYWxghAHsmbMnWN%2Fcr74z5HdMC2LZv5ZzL5cLtdgMwNjZGcXEx3d3dAMQkmoNrASTvCB73eDxUVVVRWVmJ1%2BulqamJ%2Bvr6ABBA8s4IANgzVugsJTabDSl9w0RHRwfifsVuDD221rKKSw4eF0JQU1NDVFQUUkocDgdOp5OysrJAjc1kk4vaY0qFKrDFQkmjDmZw9b%2BG5psr500fQVLq35sDeBZC500BtuZaA5ibsgAgBOw6ag1g%2FJMFgB2HICnNGsDogAWA7Qetmc9OwJc%2BCwAzo7%2BuPYvhAwy8gdB7zOQcaL0Pg23wfR5yHbD7lL65UvDuiXldSADlhc%2B%2BY520PfrmAL0vYXzIvE77dRyOxofgldu8zg%2Bg9fHU9ezP2FA7PK%2F%2BPTbcBY3XtD%2FJZgygAzhgVvn2EQx1gD0dFhd8q9u%2Fx6dGfC%2Bsbx9huNN84S3RBwN4qAMAMPLe15ZruMvXwpWAp3IigbtAb%2FjdLWvGMKiT1x%2BLBQFnBUz%2BQ3OlFJdKm8WIBLjyQnQqST4w%2BA%2FMZ5SiqLxFNMCSv2MA1361TsRzWSrOK8gC4iNkOqugX0KzYVBX2ixG%2FIkflk7RhZclnVQAAAAASUVORK5CYII%3D&logoColor=white)](https://kiro.dev)
-[![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAADg0lEQVRYhe3VW4jVVRTH8c8644xaYVEoBgkVkiRFiT3YDSO6Yk7QNFOj2IWkl5KmkIwiGCi07OJYEVQQZU3WTFoWGT2UlRUh3TCSsofuRQQRXabU8aweOtk%2B4%2BTMaPRQLtgv%2B7v2b%2F%2FW%2Bq9zNnvj%2Fx6xO4dyhX2N8jYmSGprScxz279iAPJx86UHCgM%2FazAl2n09Ep3KiC%2FudRH40IN4t0D76bd4pHoj6kD2mC5skJqjzXO50gl4TYpaF1KYEXNtGK7msDuQKTRYLlSErlxrdLR7Q%2BgRtVJCSMszh1%2FY8D%2FBGvOEE2sXTfaLK0GjhUJfYWKGbnP%2FeQNp3wE7N%2BZqE6LFl7h9AFuSK3bK30MD29yPjUWl%2B9vu5prKLcJnBTtEg0XDkR3yW%2BVTDjXK1JhtbT7jVNu9WPz0qjguzvdu9pijqrtgv6qYGu0%2B3ZX%2B0B1odBvuzrVGR7OXsLqotIJ7MoVWK1WsL9hYVUuHkt%2BlgXzeSWjB4fp1gAYLhd%2BKtBOs0hohVXWgWrDWfMzM3TKQnSroEqJW0Q25ysHR7BNpWVEp3J7P2icu9I7wcB1LXdmjYcQGHG8%2Bphdi%2B2kyCWyzWPimYJNssRCE64WfCnasbS77u2sGHcJca5wGH0kTi6F6NGaZtyNnjYulh%2BqGjiOjxWf5hEW4pWDf2eKIuNQPw%2BtAo05MLHb6VN1Ql9NsBXV%2FuWNl7S0Iy6SPCzZekxsHu2onA7nOZFxR9x3Dkpjt8zIvQqq4Ssgirz17nRxttgrXDtBYkI%2BYMnQHqu4SmoqDX%2Bh352Duo9mbQnfdW1CxPDtV4gJPCy8UrFGDO3ZpIF92unD2gAm%2FJmbrG8xATeE64ZfizDRHuaRGrxH6CzYrH3f2oAbyLY3S3QPkX3eGVX97OWK2r3Br%2FaYl2WP%2FaLNJuK%2BOVd2Z92n8K%2FVPA6%2FqULWsmFyqWoT36gR%2BUx%2BzfKLXGKNtkg4tzi%2BNFotytYP02ywdWLCrY46uHQbyVeOxWTqgzsDwVlucozfXaEVPsb8VR8d5NmevBdJdBftROiLm%2BLZS68NNwgEDpna469ZcZ0ycq1d4pdhvovYWpHuF9ws2TuiESq53DObb%2FThM3453ogPbC3ZuPunMaLMdVw84d3l2mx653mqcsmN7V%2B3mj6dmZ%2FaTBtPiLN%2FnGvdgTsE%2BsNHM6FTNXj3SaQV7eQ8K3xv%2FkfgdjJZJbH5E78oAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/amplify/)
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE%2B0lEQVR42u2WaWwUZRjHf%2B%2B7M7M7O1vKITelUCg2LRUMIIQgAimnXBKUEBKVmGIUognxSDAhkhCMJoJIIhFQRJAKkaCCoAHkkvsoR2lLD9pCLdBytN3t7s52Dj8Ui4WCGD%2FwpU8yM1%2Fed95f%2Fu%2F%2FOUSvfsNdHmNIHnO0ALQAtAA8EEAIgZQS13VxXRcpJUKIxufuGnH3Z1I2%2BTbsu7v%2BkQGEEFiWRXV1DVJKpJQEQyFs28Y0Y8RiMaQQxGL1hMNRXLehloXDERzHIRSqw7ZtFEUhFApjWdYDIWSzh9s28a1ase7Lpfy2dT0Hdm7mi08X4%2FVqrFq%2BhInjMqi4Vsn0KePZsPozdJ8X04yxctliRg0fyvPjRrF720Z2bvmG79YsJy4ugGXbzUI0q4Bj2xiGzqkzOcx%2B4x1em%2FsekyZkMGHMKKRHMmvGFMxYjAljRzHi2SEkdOtCxw5PMGl8Bqqqsuyjhaxau5EXX36Tn3bsQlPVRpX%2BFcB1XbxeL5dKr7Bm3fd0T%2BiC8EjyC4pITOhC1g%2FbSO7Vk5TkXhh%2BnfyCYvqnp9EvPZXL5RXsP3QUq95i2OCBdGjfjg2btnK9suqBEMp9RFISjZqkpSSzftUyrl6r5HJ5BV07dwIER09kI4Rg6sQxBIMhdv1%2BkEEDnqKuLsLJ7HOUlpWT%2Bdb7zJ%2BXyY9Zq8nNL%2BT1txdQWXUTVVXug7hPASkEwVCIGdMmgoBBIyfzwqw53LxVjWHoXCq9TG5%2BIXNmz%2BRS2RV27T1I%2F76pjBg2mJ937CY%2BvhV79h9m6OhppA7KoE%2FvJKZNGkswFGrMjocq4AKaqpJXUEzmqzP5%2FJNFdO3cgU4d25Oe%2BiQeKTnwxzGGD32GvItFXMgvol27Nng1jb0HDpOWksyiD%2BZz%2BkwOAcOPFILs87n4vN5mr8DTtlPih%2Fd7QCW%2FoJjrVTdISU7i0NGTLF%2B5lsKiEiquVXL1ehVXyivYs%2F8QkWiEy%2BUV7Ny1j4LCEsxYDK%2Bm0ad3T2zbZuGSpew7eIz4%2BLhmAcS9A4kLKB4PNbW1RCImqqqgKAqaqlJfX08gYGBZFnV1YQzDQFU9BEN1AMQZBrbjUFMbxHVdknv1IKVPb4KhEOcvXMRuJhWbKCCFIBo16Zvah3mZr3DteiU3bt1G01R8Pi9%2Bv79hk8eDYfgRQuC6oOs6us8LCBRFQQpBxnPDmDl9MkMG9mf%2BvEzO5uSRl1%2BIrvuaKNHEA47rous%2BzuXk0bN7N1av%2BJhzF%2FLYtGU7p8%2FmcLu6BgF4FAXF40HcKcOu62LbDpZl4TgOfl3nVnU1lmWx8qsNBOICRCJRhJTcewtKc3VA0zSytmzjyPFsFrw7l6yvV1BdU8uR46c4mX2e4pIyqm7cIho1cXHRVJW2bVqT1KM7A55OZ%2FDA%2FgQMg2%2BzttCmdTymaXLkxGkChh%2FHcR7ugca78XiIRk1CdXWkp6Uw66UpTBg9kq5dOj20uxUUlbD91z1s3voLZ8%2FnMXXiaGqDIc6cy8UwdBzHfTSAf3bEcDhCOBIhLhCgZ48EeiclkpjQFU3TAIiEoxSXllFUXErZlT%2BJmiYBw0DXfUQiEVwXfF4N51GyoNl6LQVCyDvd0CRWb2HbdqOZhBCNmeL1akgpcRwH13UbXf%2BgXqA8ytDQIJsNNDje7weBAPG3bxpezp3ZwbbtJp56WCj%2FdYK510QtM2ELQAvA%2F42%2FANTqLBg67W6fAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEdElEQVRIibWWa2wUVRTHz7k7s4%2FpdG3LEqk02oCSNCjW0kdKfRQIBBI0YmOoRisxGFttbIz6QT75WaIEH1RDCHwwYgyY%2BMCGkBZoQ2q1bSwJpmIBK6WotGW3uzv7mJ17%2FDAzt7O7s7Uf4Mtk5p8z93fP4557cOqdICAhAiIhA7TeYUFEQOYmWvY5oqULUSICBCQgAAROwBCAABwiEHAElida9jkimDoyS5SIIOvP282QiPKWu60M0wM3hiTL5WsBcSHKQIjAw5cpHVk6QyJrX7kMb0Vd8On9%2Bl9DgIBg2SNjLFgRO%2Fbk0v2QiADcGIRS6o%2B%2BaM%2FenLoKtn7lWVFr%2FD28RAYjAiIgjkRAZD4BCMH85FkiEWgD%2B%2FxNb9v2lkjiyXNFZn%2B4McCFoU%2BNoLeYhaqWyPC8URcQQQYr3ggAUum9yrqdKPvllY%2FI5Q9mZiaA66aFEb0eqG9Pj39n24s0OZ5oicwk5%2FuRvj6mjX1jpkqqqFUa24Uf%2BpV%2BVlrJ7qp02Bf0Ay91lImDDuK4s%2BzTL%2FuWd%2FbOdm8GI2GK%2Fqod8urmeM9b%2F9tLGDnIhfJBeirx6%2FFAbZvIR3L8pFxRh%2BoKy6awH8yRQ3eGvLIamDc2eFipewmY17LnpA0eDDS8vrBcAQYjgkUYICuhPceV%2BjaeiCYv9vird4m6Slw44b1%2FM%2FpKFmfYZVqAoTbsjp0%2FrDa%2BDMwbHehWmzoIPRbDMLRfjgTqX83ach6DLXzkMYDJav1zkb5PtQvfK%2BtbjfhccuJcYO1TIr6JkS98D7WAXLQII7tMsxlq%2FfPxsR%2BMZCxy9jN1wx5COXrmI%2FWxTvv8I0%2BnEqPH%2FDVtuaF3MFhuWAQDpWDT7si5Q0RgaJHE%2BBml%2BpnM%2FL%2FpGxd9a7aI5eI%2FHfLXvAjMW4jhVqYciFCt2an93m%2FEw6YYOXuw%2BPEOApzvO1Dc3CWMeSqR%2Bu2k7%2BFWlxLiVohc04slm9pv9XYLkespZBJxps9czUSmvaseFcax858rDa8QSq4MT%2Fu6ItF%2FwHpDtXobk33RkW%2BFWLLxteSfP6cmRwEwc3OiZNve%2BOjXVsfWE9LyB3yrmz2llaiUGXNXna2Jgd03nH4s29o5e%2BoTkQ%2BQAur6lujgl%2BYe09PjXE%2FJFTViy9He9%2FWbl4lA3fJegTJ1MJSqJ1L%2FXNFnpkQ%2BghteiA6f4OmkOB%2BR0x8GN70pegnX5uNDR%2BNDR60O716mNiO0vWvmx4%2BFBaAcbGoL9x9xJik5OYq%2BYunuqpzlAHLvj%2Bwy5RBYVZOJzaVuTAixuK4lNnbK0KI5hRA%2BvT%2B4scsRW%2Fc7ypqLzCsUAZdtbfcUlZa3fYBIAIAIyprGyX07iIM9y1iWiUsDpdvfLXv2AALZdwwQ56YfYvbB4V3lzqnPG7pHCobMmdBk8PhsZu6a1eiZo9cjsKISb%2Bg%2BcFwAXJvl4WvguA%2By5iIATM9M67PTYM%2BdC2xzVsj2g8fDSe2Wyx3lmK8k4EiOmUVEgDgBE2xbzGPYa7nPPtZchHeSYc2md47xH5%2Fv3acGOCQFAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/lambda/)
-[![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEa0lEQVRIibVW608cVRQ%2F5zIsyz6QUo2BWmp9kLS1AUtrNGpitK0VjR%2F4pPGRaERNfSUm%2FgNq%2FNBEY5sYtYlEk8bYSOKjpmqhtqCNwRcLiGIMUMVHF1l2YV8su3t%2BfpiZO3e2C9%2BYZHfO3Dvn%2FM495%2Febe3nyuqfZuFSFraqMM9NqU8q42bYlAqVIX0KkTNt9NseJWAhVpxxbiJRjWwBEaP0wLABEtH4YDsBqGFxbw8GAZAtVA3G4XopFVZI1MGqe3NjJXlhi94Fra6LdN1328gPWpo35b34lInZ%2BpO%2BRZ7vCBw%2BgWC5Px0lgTmlbARB4lwjIUtF79lxx7Hmrpem%2FV%2FpIsTNlvGrfSXH60McUCUbffCLQfSNqayqjAcp0AFPjfbdu%2BeAFq3nD7CNH5l%2F%2FtLyUA8h0MDEIkGwhd2xo8Zl3KBSIvvF44N49IDIxjB4QhdpaGva2zzz4GrIFpZiZARBBgKo9B5ENLpl87t2zy33fRl%2B6vzTxp0zFdT8s0xnMhdn5cjrPzE7PAXsF1XkFEvsNezxTKP%2BTBLHDTEcHAlGOs85I8wpAZG%2B7qg9kTo1E9l%2Bf6x8N7%2B%2FIDYyG93XkB8aCt%2B3IfjJspkggECDQvLIAkJCDAdgV9JIFpQdicy8eZ%2Bbs4AQz54YmmDk%2F9Asz15%2FZ5vTDWx8AEnj6cHsgJIrgNlQ7AHZK0CmatYJbIz0OtwRag8rruEDsnppEdLkLdsY3PLaPgrX2oxPfzyvXiWzKVerA7YKBQaQaQpt7n1ONYdUYDt2ynQJW89GnuKHezsbkrs%2FfrpU%2FX8JFSgFR69sHE739xUQ6evfupc%2B%2BLyUzyfdOX36kRwfTGJpXGkNpHXkYYmAQEbDUP9LQtRuKo3d1Lp38AcyRA7uyX415BdUY5IWyL2WU2s7XsbweEMWPfpkZ%2Fi18Q1txdr6YyqpwXe673xd6B4ggfp2TP10AuslUWUPx9Tlx%2FGuqVYn3zwIoprKpvnPGgs2SeDWyx02hscdil5KaV0S0eGbc3gXJ%2BLY7sTR3XV5VF5pegE8H7n%2BFCERIV6RCB2sIjdyyu7FAofatlz50e25kKtJ5TW50JtxxVX7sfKh9az42E9x55eKH50x4r8Du98qqKAi567AdAKz8m8yMTBXnUhSbLsVTFJsuzS0SUWkuVbqQFL%2FONa%2F0N9HyV9DVIrGDAaxcWMjEppm5GE8p5mI8ZdoA%2FOcSmJBi72i641KW8PbWyK6rQbQGrwxOu%2FuBAER1O7cE2jZBZNUNJz1%2B%2Fo9XP2p%2B%2BI7IoUdTgz%2FPnxiuwitFRroAENzReklXZ%2BTmbYXJvxNvfb48%2BRcbdPBtOCIyf%2BqnRP9ITV2gaW97S8%2Bd0c5rU4PjvjIaGBBsPtyTi80sffHj3OETVCzb%2B6B9dHDOJScbuqsf%2F5hZsVVfZ4WDpWT64inFXNsUxfIKCiWfu%2F%2BUadmiqHKkISKhUr4gyyvMrHllrqO44ABX6MM8XzlCWwPD1PkqU34XP4bbg3XDMHSwPhj%2FAw7LF6t3yR3cAAAAAElFTkSuQmCC&logoColor=white)](https://aws.amazon.com/api-gateway/)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFfUlEQVRIibWWW2xUVRSG19pzztw6ndNp6f02pRdKqVBKgUqECA%2BWAJEHMBjhQYgCSTFEI4kYRVCjEEgsCKESL7yAGtAQGqmRBgkC0oQit0ALLZRKb9N2pj1zbWfOXj6czvQwM5QXedvZWTtf9v7%2FtfaPL6%2B6g4jAGCICQ0QEZKhZACIyBIwUaCrVU%2BN7bKJSPYUIjDEiIiLgnIiAExEBcdIsgIg4AUUKNJXqqfE9PlGpniICzpla9PwYLFL0nBgCEBEAck6MQXiBHIgBAifOBBGtiZhoERBB9pHs5URqAQcIV6qnAIgDMI7AiAMyTpwJxAkZRDFAxypnmBdUWUoLDUTo9nLZywFAStRZLYwxvNMR%2FP2i%2F1Gf8kyGAMSJMy3DbGKfbst2yUpDk1x%2FbFBRIMpXosjKig3%2BAAdOz7yHeoMnGK%2BtSD13SW48NzLhXeDEGYQfbdMaa06GCAgACACA4PHR7u88cRkCEEXeS2Wk2HQWi07HQInRAxjMKdcbDfj54SGAcdfbs4XVNQlEFPceLFZ3AJAsrH6Pfc3K5LIiA2Og9dXaV6Vjp4bdbsXjVdwexeMNvVRpbLzgf5qvBOIUpTsQnDg9OOAMVVUkLlsi1eYZjEY2FqSjJ50A2N0X7O4PIqJ6Y72AM0vEIydkIIyrx%2FgTaRljYzw1Rdi%2BNaet3b%2BvvlfhEJkK%2B3fl7ql3EKeIHjOK9KnJuv3bUwDg9J%2F%2BpuZAFIPF9siZs4Mb3sio%2B6a74Q9nKKhEenBehTkwyi1mLLGLog7UR2u55V%2F9Ts%2BRn0cUTs03ArE9qMu1bwBEBFD9gICzZyUmWoRCu2npEltxgSk%2FR59sE%2FscY9npepsklEw1rFqW1OsI%2FtsbBAQEKCsybn5d2nFgSPZwAAyba3whEFGU7hXllsvNI00XXKJeVzzVnJVpyMvSX7uFl6%2B6%2F27xAGOHv8y7dtsHRMTZtCJD7bqkHXWDwzIHRGSc4Ik%2BF4BTlLcQYMPazLJp5lONQ3favHfv%2ByKzFwDyMoSBoVDArwDDonxx65spn9Q5hlwKIEMG407RMIQ4%2FgXauacjM9341rrM%2FDxjv2NsWFZktxJS6NdG18L5lr%2BuuImoIEu%2FbWPqrv19jkEFw80YyxBUD2kZxMFsZNVV1obGgavX3Uk2MS3VYLEIyDDgV6rnWD784nFOuvDBloy99f2KwtVhE%2FFVFIPF6v7PTXl5zZSm80ML5kuI4HQG2%2B57W667W667zSb0%2B7glgX38btbeQ70rX5EqZ5gmn%2B0sdr53dnpLSxJq384NBJTKWZYpyUKkzxfOt7a2%2B3a%2Bn737YM%2FcCnP5NNODrtHJ%2Fw8BKFr3FUvTDhzqvHrDPW%2BOVFVhXb0yLdmmR4TP9j1aVC1lpIk79nZ1PAh0dAbu3vcvXyy1tjui5pX2rcLTVMMQRazdnP%2FV1w8vXXFdbh6O%2FOlJSWJRgXHbroet93yAWDHdVLs%2BvaNzFOLNxAhDM00jDILvj3YtX5pWuzG%2Frd13r93rGg7JHkWv1x072T81z1Cz2FZabH7cO%2FrDj46F1dJEJ8VjhH80DQOAunv8Zxr7b7d6SooS7PaE4kKz2axjDL0%2BDkBnzzsPftszFiJ7nhHISkRx%2F1qVofnRwgyHY3TmC1Z7vnnrloL1m27cvO1%2BWv4pKTQNDAXh6f85MGCxuh%2F%2FqevFebYEs25fXUck3mhnoqiD8tKEj97LrXk56fgvjslzCc6e9VvcHDe3KnnRoill0xMZ4og7JMshApCsomQVAKH1nu9i88i1mx6CJ3IcahZq%2BsPZMxsmz4qCoJMkUUoSGbIRjyK7FYXDJFkxiiEQUVz%2FRjQPhRSnk1yuoDaPxuaf2Oyj6sGeRx7V6sGiNPnfGez55WqV8R9z3fpxGxuLtQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/dynamodb/)
-[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEuklEQVRIibVWS2wbVRS993kS%2F7%2F5NImTOGlT2pJASqUQNSmC0qpClJ9UWqRSsUCAym%2FBskJi0SWoGwSLCpDY8KmAgkBCQSVV1I9UaCUqhaZxk5A6cezEdmyP7Uns8cy7LPwbj52SBZ3V09F598jvnnOv8eCHOxABERGRseIBERlqzvVwhoCsHrkaFzgRAwQgAOAcGSMAAAAOyKB0rodzQMYJWA25GheIiAPcPw2BqEC9XxoCJyhRN9QwGRo9thajYDI2mHOKJHNZXF%2FlpG5GQyBOnGGtxtbm%2Fr19%2B3e173ZaPLKSS0gRWZVlNWtusBobTG5Ls2BoiKZD%2FpWbNxYmYpnwRhoCEQEHrcZo34GX974ZSi5cnbnw6%2BS55NrqRr5qc3YNdAy9NvI%2BAf%2F2xieLiTu1Gjh6urfsKYZw9NFXH%2BwY%2FPzSmUhqafPe3d7af2L4vfN%2FfXZ7%2BbrOu4wTUOHjxAlG%2Bw58eeXjcDJIJZzzEoGoQq7GZyK3xm%2F%2FMNg5wgmIV5ENnU%2B4ABCh%2BO32DZ%2FYe9JlaVoWlzLZVAnGCkNDLuB9rQMv7nnj6YHjNwITc9FbRUKRhGWbFl8tlFi4NjfRYBDeevJUi6M9lAjMRqYSUkySM2v5dDYv2YxOm8lhM9paHd5tLbs81pal5PxF%2F0%2BZrBgWFyvVdDkoaywlAlscHef%2B%2FGJ86hfBIPQ0b%2Fe6fW1Ob4fbZxRM5kbzel6SlVwqm5gO35zw%2F7wsBgGBMTi06%2Bi4%2F0eN6WtyUECD8cDDXUMF7yqqMheZ%2FifqZ4j3mleAnGOzvT2aDhGRLoOs0Ntyu4LxgNfdXe55qV1EBPt3PvPNycudrq21PQcCBkxRFR3OCZiuVkKKOy1ura%2FKGnlVzmTFU4fPvDR00m5yaWs5zZ7EWqyu30o90GRNURWGAidFh09Mj13y%2F9YoNB7sf%2B70C2dnI1MXps7PrPzNAdscXV5XT2%2FTjvlVv25eGbbsc2gdiADD2x6bDk%2Bm1kUdXrxGfDYyNTb5fV6VDz907NjQ65ZGa6vDG1%2BLHOo%2FksmJwcRdracNW0btVdZG3NkxIOXSwXhAh5fPCAhAYXHx6uzvl2fG2l3dzw4e97p7MlnRbnJfvzuhZetzAByC8YDX7SO6pMPrzsT0enps8rs93SNf%2FfHpel4S12JUPY%2BZtuNFI60G2l3ddcZDja%2FKM6PV4Q0lArH0isJ55SKHYpOrnAu0uBro9HTr8nHv32FAQ17NF95Ft6ME4gSsakMtJ5da7G3aPXFvDbel6NG6e7C4D7QaCucGxgBgkxod7p5gPEBEdXdqqQe86rlj6ajH2qx794360e7sDiUC2nfXklnlmkbjbnTO19xXW6uuRpendyE%2Bv9H%2BMHiGLUWfl0wOgCti%2BIMjHzXZW0QpnlxPElHVRgBEAKNg6vc%2B8sq%2Bt31NW7%2B%2BdlblKkIlKmU2bnu3ST8dGSKi1Wh5avD5kQce7%2FT4VK5IuUwml1rLSXazw25yOszOvCrPRfxX7ly4Pn8FkUoVauZu7ztN%2Bj9%2BJWIZbxQEl9VjM9qtJpuUS0lyRsqlOfHKRab9S1mlUZWDSverfSUrSiwVWcWortZ%2F5qNODjbSqFtrMxmsk4P%2FV6O0Mu%2Bbxr%2F8S4NfDZl1WQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/s3/)
-[![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAEh0lEQVRIibVWW0xcVRTd%2Bz5mmGFmeAwwQwSxPopGIRirpRj9Mrb2o5omRhuLCbGipq3Ch020ilTSNjY0FmLbaWlJ8dHEL3%2BMxsTElmJF0zRRawNCERmgUEqZB2XmPuZsP%2B6DO%2FcSX5mem8zcu8%2FZZ51z1tp7HxyrWYNm4zC7gcOCnMNicQTnVAIRgdkYAAeWhsAo2wKMAZdtsTgiAGVbIBvgFmA4AHKNIZDDObcYAhFZp%2BNLS7yPNqAoGKwtP4gAiIgAoPNpviACxROZHwZheTYdgyOtMSIicInhw13oyQMAzQyWh0izap3mtzYS%2BNoaV%2FPL1tm0LgsHDMSqKmloOH7685Uk%2BE%2Fa5Xnf4W7rbNo%2BBG1FmpE4jknSirpCryf85ReZ6avLtKB2DgAAyHHJ5lf1rWU7ajswOCEwzsJBHc%2FLl4fmd7YiolBe7ln%2FBEhS%2BquvIZVCxMKeCGO0gq9FRagdsLdhbfjgB2Awqa8VAUVRG8CXlxcd2Lv48Wd8wF%2F4YWdsZwspCldc5GtvA7fLuTiripCAUj%2F%2FOt99xBr32h%2Fv9xe9sZ2IvBueTPb2pb87i4h8KCQ8WKf8%2BBOLJ25Gjvnfb2eMbNo1SGYAHBABW1yUJ6JOellBgACIEUstccGg5sWVlNBSiohIVdWpaU1PtvjIUpEmQr60pOCZTabeQVXjn5zWRhGRdHm47MghobKCKyxwr6tPfHSUmKFc49eKYUt2BAQsLcvRqBlJwDKmqvM3bvA%2Fu%2Fna9hbkeZCkdP9AcVdnbM9ePRYsKjIxsgAIgAgyyeTN7wd1hpdSnM8HgkBEQnnYv%2FX5maZXQJK0A5Qv%2FaYMj7jrahd27Samx9zyahlwtmSnBad4e2V5%2B25AIFm%2BfrC77K03bxw7If8%2BIq6649rbbSyV0uXFADhQJibUqM6ZU6aMgWDlXetOj46NN24za0i0qRkR%2BUAAADz1j7juvgsBUucHpQsXXdX35m%2FaKFZVsXg8faZ%2FfkeLMycKVt6JMTLPMTtnZRKJyRe3cS5RJ35qOtDUmLfmoURvnzr2h1Bakr%2F5ae9T62PvvEeKAk4VaRhSdNJbV%2Bu6cxWoanYcACIqV2c0Q2Zm1rP2YXfNA7M7WpEIEVkioXQe8m95zvdSU%2FLoces%2BBCvv6kJsen9n2euvcaIAepa2JB3jY65jX8HWLdf3HaBMRuvl8v1Fu1oXOvaH%2Bk4ke3pJVU0MwcZ74sy55NkBR7a0BjUiIh8sVian3PdVKyNXOJ%2BvtKsz0dtHqqqM%2F8mFQpnJSbNG2Uvmv6xTRECI3scfExtfECsrYidPpQfOIyJ6PCydNuZEYMQZxWG5MYfFVkOIKP3LJW9D%2FY1Ijzw0HDt%2Bcql%2FgIi4okI%2BGFRnZy1uIBDB%2F6i385Geiki3PD6x0Pepfmp5ecE978YiPbYijwOFlX9Xp5zN4COvenW4o00avaKMjArhkHddfaz31NI339oT5bmCCuP1v9%2FjeN5Tc7979T2Zubn0hYsgyysM6w%2FcZrHl4K5oG2ZTUQ7uirZhzotXjjHsF6%2BcY2SVzFuB8RdfaBiTlmGjsQAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://aws.amazon.com/cognito/)
-[![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAFjUlEQVRIibVWa2wUVRQ%2B587s%2B9Httt2WtrRApaUtDVSCPFJCYy2KAaMIKo%2F4o2iUaEg0IRASg%2FxRI5rADyQEIjYxJjxCFDEgL4mCxhIoSAVKgZYC3W67bHdnX92d2Xv8MbvDdNuCf5hkJmdm7jnfud8595yDG1%2FsQECGiMjS90gBEVlaYOn3xwq69ciQiUQckHECBhyAccgWAIADZ8AAOAfGAB4vALDMeuDARU7E4CliiETqj6eFIRJR5scTMGw5gjVHYMiGIzwWov%2BJoVIEj8Eoq7HWNzsr6i2RQCrgVRDRmSeY7UL%2Fbbnjt3hfp%2FJ4DI2iMTDyS8xL1nliEr94XAr0ybUN9pPfDgGBwcRiQXqhxbVyq%2FtuR%2FLUnnBoYNwN4frGtrESjtXOcz6%2FquDITl9fV0L94nCLFTOts192JofJeyvpu6NI%2FpQgsuZ3nH8eiHW3y2PmrhqDbPDaObaGZXl7N%2FUkY4SY5iocUJ5b4mzd7E3J2PLVhHMHB7iMiLh%2F69CyjS4A6m5XxtgHJ07pi6uSu0hsfruw9dOeeDTFiYi4eueXilEpVTjFmONhggBKkqu68Yhy%2BMvg%2FDdsTg%2FykaaIuEhEWs6qmMvWTzy0%2FV40rDBELR5NazxWp3B0p29RS4HJyk61BkQTysNp3XhYObFHampxHP48mBUGlgbK7GNSjTUqKb03ohkvOAFVz3d4yoxHd%2FkCPvnAF97vt3htLqFhuVOv23czMRzlxZWi3n1O9IgiVZizOO%2FcT76RO%2BVTZ9kObe%2FjPM0VEb9yRiqvM9vdqNe9dCxS22jJoojp3efEy6psd66G1RVT6%2B0f7qh4%2F%2BspbccexiOKPh6c87ajofpmB%2Bl0791IFFWIWWFgGR1ORBa7IMt88nT7rCa3xc6Wvleyd%2FPt7z%2FreWVdscqVHqPjnFQ1x6p9ISLOeSzEzXbIokjT4Tn5BptTnLkw1%2BEWAQkQ4rFUPKIIBiirsVbPtSMDbX0ywYMDSm6RqMeIBBWrE0dnUbo2pFL81hXpwI5utZSfPdj%2F0TdViHj8O2%2FIn6hbkNO0ynOidaDrYlRdf%2FffWEmlMeCVNQtMQFnhuvoGomo%2FfZSGkk63QT16HPjV80Nd7VLIrxAhQzyy676rwPTqByXVcx2%2F7PZRij%2F0JgsnmfUW7G5BGlQ4waO6q6dVGko43EbKcDhjYW7tfFcqxbUtBwcTrVt7%2FA8Sqz8pJaC%2BW%2FH2kyHNAjAwWVBOPgpqNkUcoPdmeFK1vftahAErLDNfvxCiUbXk98ODl88GX1rrmVhlNdvYiX3%2BW5diDHj5dEtPRzxtL9M%2FtCxKP84f7W98vVh1QTSyaEgeXUuIeCpFpZWW3Ru69266u%2FBNt6r87CLHP2fDI%2FKK%2BAiKiHhn%2B5DDbaisdxJROJh0uA36g6JhJOKKycosdvSUGaMhhYiX15pFI97vjOvdJSKhrmg1ACCkHwhw%2B6q0dkt1268%2BV4HJ7jL0XIsAqL8R0hfyFA35kq%2BtLy2abP55V79gwBUbSg5t8ybiXG8KAIXpRSv17wAQk%2BSAL%2FnWx8%2F8dcw3b3HhhdODmmk9RsCbVJJ06XSwcUX%2BguX5Z37wP%2BiKZ5lCgHRPzmrCl%2F8YQIQ1G6cWFFtEIyrJR2OIVncn1TmnzXZID%2BUZja792%2B7f%2BDuCgKP7uVBTuDLj1QhwX2%2Bs82KwrMoxc0FePKL4%2B4aBtHWICEvfLZ1YZSuabNm3pbv3egwBALPdB0BcUffjqLlshFA509WwZEL5NIcUkMMBGRnk5BntLsO9m7G24%2F7ujlhWr82aE%2FVjC4zmigG%2FeTnYdSXEEJ25JqfbCISRoBILp7T5cLyZQbUgcsoep8YcijiANJQIB2Vt9Mzqg%2BNh6FvmkzEywhgxHw9D1ErbU8LQKHpaGP8B6hUuZMbF5%2FAAAAAASUVORK5CYII%3D&logoColor=white)](https://aws.amazon.com/cloudfront/)
-
-`AI Agent & Frontend` · `Mar 2026` · **AWS KIROTHON 우수상**
-
-> A bento-style hub where university students archive projects, discover hackathons, and get AI-matched teammates — **built end-to-end with [Kiro](https://kiro.dev), AWS's agentic IDE**.
-
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Harness engineering with Kiro** — spec-first pipeline (**requirements → design → tasks**), steering docs as version-controlled context, agent hooks automating lint/test/build gates; prompts and context treated as first-class artifacts alongside code
-- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI chat concierge** — project recommendations, event search, team matching, Vibe Coding guide
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Project archive** — card grid with full-text search + category/stack filters
-- <img src="https://api.iconify.design/lucide:calendar.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Event board** — hackathon & competition status tracking with deep links
-- <img src="https://api.iconify.design/lucide:users.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Team recruiting** — post, browse, and apply to teammate calls
+- <img src="https://api.iconify.design/lucide:file-search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Manual → process map** — scanned banking procedure manuals in; activities, departments, roles, required documents and conditional branches out, linked into one as-is process
+  - **OCR**: local VLMs (Qwen3.5 9B, Gemma 4 12B, PaddleOCR-VL 1.6) read each page after orientation is fixed, either whole or region by region through the PaddleX layout pipeline. Tables and regions that come back broken are re-read by a second model
+  - **Clause chunks**: OCR lines are re-ordered by page geometry and split along the manual's numbering (1. › 가. › (1) › ①), so every clause gets a stable `<doc>:<clause path>` ID. Each annex table row becomes its own chunk with merged cells filled in
+  - **Extraction**: per section, schema-constrained calls return activities, branches, documents and notes. One more call returns the flow (normal path, exception paths, merge points), and code builds the edges and IDs
+- <img src="https://api.iconify.design/lucide:clipboard-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**As-is consulting assistant** — each activity carries a Human-in-the-Loop review-point candidate, pain-point candidates and to-be improvement candidates, so consultants can scan for bottlenecks and automation potential
+  - Every item cites at least one clause ID plus a quoted span. Fields manuals rarely state (department, role, system) are tagged *regulation / inferred / needs interview* instead of guessed
+  - Output is a JSON process graph (lanes, activities, Y/N branches, edges, required documents by submitter × condition), rendered as an activity definition sheet and a Mermaid flowchart
+- <img src="https://api.iconify.design/lucide:link.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Cross-reference linking** — page-level OCR output is stitched into documents: tables split across pages are merged, merged cells expanded, and phrases like "Article N", "Annex N", "item 가. above" or "the preceding paragraph" resolved to a target page and heading path. References that rules can't resolve go to a text-only Qwen3 8B agent with page-read and search tools and a capped tool budget
+- <img src="https://api.iconify.design/lucide:lock.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Built for a bank's closed network** — plain Python + Pydantic with JSON-schema constrained decoding through one OpenAI-compatible client. Ollama runs on the dev Mac and vLLM inside the closed network, switched by config. It is a fixed-stage pipeline instead of an open tool loop, with temperature 0, a fixed seed and thinking off, so the same manual gives the same draft
 
 ---
 
-### 🏭 dAIso — Manufacturing AI Agent · 🏆 Grand Prize <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" alt="Hyundai NGV" />
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hyu-agentic-rag.png" height="32" align="center" alt="" /> Hanyang University Capstone — Retrieval Latency Hiding in Agentic RAG <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
 
-[![Repo](https://img.shields.io/badge/Repo-manufacturing--ai--agent-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent)
-[![Demo](https://img.shields.io/badge/Demo-HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/promise42da/dAIso)
-[![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square)](https://openai.com)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)](https://docs.ultralytics.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)](https://roboflow.com)
-[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://www.gradio.app)
-[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://smith.langchain.com)
+<p>
+<a href="https://github.com/Happ11quokka/agentic-rag"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://github.com/ggml-org/llama.cpp"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-2.svg" height="26" width="76" alt="llama.cpp" /></a>
+<a href="https://qwenlm.github.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-3.svg" height="26" width="135" alt="Qwen3 1.7B → 14B" /></a>
+<a href="https://milvus.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-4.svg" height="26" width="129" alt="Milvus DiskANN" /></a>
+<a href="https://qdrant.tech"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-5.svg" height="26" width="76" alt="Qdrant" /></a>
+<a href="https://huggingface.co/BAAI/bge-m3"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-6.svg" height="26" width="63" alt="BGE-M3" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/capstone-7.svg" height="26" width="156" alt="Speculative Prefetch" />
+</p>
 
-`Hanyang × Hyundai NGV` · `Jan 2026` · **최우수상**
+`Hanyang University CSE capstone · 2026` · `Advised by Prof. Hunjun Lee · two-student team (Donghyun Lim, Cheolwan Park)`
 
-> A multimodal LLM agent that classifies manufacturing defects with human-level reasoning.
+> *소형 LLM을 이용한 Agentic RAG 검색 Latency Hiding 가능성 탐구* — In multi-hop agentic RAG, LLM reasoning and retrieval wait on each other in turn. Can a small draft LLM predict the target's next search and run it early, cutting end-to-end time on a disk-resident index without hurting answer quality?
 
-- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-Stage Prompting** architecture — YOLO detection → GPT-4o analysis
-- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Confidence-based conditional recheck with 4 preprocessing tools
-- <img src="https://api.iconify.design/lucide:vote.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Weighted voting system for final judgment
-
----
-
-### 🏠 HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/lg-electronics-logo.svg" alt="LG Electronics" />
-
-[![Repo](https://img.shields.io/badge/Repo-SWE--G04--SPACE-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/SWE-G04-SPACE)
-[![Notion](https://img.shields.io/badge/Notion-Docs-000000?style=flat-square&logo=notion)](https://solid-smoke-115.notion.site/HARU-2bc38745237880d9ae9af58e4734ed40)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Python](https://img.shields.io/badge/Python_3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)](https://xgboost.ai)
-[![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square)](https://openai.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/I9-Sp5B4hgw)
-
-`iOS/watchOS Dev · Supabase DB · UI/UX` · `Sep–Dec 2025` · `Hanyang × LG Electronics IC-PBL`
-
-> A multimodal smart-home iPhone + Apple Watch app that adjusts your home to how tired you are.
-
-- <img src="https://api.iconify.design/lucide:watch.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Real-time fatigue analysis** — Apple Watch HRV → XGBoost fatigue level (1–4)
-- <img src="https://api.iconify.design/lucide:lightbulb.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**LLM appliance control** — GPT-4o → Sendbird chat suggestions
-- <img src="https://api.iconify.design/lucide:map-pin.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Geofence auto-trigger** — 100m geofence + distance pattern detection
-- <img src="https://api.iconify.design/lucide:target.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;Delivered final prototype demo to **LG Electronics** panel
+- <img src="https://api.iconify.design/lucide:compass.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Research objective** — designed a **speculative prefetching** setup where a small draft LLM predicts the target LLM's next search query and runs it ahead of time, and measured whether it shortens E2E latency on large disk-based retrieval while keeping answers the same
+- <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Implementation & results**
+  - **Large-scale retrieval** — ~29.5M Wikipedia BGE-M3 embeddings in Qdrant on SSD, plus a Milvus DiskANN index on HDD
+  - **A working agent first** — moved from ReAct to **Search-o1** (Reason-in-Documents), raising HotpotQA EM **0.0% → 46.7%** (F1 54.6%, n = 30)
+  - **Prefetch hit rate** — Qwen3-1.7B draft / Qwen3-14B target predicted the next search **16.3%** of the time on FanOutQA and **13.6%** on Search-o1
+  - **Latency hidden** — on FanOutQA, about **350 s of search wait** was hidden by prefetching, with results identical to the target's own search (overlap 1.0)
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Key findings** — prefetching can hide retrieval latency, but on a single machine **E2E got 6–18% slower**. GPU memory-bandwidth contention between the draft and target models, plus HDD I/O from missed prefetches, cancelled the gain. Whether prefetching pays off depends on prediction accuracy, the cost of running two models in parallel, and the storage setup; it fits best where that resource contention can be kept low
 
 ---
 
-### 💗 Ulog — Emotion-tracking KakaoTalk chatbot + PWA <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-white.svg"><img align="right" height="20" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-dark.svg" alt="Kakao Impact" /></picture>
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/aws-kirothon.png" height="32" align="center" alt="" /> KIROTHON Store — AI project archive & team-matching platform · 🏆 Excellence Award <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/aws-logo.png?v=2" alt="AWS" />
 
-[![Repo](https://img.shields.io/badge/Repo-kakao__impact-181717?style=flat-square&logo=github)](https://github.com/Happ11quokka/kakao_impact)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Async_SQLAlchemy-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React_19-PWA-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-SSE_Push-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
-[![Kakao](https://img.shields.io/badge/Kakao_i-Open_Builder-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)](https://i.kakao.com)
+<p>
+<a href="https://github.com/Happ11quokka/hackathon-store"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://kiro.dev"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-2.svg" height="26" width="59" alt="Kiro" /></a>
+<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-3.svg" height="26" width="99" alt="Next.js 16" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-4.svg" height="26" width="106" alt="TypeScript" /></a>
+<a href="https://aws.amazon.com/bedrock/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-5.svg" height="26" width="143" alt="Amazon Bedrock" /></a>
+<a href="https://aws.amazon.com/lambda/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-6.svg" height="26" width="117" alt="AWS Lambda" /></a>
+<a href="https://aws.amazon.com/dynamodb/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-7.svg" height="26" width="99" alt="DynamoDB" /></a>
+<a href="https://aws.amazon.com/amplify/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kirothon-8.svg" height="26" width="117" alt="AWS Amplify" /></a>
+</p>
 
-`KakaoTalk chatbot · React PWA` · `with Todaktodak Social Cooperative` · `mentored by Kakao Impact Foundation`
+`AWS KIROTHON Excellence Award (우수상) · Mar 2026 · two-person team` · `Role: AI agent & frontend`
 
-> Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **emotion gem**, and gives it back as something to look at later.
+> Student projects vanish after demo day, and calls for teammates are spread across group chats. At a one-day AWS hackathon for building with **[Kiro](https://kiro.dev)**, our two-person team built one place to archive projects, find competitions and match teammates through an AI concierge. I owned the concierge and the frontend.
 
-- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion terms onto 10 canonical DB codes, then a supervisor LLM re-checks and corrects it — temperature 0 on a low-cost model, **41.7% → 97.3%**
-- <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Timeout-decoupled inference** — the messenger’s 5-second webhook budget is acknowledged instantly, classification runs asynchronously, and the result comes back on a callback — model latency stops being the webhook’s problem
-- <img src="https://api.iconify.design/lucide:layers.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Three services, one schema** — chatbot webhook · REST/SSE API · React PWA, on FastAPI with async SQLAlchemy over PostgreSQL and Redis, migrations under Alembic
-- <img src="https://api.iconify.design/lucide:radio.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**SSE, not WebSocket** — the live gem inventory is server → client only, so a one-way event stream replaces a duplex socket and its reconnect/heartbeat machinery
+- <img src="https://api.iconify.design/lucide:file-check.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Spec-driven build in Kiro** — the prototype came out of Kiro's requirements → design → tasks workflow
+  - **Requirements** — 8 user stories with WHEN / SHALL acceptance criteria covering layout, landing, chat, archive, events, recruiting, Vibe Coding and the data layer
+  - **Design** — route map for 8 pages, component tree and a typed domain model (`Project`, `HackathonEvent`, `RecruitPost`, `ChatResponse`, `VibeCodingGuide`)
+  - **Tasks** — about 50 steps, each traced back to requirement IDs; plan-writing and plan-execution steering docs plus agent hooks kept the agent working one task at a time
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI Chat Concierge** — one chat for project ideas, open competitions, teammate matching and a Vibe Coding guide
+  - Suggestion chips, typed message flow and a typing indicator; replies come from `findChatResponse`, a keyword router over five intents (project · event · team · Vibe Coding · general)
+  - The router is a single function with one input and one output, so the planned Bedrock call can replace it without touching the chat UI
+  - Vibe Coding turns an idea into step cards with a time estimate, a suggested stack and a copy-ready prompt
+- <img src="https://api.iconify.design/lucide:layout-grid.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Archive, event board, recruiting** — Next.js 16 App Router, React 19 and Tailwind 4, built as a client-side prototype over typed mock data
+  - **Project archive** — card grid with search over titles and descriptions plus category and stack filters, and a detail page per project
+  - **Event board** — hackathons and competitions with schedule, prize and recruiting status, filterable by status and organizer
+  - **Team recruiting** — posts filtered by position, stack and status, a post form in a modal and an apply action; `⌘K` command palette, dark mode, sidebar ↔ bottom tab bar on mobile
+- <img src="https://api.iconify.design/lucide:cloud.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Planned serverless architecture on AWS** — the backend the team designed for the prototype to plug into
+  - Request path: CloudFront → Next.js hosted on AWS Amplify → API Gateway → Lambda, with Lambda calling Amazon Bedrock for the concierge and recommendations, and DynamoDB for projects, events and recruit posts
+  - Cognito for sign-in, so recruit posts and applications belong to a real user; S3 for project thumbnails and event posters
+  - The prototype keeps data in typed `src/data` modules and the concierge behind one function, so API Gateway calls can replace them one by one
+
+---
+
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/kakao-ulog.png" height="32" align="center" alt="" /> Ulog — Emotion-tracking KakaoTalk chatbot + PWA <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-white.svg"><img align="right" height="20" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/kakaoimpact-dark.svg" alt="Kakao Impact" /></picture>
+
+<p>
+<a href="https://github.com/Happ11quokka/kakao_impact"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-2.svg" height="26" width="82" alt="FastAPI" /></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-3.svg" height="26" width="108" alt="PostgreSQL" /></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-4.svg" height="26" width="67" alt="Redis" /></a>
+<a href="https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-5.svg" height="26" width="158" alt="Async SQLAlchemy" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-6.svg" height="26" width="39" alt="SSE" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/ulog-7.svg" height="26" width="40" alt="LLM" />
+</p>
+
+`Backend & AI Engineer · 4-person team (I owned the backend)` · `Mentored by Kakao Impact Foundation · with Todaktodak Social Cooperative`
+
+> Young adults notice their feelings only in passing. Ulog asks for one through a KakaoTalk chatbot, turns it into an **Emotion Gem**, and shows it back in a PWA. I owned the backend: the data model and API behind the chatbot, real-time delivery to the PWA, and the Redis analytics layer.
+
+- <img src="https://api.iconify.design/lucide:brain.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage emotion classification** — a classifier LLM maps 25 conversational emotion expressions onto 10 canonical emotion codes, then a supervisor LLM re-checks and corrects the result, raising accuracy **41.7% → 97.3%**
+- <img src="https://api.iconify.design/lucide:timer.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Async inference & API** — KakaoTalk gives a webhook 5 seconds, so the reply goes out at once and the LLM result follows on Kakao's callback URL. The backend is async FastAPI (webhook + REST + SSE); the webhook checks a shared secret in constant time and drops Kakao retries by provider message ID
+- <img src="https://api.iconify.design/lucide:database.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Database & real-time gems** — PostgreSQL behind async SQLAlchemy models (users, gems, emotions, chatbot records, LLM calls, events) with 10 Alembic migrations; when a record is created or reclassified, a per-user SSE stream pushes the new gem state to the PWA
+- <img src="https://api.iconify.design/lucide:activity.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Redis for live analytics** — the operator dashboard reads usage from Redis without querying Postgres, and Redis carries events between backend instances
+  - **Counters** — each `/events` batch (up to 100) updates per-day total and per-type counters in one pipelined round trip, kept 35 days; KPI cards come from a single pipelined read
+  - **Unique users** — a daily HyperLogLog per user or anonymous ID gives DAU; a multi-key `PFCOUNT` returns trailing 7-day WAU and 30-day MAU in the same pipeline, and a set with a sliding 30-minute TTL counts active sessions
+  - **Rate limit** — a fixed one-minute window per identity caps ingest at 300 events/min with a 429, and lets requests through if Redis is down
+  - **Pub/Sub fan-out** — events are published to an `analytics:events` channel after the DB commit, and the dashboard's SSE stream subscribes to it, so both instances of a blue-green deploy see every event
+
+---
+
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hyundai-daiso.png" height="32" align="center" alt="" /> dAIso — Semiconductor Material Defect-Analysis AI Agent · 🏆 Grand Prize <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hyundai-ngv-logo.svg" alt="Hyundai NGV" />
+
+<p>
+<a href="https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://huggingface.co/spaces/promise42da/dAIso"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-2.svg" height="26" width="68" alt="Demo" /></a>
+<a href="https://openai.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-3.svg" height="26" width="80" alt="GPT-4o" /></a>
+<a href="https://docs.ultralytics.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-4.svg" height="26" width="65" alt="YOLO" /></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-5.svg" height="26" width="79" alt="Python" /></a>
+<a href="https://opencv.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-6.svg" height="26" width="82" alt="OpenCV" /></a>
+<a href="https://roboflow.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-7.svg" height="26" width="93" alt="Roboflow" /></a>
+<a href="https://www.gradio.app"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-8.svg" height="26" width="73" alt="Gradio" /></a>
+<a href="https://www.langchain.com/langsmith"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/daiso-9.svg" height="26" width="99" alt="LangSmith" /></a>
+</p>
+
+`Hanyang University × Hyundai NGV HYPER AI Competition · Jan 2026` · `Two-person team · AI agent design & development`
+
+> dAIso is an AI quality-inspection agent that finds defects in semiconductor material images and uses a multimodal LLM to analyze each defect's type and condition.
+
+- <img src="https://api.iconify.design/lucide:trophy.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Grand Prize (최우수상), Hanyang × Hyundai NGV HYPER AI** — entered as a two-person team and built a multimodal AI agent that automates defect detection and analysis for semiconductor materials
+- <img src="https://api.iconify.design/lucide:repeat.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Two-stage prompting** — YOLO object detection first, then GPT-4o analyzes each detected defect
+- <img src="https://api.iconify.design/lucide:search.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Confidence-based recheck** — depending on how confident the model is, the agent picks from **four image-preprocessing tools** and runs the analysis again
+- <img src="https://api.iconify.design/lucide:vote.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Weighted voting** — results from each stage are combined by weighted voting into the final defect verdict
+
+---
+
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/lg-haru.png" height="32" align="center" alt="" /> HARU — Home Adaptive Routine Understanding <img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/lg-electronics-logo.svg" alt="LG Electronics" />
+
+<p>
+<a href="https://github.com/Happ11quokka/SWE-G04-SPACE"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-1.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://developer.apple.com/xcode/swiftui/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-2.svg" height="26" width="80" alt="SwiftUI" /></a>
+<a href="https://developer.apple.com/ios/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-3.svg" height="26" width="51" alt="iOS" /></a>
+<a href="https://developer.apple.com/watchos/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-4.svg" height="26" width="89" alt="watchOS" /></a>
+<a href="https://supabase.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-5.svg" height="26" width="94" alt="Supabase" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-6.svg" height="26" width="82" alt="FastAPI" /></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-7.svg" height="26" width="108" alt="PostgreSQL" /></a>
+<a href="https://xgboost.ai"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/haru-8.svg" height="26" width="70" alt="XGBoost" /></a>
+</p>
+
+`Hanyang × LG Electronics IC-PBL · Sep – Dec 2025` · `4-person team · iOS app & UI/UX`
+
+> A smart-home service that reads the user's fatigue and daily patterns from iPhone and Apple Watch, then runs home appliances to match. I built the iOS and watchOS app and designed its UI/UX.
+
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**iOS & Apple Watch app** — SwiftUI app with a watchOS companion, about 19k lines of Swift
+  - **Structure** — SwiftUI views on shared `ObservableObject` managers (HealthKit, location, watch link, devices, notifications), a REST service layer and `Codable` models. A `NavigationCoordinator` opens the right persona chat when a push notification is tapped
+  - **HealthKit** — `HKObserverQuery` with background delivery for heart rate, steps, calories and distance, and hourly for HRV (SDNN). The latest HRV is sent to the FastAPI backend every 30 minutes, which returns the user's 1–4 fatigue level. 7-day sleep, stress and calorie history come from `HKStatisticsCollectionQuery`
+  - **Apple Watch** — the watch app runs an `HKWorkoutSession` with a live workout builder and an anchored heart-rate query, shows the route on a map, and sends health data to the iPhone every 30 s over WatchConnectivity. Messages wait in a queue until the phone is reachable
+  - **Location timeline** — background GPS, filtered by accuracy and speed and smoothed with a 4-point moving average. Checkpoints are added on an HRV jump (≥ 15 ms or 20%), a 5-minute stay within 15 m, or every 10 minutes, and drawn on a MapKit route
+  - **Data sync** — Supabase auth and user / persona tables through its REST API, plus hourly health and daily sleep uploads to FastAPI. Failed uploads go to an offline queue that retries when the network comes back
+- <img src="https://api.iconify.design/lucide:layout-dashboard.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Dashboard & UI/UX** — a home screen of timeline, health and persona widgets above the user's appliance cards
+  - Health widgets show sleep, HRV-based stress and calories, with 7-day bar charts in Swift Charts
+  - Appliance toggles update the card at once and roll back if the server call fails. Detail screens for the AC, lights, air purifier, humidifier, dehumidifier and TV use sliders that save after a 500 ms pause
+  - Home setup on a map with a 500 m / 1 km / 2 km radius picker, plus font-size and do-not-disturb settings
+- <img src="https://api.iconify.design/lucide:message-circle.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**AI smart-home control** — GPT-4o appliance suggestions in a Sendbird chat with an AI persona
+  - Each persona gets its own Sendbird channel. Suggested changes appear as a summary card the user approves or rejects, and replies arrive as push notifications
+  - The backend uses a 100 m home geofence and travel-distance patterns to detect the user coming home and start automation. Appliance-control suggestions change with fatigue and location
+- <img src="https://api.iconify.design/lucide:users.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**IC-PBL** — 4-person team. I built the iOS prototype and gave the final demo to **LG Electronics**
 
 <details>
 <summary><b>📦 More projects</b></summary>
 <br/>
 
-| Project | TL;DR | Stack | Link |
-|:--------|:------|:------|:----:|
-| **Mirae Asset AI Festival** | Disclosure Q&A agent over 4,204 DART filings from 70 companies — SQL tables for facts, RAG only for narrative questions | Python · HyperCLOVA X · SQLite · Docker | — |
-| **ESG-report-KR** | Multimodal RAG for Korean ESG reports | Python · Pinecone · EXAONE · CLIP | [GitHub](https://github.com/Happ11quokka/ESG-report-KR) |
-| **LG Aimers 8th** | EXAONE-4.0-1.2B compression with GPTQ/AWQ | PyTorch · vLLM · Transformers | [GitHub](https://github.com/Happ11quokka/lg-aimers8-llm-compression) |
-| **Motor Sticker Detection** | Vision QC agent — YOLO + VLM judgment loop, presented to Korean gov't officials | FastAPI · Qwen/vLLM · Gradio | [GitHub](https://github.com/Happ11quokka/motor-sticker-detection) |
-| **koplegame** | Real-time hint-based PWA matching game | Next.js 15 · Firebase · Tailwind | [GitHub](https://github.com/Happ11quokka/koplegame) |
+| Project | What it is | Stack | Link |
+|:--------|:-----------|:------|:----:|
+| **Mirae Asset AI Festival** | Disclosure Q&A agent over 4,204 DART filings from 70 companies: facts come from SQL tables, and RAG handles only the narrative questions | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/mirae-1.svg" height="20" width="61" alt="Python" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/mirae-2.svg" height="20" width="97" alt="HyperCLOVA X" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/mirae-3.svg" height="20" width="56" alt="SQLite" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/mirae-4.svg" height="20" width="61" alt="Docker" /> | — |
+| **ESG-report-KR** | Multimodal RAG over Korean ESG reports, with EXAONE answering from text and CLIP-embedded images | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/esg-1.svg" height="20" width="61" alt="Python" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/esg-2.svg" height="20" width="58" alt="Pinecone" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/esg-3.svg" height="20" width="62" alt="EXAONE" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/esg-4.svg" height="20" width="46" alt="CLIP" /> | <a href="https://github.com/Happ11quokka/ESG-report-KR"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/esg-5.svg" height="20" width="57" alt="GitHub" /></a> |
+| **LG Aimers 8th** | Compressed EXAONE-4.0-1.2B with GPTQ / AWQ quantization and served it on vLLM | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/aimers-1.svg" height="20" width="68" alt="PyTorch" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/aimers-2.svg" height="20" width="37" alt="vLLM" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/aimers-3.svg" height="20" width="95" alt="Transformers" /> | <a href="https://github.com/Happ11quokka/lg-aimers8-llm-compression"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/aimers-4.svg" height="20" width="57" alt="GitHub" /></a> |
+| **Motor Sticker Detection** | Vision QC agent that finds stickers on motor images and judges defects in a YOLO + VLM loop; presented to Korean government officials | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/motor-1.svg" height="20" width="63" alt="FastAPI" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/motor-2.svg" height="20" width="56" alt="Qwen-VL" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/motor-3.svg" height="20" width="37" alt="vLLM" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/motor-4.svg" height="20" width="56" alt="Gradio" /> | <a href="https://github.com/Happ11quokka/motor-sticker-detection"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/motor-5.svg" height="20" width="57" alt="GitHub" /></a> |
+| **koplegame** | Real-time, hint-based matching game built as a PWA | <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-1.svg" height="20" width="76" alt="Next.js 15" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-2.svg" height="20" width="67" alt="Firebase" /> <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-3.svg" height="20" width="88" alt="Tailwind CSS" /> | <a href="https://github.com/Happ11quokka/koplegame"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kople-4.svg" height="20" width="57" alt="GitHub" /></a> |
 
 </details>
 
@@ -430,32 +442,23 @@
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>🎓 Education</b> &nbsp;<sub>Hanyang University · B.S. Computer Science</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-education.svg" width="95%" align="absmiddle" alt="🎓 Education — Hanyang University · B.S. Computer Science" /></summary>
 <br/>
 
-### 🎓 Hanyang University — B.S. in Computer Science <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+### Hanyang University — B.S. in Computer Science <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
+
+<p>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/edu-1.svg" height="26" width="275" alt="Minor · Entrepreneurship Convergence" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/edu-2.svg" height="26" width="192" alt="Micro-major · Industrial AI" />
+</p>
 
 `Seoul, Korea` · `Sep 2021 – Present (Senior)`
 
-*Minor · Entrepreneurship Convergence* &nbsp; *Micro-major · Industrial AI*
+**Scholarships**
 
-<details>
-<summary><b>🎖️ Scholarships</b></summary>
-<br/>
-
-- **Saehaeam Academic Foundation Career Challenge Scholarship** — 2026 Spring
-- **GCC (Global Communication Center) Scholarship** — Jan 2025 – Present
-- **Startup Dormitory Scholarship** — 2025 Spring – 2026 Spring
-
-</details>
-
-<details>
-<summary><b>📚 Key Courses</b></summary>
-<br/>
-
-Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial Applications · Software Engineering · Algorithms & Problem Solving · Database Systems & Applications · Computer Networks · Operating Systems · Computer Architecture
-
-</details>
+- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Saehaeam Academic Foundation Career Challenge Scholarship** · `2026 Spring`
+- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**GCC (Global Communication Center) Scholarship** · `Jan 2025 – Present`
+- <img src="https://api.iconify.design/lucide:award.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Startup Dormitory Scholarship** · `2025 Spring – 2026 Spring`
 
 </details>
 
@@ -464,24 +467,40 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>📄 Research</b> &nbsp;<sub>KDMS 2026 · APAF 2025</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-research.svg" width="95%" align="absmiddle" alt="📄 Research — KDMS 2026 · APAF 2025" /></summary>
 <br/>
 
-**KDMS 2026 (poster) — Multimodal Context Mining for Semantic Labeling of Industrial Images** <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
-*First author · Hanyang University HCC Lab* · *멀티모달 맥락 정보 기반 산업 이미지 의미 라벨링*
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hcc.png" height="32" align="center" alt="" /> KDMS 2026 — Multimodal Context Mining for Semantic Labeling of Industrial Images <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hccl-blue.png" alt="Hanyang HCC Lab" /></picture>
 
-> OCR + MLLM semantic candidates become SAM 3 concept prompts, so labeling industrial control panels becomes confirm-only after the first image.
+<p>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kdms-1.svg" height="26" width="148" alt="KDMS 2026 · Poster" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kdms-2.svg" height="26" width="94" alt="First author" />
+<a href="https://ai.meta.com/sam3/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kdms-3.svg" height="26" width="73" alt="SAM 3" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kdms-4.svg" height="26" width="94" alt="MLLM + OCR" />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/kdms-5.svg" height="26" width="141" alt="Human-in-the-Loop" />
+</p>
 
-<br/>
+`First author · Hanyang University HCC Lab` · *멀티모달 맥락 정보 기반 산업 이미지 의미 라벨링*
 
-**[APAF 2025](https://www.kafe2023.org/bbs/reference/254) — GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities** <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-white.png"><img align="right" height="40" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-blue.png" alt="Hanyang University" /></picture>
-*Co-authored · Hanyang University Business School — Quantitative Analytics Lab*
+> OCR + MLLM turn panel text into meaning-based candidates that become **SAM 3** concept prompts, so labeling industrial control panels is confirm-only after the first image.
 
-> Processed **500K+ Korean news articles** (2022–2025.03) with FnGuide daily stock data. Refined news timestamp categorization (PRE/IN/AFTER), stock mapping via NER, and multi-dimensional verification by size/style/sector.
+---
 
-**Cumulative Return** `+11.91%` &nbsp;·&nbsp; **KOSPI (same window)** `−14.43%` &nbsp;·&nbsp; **Sharpe** `0.38`
+### <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/hanyang-quant.png" height="32" align="center" alt="" /> APAF 2025 — GPT-4.1 Nano Sentiment-Based Long-Short Strategy for Korean Equities <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-business-white.png"><img align="right" height="36" src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/hanyang-business-blue.png" alt="Hanyang University Business School" /></picture>
 
-➡️ Repo · [StockNewsEstimator](https://github.com/Happ11quokka/StockNewsEstimator)
+<p>
+<a href="https://www.kafe2023.org/bbs/reference/254"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/apaf-1.svg" height="26" width="86" alt="APAF 2025" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/apaf-2.svg" height="26" width="113" alt="Second author" />
+<a href="https://github.com/Happ11quokka/StockNewsEstimator"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/apaf-3.svg" height="26" width="65" alt="Repo" /></a>
+<a href="https://openai.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/apaf-4.svg" height="26" width="119" alt="GPT-4.1 Nano" /></a>
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips/apaf-5.svg" height="26" width="94" alt="Backtesting" />
+</p>
+
+`Second author · Hanyang University Business School · Quantitative Analytics Lab`
+
+> Scored **~500K Korean news articles** (2022.01–2025.03) with GPT-4.1 Nano, mapped each to its stock, joined FnGuide daily prices, and backtested a market-neutral long-short strategy by publication window (PRE / IN / AFTER / DAY-OFF).
+
+**Cumulative return** `+11.91%` &nbsp;·&nbsp; **KOSPI, same window** `−14.43%` &nbsp;·&nbsp; **Sharpe** `0.38`
 
 </details>
 
@@ -490,32 +509,32 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>🏆 Awards</b> &nbsp;<sub>Hyundai NGV · AWS KIROTHON · FORIF · HySpark · more</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-awards.svg" width="95%" align="absmiddle" alt="🏆 Awards — Hyundai NGV · AWS KIROTHON · FORIF · HySpark · more" /></summary>
 <br/>
 
-- 🥈 &nbsp;**Excellence Award** — [AWS KIROTHON Hackathon](https://n.news.naver.com/article/025/0003514864?sid=102) · Mar 2026
-- 🥇 &nbsp;**Grand Prize** — [Hyundai NGV HYPER AI Hackathon](https://www.beyondpost.co.kr/view.php?ud=20260205175252753192e75d13a3_30) · Jan 2026
-- 🎯 &nbsp;**1st Place** — [FORIF Programming Club Ideathon](https://forif.org/announcement/34) · Dec 2025
-- 🥉 &nbsp;**3rd Place** — [HySpark Startup Club Demo Day](https://hyspark.career.greetinghr.com/ko/main) · Jul 2025
-- ⭐ &nbsp;**Excellence Award** — [Hanyang University Startup Academy](https://startup.hanyang.ac.kr/) · Dec 2024
-- 🔐 &nbsp;**2nd Place** — [HUCC (Hanyang University Cryptography Club) Cryptography Competition](https://sites.google.com/view/hucc/%ED%95%9C%EC%96%91%EC%95%94%ED%98%B8%EA%B3%B5%EB%AA%A8%EC%A0%84) · Oct 2024
-- 🏅 &nbsp;**Gold Medal** — WorldQuant Consultant
+- <img src="https://api.iconify.design/lucide:trophy.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Excellence Award** — [AWS KIROTHON Hackathon](https://n.news.naver.com/article/025/0003514864?sid=102) · `Mar 2026`
+- <img src="https://api.iconify.design/lucide:trophy.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Grand Prize** — [Hyundai NGV HYPER AI Hackathon](https://www.beyondpost.co.kr/view.php?ud=20260205175252753192e75d13a3_30) · `Jan 2026`
+- <img src="https://api.iconify.design/lucide:trophy.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**1st Place** — [FORIF Programming Club Ideathon](https://forif.org/announcement/34) · `Dec 2025`
+- <img src="https://api.iconify.design/lucide:medal.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**3rd Place** — [HySpark Startup Club Demo Day](https://hyspark.career.greetinghr.com/ko/main) · `Jul 2025`
+- <img src="https://api.iconify.design/lucide:medal.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Excellence Award** — [Hanyang University Startup Academy](https://startup.hanyang.ac.kr/) · `Dec 2024`
+- <img src="https://api.iconify.design/lucide:medal.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**2nd Place** — [HUCC Cryptography Competition](https://sites.google.com/view/hucc/%ED%95%9C%EC%96%91%EC%95%94%ED%98%B8%EA%B3%B5%EB%AA%A8%EC%A0%84) (Hanyang University Cryptography Club) · `Oct 2024`
+- <img src="https://api.iconify.design/lucide:medal.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Gold Medal** — WorldQuant BRAIN Consultant
 
 </details>
 
 <details>
-<summary><b>🚀 Activities & Leadership</b> &nbsp;<sub>ASBG at HYU · Public AX Supporters · LG Aimers · Nexon HelloMate</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-activities.svg" width="95%" align="absmiddle" alt="🚀 Activities & Leadership — ASBG at HYU · Public AX Supporters · LG Aimers · Nexon HelloMate" /></summary>
 <br/>
 
-- **Core Team** — [ASBG at HYU — AWS Student Builders Group](https://asbg-hyu.vercel.app/#recruiting) · Hanyang University · founding cohort · Aug 2026 – Present
-- **Youth Public AX Supporter** — [Ministry of the Interior and Safety](https://www.mois.go.kr) × NIA · Sep 2026 – Present
-- **Consultant** — WorldQuant · Gold Medal · IQC Stage 1 top 20%
-- **Participant** — [LG Aimers 8th Cohort](https://www.lgaimers.ai/) · LG AI Research · Jan – Feb 2026
-- **Mentor** — [Nexon Foundation HelloMate Coding](https://kr-newsroom.nexon.com/press-center/3399289) · Sep 2025 – Jan 2026
-- **Member** — [HySpark Startup Club (3rd)](https://hyspark.career.greetinghr.com/ko/main) · 2024 – 2025
-- **Member** — [Hanyang Startup Academy (21st)](https://startup.hanyang.ac.kr/) · Sep – Dec 2024
-- **Member** — [ICEWALL Security Club](https://github.com/hyu-icewall) · Mar – Sep 2022
-- **Activity Director** — [Habitat for Humanity](https://www.habitat.or.kr/business/education) · Sep 2021 – Dec 2022
+- <img src="https://api.iconify.design/lucide:cloud.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Core Team** — [ASBG at HYU](https://asbg-hyu.vercel.app/#recruiting) (AWS Student Builders Group), founding cohort · `Aug 2026 – Present`
+- <img src="https://api.iconify.design/lucide:landmark.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Youth Public AX Supporter** — [Ministry of the Interior and Safety](https://www.mois.go.kr) × NIA, building *Youth Money Map (청년머니맵)* · `Sep 2026 – Jan 2027`
+- <img src="https://api.iconify.design/lucide:trending-up.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Consultant** — WorldQuant BRAIN · IQC Stage 1 top 20%
+- <img src="https://api.iconify.design/lucide:cpu.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Participant** — [LG Aimers 8th cohort](https://www.lgaimers.ai/) · LG AI Research · `Jan – Feb 2026`
+- <img src="https://api.iconify.design/lucide:heart-handshake.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Coding Mentor** — [Nexon Foundation HelloMate](https://kr-newsroom.nexon.com/press-center/3399289) · `Sep 2025 – Jan 2026`
+- <img src="https://api.iconify.design/lucide:rocket.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Member** — [HySpark Startup Club](https://hyspark.career.greetinghr.com/ko/main) (3rd cohort) · `2024 – 2025`
+- <img src="https://api.iconify.design/lucide:rocket.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Member** — [Hanyang Startup Academy](https://startup.hanyang.ac.kr/) (21st cohort) · `Sep – Dec 2024`
+- <img src="https://api.iconify.design/lucide:shield.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Member** — [ICEWALL Security Club](https://github.com/hyu-icewall) · `Mar – Sep 2022`
+- <img src="https://api.iconify.design/lucide:house.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;**Activity Director** — [Habitat for Humanity](https://www.habitat.or.kr/business/education) · `Sep 2021 – Dec 2022`
 
 </details>
 
@@ -524,17 +543,17 @@ Data Science · Agentic AI Applications · Multimodal AI Technology & Industrial
 <!-- ══════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>📝 Latest Blog Posts</b> &nbsp;<sub>hpyquokka.tistory.com</sub></summary>
+<summary><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/title-blog.svg" width="95%" align="absmiddle" alt="📝 Latest Blog Posts — hpyquokka.tistory.com" /></summary>
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- **`LG Aimers`** · [초거대 언어 모델(LLM) 압축 — Compressing Large Language Models](https://hpyquokka.tistory.com/entry/CLLM)
-- **`산업 AI`** · [영상·음성 데이터 처리 및 멀티모달 병합](https://hpyquokka.tistory.com/entry/%EC%82%B0%EC%97%85-AI-%EC%98%81%EC%83%81%C2%B7%EC%9D%8C%EC%84%B1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%B3%91%ED%95%A9)
-- **`넥슨재단`** · [헬로메이트 1기 활동 후기 — 아이들의 "될까?"가 "됐다!"로 바뀌던 한 학기](https://hpyquokka.tistory.com/entry/%ED%97%AC%EB%A1%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-1%EA%B8%B0-%ED%99%9C%EB%8F%99-%ED%9B%84%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%98-%E2%80%9C%EB%90%A0%EA%B9%8C%E2%80%9D%EA%B0%80-%E2%80%9C%EB%90%90%EB%8B%A4%E2%80%9D%EB%A1%9C-%EB%B0%94%EB%80%8C%EB%8D%98-%ED%95%9C-%ED%95%99%EA%B8%B0)
-- **`창업`** · [Perch 4편. 운영·관측 — "장애가 나도 답변은 나가야 한다"](https://hpyquokka.tistory.com/entry/Perch-4%ED%8E%B8-%EC%9A%B4%EC%98%81%C2%B7%EA%B4%80%EC%B8%A1-%E2%80%94-%EC%9E%A5%EC%95%A0%EA%B0%80-%EB%82%98%EB%8F%84-%EB%8B%B5%EB%B3%80%EC%9D%80-%EB%82%98%EA%B0%80%EC%95%BC-%ED%95%9C%EB%8B%A4)
+- <img src="https://api.iconify.design/lucide:pen-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;[**초거대 언어 모델(LLM) 압축 — Compressing Large Language Models**](https://hpyquokka.tistory.com/entry/CLLM) · `LG Aimers`
+- <img src="https://api.iconify.design/lucide:pen-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;[**영상·음성 데이터 처리 및 멀티모달 병합**](https://hpyquokka.tistory.com/entry/%EC%82%B0%EC%97%85-AI-%EC%98%81%EC%83%81%C2%B7%EC%9D%8C%EC%84%B1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EB%B3%91%ED%95%A9) · `산업 AI`
+- <img src="https://api.iconify.design/lucide:pen-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;[**헬로메이트 1기 활동 후기 — 아이들의 "될까?"가 "됐다!"로 바뀌던 한 학기**](https://hpyquokka.tistory.com/entry/%ED%97%AC%EB%A1%9C%EB%A9%94%EC%9D%B4%ED%8A%B8-1%EA%B8%B0-%ED%99%9C%EB%8F%99-%ED%9B%84%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%98-%E2%80%9C%EB%90%A0%EA%B9%8C%E2%80%9D%EA%B0%80-%E2%80%9C%EB%90%90%EB%8B%A4%E2%80%9D%EB%A1%9C-%EB%B0%94%EB%80%8C%EB%8D%98-%ED%95%9C-%ED%95%99%EA%B8%B0) · `넥슨재단`
+- <img src="https://api.iconify.design/lucide:pen-line.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;[**Perch 4편. 운영·관측 — "장애가 나도 답변은 나가야 한다"**](https://hpyquokka.tistory.com/entry/Perch-4%ED%8E%B8-%EC%9A%B4%EC%98%81%C2%B7%EA%B4%80%EC%B8%A1-%E2%80%94-%EC%9E%A5%EC%95%A0%EA%B0%80-%EB%82%98%EB%8F%84-%EB%8B%B5%EB%B3%80%EC%9D%80-%EB%82%98%EA%B0%80%EC%95%BC-%ED%95%9C%EB%8B%A4) · `창업`
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More on hpyquokka.tistory.com](https://hpyquokka.tistory.com/)
+<a href="https://hpyquokka.tistory.com/"><img src="https://api.iconify.design/lucide:arrow-right.svg?color=%231C5FA8" height="14" align="top" alt=""> &nbsp;More on hpyquokka.tistory.com</a>
 
 </details>
 

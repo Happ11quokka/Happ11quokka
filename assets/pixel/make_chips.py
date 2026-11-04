@@ -20,16 +20,28 @@ if len(sys.argv) > 1:
 from make_stack import Measure, shade, step_rect, text_color  # noqa: E402
 
 DATA = json.loads((HERE / "chips.json").read_text())
+STACK_ICONS = json.loads((HERE / "stack.json").read_text())["icons"]
 OUT = HERE / "chips"
 RAW = "https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/chips"
 CHIP_H, FS, ICON, PADX = 34, 16, 16, 10
 SHOW_H = 26  # rendered height in the README
 
 
+def icon_of(key):
+    """Chip icons come from chips.json first, then the Tech Stack's icon set."""
+    if not key:
+        return None
+    ic = DATA["icons"].get(key) or STACK_ICONS.get(key)
+    return {"path": ic} if isinstance(ic, str) else ic
+
+
 def icon_svg(key, color, x, y):
-    ic = DATA["icons"].get(key) if key else None
+    ic = icon_of(key)
     if not ic:
         return ""
+    if "uri" in ic:
+        return f'<image x="{x}" y="{y}" width="{ICON}" height="{ICON}" href="{escape(ic["uri"])}"/>'
+    ic = ic["path"]
     fill = "#FFFFFF" if text_color(color) == "#FFFFFF" else mp.INK
     return (f'<g transform="translate({x} {y}) scale({ICON/24})">'
             f'<path fill="{fill}" d="{ic}"/></g>')
@@ -37,7 +49,7 @@ def icon_svg(key, color, x, y):
 
 def chip(it, bold):
     col = it["color"]
-    has_icon = bool(it.get("icon")) and it["icon"] in DATA["icons"]
+    has_icon = icon_of(it.get("icon")) is not None
     tw = bold.width(it["label"], FS)
     cw = round(PADX + (ICON + 6 if has_icon else 0) + tw + PADX)
     body = [step_rect(0, 3, cw, CHIP_H - 3, 3, shade(col)), step_rect(0, 0, cw, CHIP_H - 3, 3, col)]

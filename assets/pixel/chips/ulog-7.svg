@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 34" width="52" height="34">
+<title>LLM</title>
+<style>@font-face{font-family:'GalmuriB';src:url(data:font/woff2;base64,d09GMgABAAAAAAMYAAwAAAAABygAAALLAAJm6QAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcIAZgADwKgjiCGgE2AiQDEAsKAAQgBYcOByAbLQYILgdsIsMrqyhdlNWFsjM1DPmc9KSUH/da9lg8/Df27b6Z+appDTxrooloVYtUjRDpnK7RExsJUbxD3qu53P8vov1ZWWC4FNje5DbJBcGod1VVNbqqrKsMEg3vvgKAgcjIU6t4zRPyy7YsBvsfIJyzz3M5vTHtDnD9hnKCN9tLYA3qqGnQO5CeF7U5TeSEK6EIJNuFiB22UZuT/JJM/usJNM2oKm3dzq6gSYElgdjhXJ4WFXI7fQZOv/fHM2fzpQlSq56ToiHgH3XosV1ASJnnt+CzkvtEQF4oDFhQRkLGWEVgrM5aoKoIyQLlxAJ23AIABdQxAM4DdwAooIcQpbSLerQ6E82j+k0zWqJVaUZXs7Tc1RJno+Wo72ZIzRA/Z+NnOC42o1VRTmgJHdFoVTvuJEOHUm/mJjJqyV4lfXwS7ie4p9rwC0IWtX9RVVMjsYb4rzmJYULeZu9O66MpAbB379lndVEYd5Hyj18OQCCd/1v6n6hz8/+mSnkOPz5+VwG/+z+UvWUv0AYEOzOWdp+dvUpIogTeI/6R3pD/AIFiq06QqGMDX1qUBq4ChjDDRtL1CNk694slioqbPlE1kwXU7MxRNKzOA1pW5nmxzdDxING1qWz09dQjBprS68WJT0+fs4XHVwhJOkMMDVANQlMmTFo0ep0+ZRZiCEEKyRUh3mLwQELy2cgG/Z3GCCQ1aB9ncyRC0qRJaIvHJlwguoSNC00ZM2PClGXnzjC7lnP4UfImaCgieVyIXoMnpgbiKYhJy84uc3AWCg5qSI5SPvOcMRPQjl03djGnzih2nbjqND9CHIkSQXw2FuIEKo+HIHETbdztxyaPHmSIxf4jS8aN76B9xeiT1MYg43hESC2RdVrQeNAmqaiYFPGEkSIZ/iVpyC2XDjHolI+40F7BMktyZveWlJdhd/Nq4G+MJ6QPbh/FChVrac4C) format('woff2');}</style>
+<path fill="#001C3C" d="M3,3 H49 V6 H52 V31 H49 V34 H3 V31 H0 V6 H3 Z"/>
+<path fill="#002856" d="M3,0 H49 V3 H52 V28 H49 V31 H3 V28 H0 V3 H3 Z"/>
+<text x="10" y="21" font-family="GalmuriB" font-size="16" fill="#FFFFFF" text-anchor="start">LLM</text>
+</svg>

@@ -130,7 +130,15 @@ ICONS = {
     "medal": ["oo....oo", "orr..bbo", ".orrbbo.", "..oyyo..", ".oyyyyo.", "oyyhyyyo", "oyyyyyyo", ".oyyyyo."],
     "bag": ["..oooo..", ".o....o.", "oooooooo", "onnnnnno", "onnyynno", "onnnnnno", "onnnnnno", "oooooooo"],
     "chat": ["oooooooo", "owwwwwwo", "owbwbwbo", "owwwwwwo", "oooowooo", "...owo..", "...oo...", "........"],
+    "case": ["..oooo..", "..o..o..", "oooooooo", "onnnnnno", "oooyyooo", "onnyynno", "onnnnnno", "oooooooo"],
+    "star": ["...oo...", "..oyyo..", "oooyyooo", "oyyyyyyo", ".oyyyyo.", ".oyyyyo.", "oyyooyyo", "ooo..ooo"],
+    "cap": ["...oo...", ".oobboo.", "obbbbbbo", ".oobboob", "..obbo.y", "..oooo.y", "......yy", "........"],
+    "scroll": [".oooooo.", ".owwwwoo", ".obbbwwo", ".owwwwwo", ".obbbbwo", ".owwwwwo", ".obbbbwo", ".oooooo."],
+    "trophy": ["oooooooo", "yoyyyyoy", "yoyyhyoy", ".oyyyyo.", "..oyyo..", "...oo...", "..oyyo..", ".oooooo."],
+    "flag": ["o.......", "orrrrr..", "orrhrrr.", "orrrrr..", "o.......", "o.......", "o.......", "oo......"],
+    "pencil": ["......oo", ".....oyo", "....oyo.", "...oyo..", "..oyo...", ".onno...", "ono.....", "oo......"],
 }
+CURSOR = ["oooooooo", ".oyyyyo.", "..oyyo..", "...oo..."]
 ICON_C = {"n": "#B5763C", "o": INK, "y": "#FFC83D", "r": "#E5484D", "b": BLUE, "h": "#FFF2B3", "w": "#FFFFFF"}
 
 
@@ -249,14 +257,27 @@ def hello():
     return svg(W, H, "\n".join(body), css, f"{l1} {l2} {l3}")
 
 
-def title_bar(slug, icon, label, sub=""):
+def text_width(s, size, file="Galmuri11-Bold.ttf"):
+    f = TTFont(FONT_DIR / file)
+    cmap, hmtx, upm = f.getBestCmap(), f["hmtx"], f["head"].unitsPerEm
+    return sum(hmtx[cmap[ord(c)]][0] if ord(c) in cmap else upm * 0.6 for c in s) * size / upm
+
+
+def title_bar(slug, icon, label, sub="", toggle=False):
+    """A section title window. toggle=True adds a blinking ▼ cursor: the bar opens a <details>."""
     W, H = 1200, 96
     body = [pixel_frame(4, 4, W - 8, H - 8, CREAM, p=6)]
     body.append(sprite(ICONS[icon], ICON_C, 5, 44, 28))
     body.append(text(108, 64, label, 33, NAVY, bold=True))
+    right = W - 48
+    if toggle:
+        cur = sprite(CURSOR, ICON_C, 5, right - 40, 38)
+        body.append(f'<g>{cur}<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></g>')
+        right -= 64
     if sub:
-        body.append(text(W - 48, 62, sub, 27, BLUE, bold=True, anchor="end"))
-    blink = f'<path d="M84 42 h0" />'
+        room = right - (108 + text_width(label, 33) + 48)
+        size = min(27, 27 * room / text_width(sub, 27))
+        body.append(text(right, 62, sub, round(size, 1), BLUE, bold=True, anchor="end"))
     css = fonts(bold_text=label + sub)
     (HERE / f"title-{slug}.svg").write_text(svg(W, H, "\n".join(body), css, f"{label} {sub}".strip()))
 
@@ -288,8 +309,15 @@ def main():
     (HERE / "hello.svg").write_text(hello())
     (HERE / "footer.svg").write_text(footer())
     title_bar("working-on", "bolt", "WHAT I'M WORKING ON")
-    title_bar("gym", "medal", "GYM CHALLENGE", "도장깨기")
-    title_bar("stack", "bag", "TECH STACK")
+    title_bar("gym", "medal", "GYM CHALLENGE", "도장깨기", toggle=True)
+    title_bar("stack", "bag", "TECH STACK", "13 DOMAINS", toggle=True)
+    title_bar("experience", "case", "EXPERIENCE", "SGR · GROVA · HCC LAB · EY · PERCH · QUANT LAB", toggle=True)
+    title_bar("work", "star", "FEATURED WORK", "AS-IS AGENT · CAPSTONE · KIROTHON · ULOG · dAIso · HARU", toggle=True)
+    title_bar("education", "cap", "EDUCATION", "HANYANG UNIVERSITY · B.S. CS", toggle=True)
+    title_bar("research", "scroll", "RESEARCH", "KDMS 2026 · APAF 2025", toggle=True)
+    title_bar("awards", "trophy", "AWARDS", "HYUNDAI NGV · AWS KIROTHON · FORIF · HYSPARK", toggle=True)
+    title_bar("activities", "flag", "ACTIVITIES & LEADERSHIP", "ASBG · PUBLIC AX · LG AIMERS · NEXON", toggle=True)
+    title_bar("blog", "pencil", "LATEST BLOG POSTS", "HPYQUOKKA.TISTORY.COM", toggle=True)
     title_bar("say-hi", "chat", "SAY HI")
     for f in sorted(HERE.glob("*.svg")):
         print(f.name, f.stat().st_size)
