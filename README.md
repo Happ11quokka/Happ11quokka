@@ -58,81 +58,40 @@
 
 <sub><i>Every gym I've walked into so far, numbered in the order I showed up.</i></sub>
 
-![Badges](https://img.shields.io/badge/Badges-12-002856?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/In_Progress-7-2F7BD6?style=for-the-badge)
-![Cleared](https://img.shields.io/badge/Cleared-3-1B3F6E?style=for-the-badge)
+![Badges](https://img.shields.io/badge/Badges-16-002856?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/In_Progress-8-2F7BD6?style=for-the-badge)
+![Cleared](https://img.shields.io/badge/Cleared-6-2DA44E?style=for-the-badge)
 ![Trophies](https://img.shields.io/badge/Trophies-2-C9971C?style=for-the-badge)
 
-<table>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/01-perch.svg" width="136" alt="Badge 01 — Perch" /></a><br/>
-      <b>Perch</b><br/>
-      <sub>Founder&nbsp;·&nbsp;App&nbsp;&amp;&nbsp;Smart&nbsp;Scale</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://github.com/Happ11quokka/StockNewsEstimator"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/02-quant.svg" width="136" alt="Badge 02 — Hanyang Quant Lab" /></a><br/>
-      <b>Hanyang&nbsp;Quant&nbsp;Lab</b><br/>
-      <sub>Research&nbsp;Intern&nbsp;·&nbsp;APAF&nbsp;2025</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://github.com/Happ11quokka/SWE-G04-SPACE"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/03-haru.svg" width="136" alt="Badge 03 — HARU × LG Electronics" /></a><br/>
-      <b>HARU&nbsp;×&nbsp;LG&nbsp;Electronics</b><br/>
-      <sub>IC-PBL&nbsp;·&nbsp;iOS&nbsp;/&nbsp;watchOS</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/04-daiso.svg" width="136" alt="Badge 04 — dAIso × Hyundai NGV" /></a><br/>
-      <b>dAIso&nbsp;×&nbsp;Hyundai&nbsp;NGV</b><br/>
-      <sub>HYPER&nbsp;AI&nbsp;·&nbsp;Grand&nbsp;Prize</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <a href="https://www.aiprofita.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/05-grova.svg" width="136" alt="Badge 05 — GROVA Technology" /></a><br/>
-      <b>GROVA&nbsp;Technology</b><br/>
-      <sub>AI&nbsp;Engineer&nbsp;·&nbsp;Profita</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://github.com/Happ11quokka/hackathon-store"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/06-kirothon.svg" width="136" alt="Badge 06 — AWS KIROTHON" /></a><br/>
-      <b>AWS&nbsp;KIROTHON</b><br/>
-      <sub>Kiro&nbsp;Hackathon&nbsp;·&nbsp;Excellence</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://github.com/Happ11quokka/kakao_impact"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/07-ulog.svg" width="136" alt="Badge 07 — Ulog × Kakao Impact" /></a><br/>
-      <b>Ulog&nbsp;×&nbsp;Kakao&nbsp;Impact</b><br/>
-      <sub>Backend&nbsp;&amp;&nbsp;AI&nbsp;·&nbsp;Tech&nbsp;for&nbsp;Impact</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://hcc.hanyang.ac.kr/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/08-hccl.svg" width="136" alt="Badge 08 — Hanyang HCC Lab" /></a><br/>
-      <b>Hanyang&nbsp;HCC&nbsp;Lab</b><br/>
-      <sub>Undergraduate&nbsp;Researcher</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/09-asbg.svg" width="136" alt="Badge 09 — ASBG @ HYU" /></a><br/>
-      <b>ASBG&nbsp;@&nbsp;HYU</b><br/>
-      <sub>AWS&nbsp;Builders&nbsp;·&nbsp;Core&nbsp;Team</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://www.samsungsgr.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/10-sgr.svg" width="136" alt="Badge 10 — Samsung Global Research" /></a><br/>
-      <b>Samsung&nbsp;Global&nbsp;Research</b><br/>
-      <sub>FDE&nbsp;&amp;&nbsp;AX&nbsp;Advisor</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://www.ey.com/ko_kr"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/11-ey.svg" width="136" alt="Badge 11 — Hanyang × EY Han Young" /></a><br/>
-      <b>Hanyang&nbsp;×&nbsp;EY&nbsp;Han&nbsp;Young</b><br/>
-      <sub>Undergraduate&nbsp;Researcher</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://www.mois.go.kr"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/12-mois.svg" width="136" alt="Badge 12 — Korea MOIS" /></a><br/>
-      <b>Korea&nbsp;MOIS</b><br/>
-      <sub>Youth&nbsp;Public&nbsp;AX&nbsp;Supporter</sub>
-    </td>
-  </tr>
-</table>
-
 </div>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/%ED%8D%BC%EC%B9%98%EC%BC%80%EC%96%B4/id6758549078?l=ko"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/01-perch.svg" width="180" alt="No.01 Perch — Founder · App &amp; Smart Scale" /></a>
+  <a href="https://github.com/Happ11quokka/StockNewsEstimator"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/02-hanyang-quant.svg" width="180" alt="No.02 Hanyang Quant Lab — Research Intern · APAF 2025" /></a>
+  <a href="https://kr-newsroom.nexon.com/press-center/3399289"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/03-nexon.svg" width="180" alt="No.03 Nexon HelloMate — Coding Mentor" /></a>
+  <a href="https://github.com/Happ11quokka/SWE-G04-SPACE"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/04-lg-haru.svg" width="180" alt="No.04 HARU × LG Electronics — IC-PBL · iOS / watchOS" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Happ11quokka/koplegame"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/05-kople.svg" width="180" alt="No.05 Kople Game — Real-time PWA Game" /></a>
+  <a href="https://github.com/Happ11quokka/hyu-ngv-manufacturing-ai-agent"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/06-hyundai-daiso.svg" width="180" alt="No.06 dAIso × Hyundai NGV — Manufacturing AI Agent" /></a>
+  <a href="https://www.aiprofita.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/07-profita.svg" width="180" alt="No.07 GROVA Technology — AI Engineer · Profita" /></a>
+  <a href="https://github.com/Happ11quokka/lg-aimers8-llm-compression"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/08-lg-aimers.svg" width="180" alt="No.08 LG Aimers 8th — LLM Compression" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Happ11quokka/hackathon-store"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/09-aws-kirothon.svg" width="180" alt="No.09 AWS KIROTHON — Kiro Hackathon" /></a>
+  <a href="https://github.com/Happ11quokka/agentic-rag"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/10-hyu-agentic-rag.svg" width="180" alt="No.10 Capstone · Agentic RAG — Speculative Retrieval" /></a>
+  <a href="https://github.com/Happ11quokka/kakao_impact"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/11-kakao-ulog.svg" width="180" alt="No.11 Ulog × Kakao Impact — Backend &amp; AI" /></a>
+  <a href="https://hcc.hanyang.ac.kr/"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/12-hcc.svg" width="180" alt="No.12 Hanyang HCC Lab — Undergraduate Researcher" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/99ddc943-1d93-48bc-8511-415eb236ccd4"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/13-asbg.svg" width="180" alt="No.13 ASBG @ HYU — AWS Builders · Core Team" /></a>
+  <a href="https://www.samsungsgr.com"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/14-sgr.svg" width="180" alt="No.14 Samsung Global Research — FDE &amp; AX Advisor" /></a>
+  <a href="https://www.ey.com/ko_kr"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/15-ey.svg" width="180" alt="No.15 Hanyang × EY Han Young — Undergraduate Researcher" /></a>
+  <a href="https://www.mois.go.kr"><img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/badges/cards/16-mois.svg" width="180" alt="No.16 Korea MOIS — Youth Public AX Supporter" /></a>
+</p>
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- TECH STACK                                              -->
