@@ -16,16 +16,6 @@
 
 ## Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next.
 
-**What I've Built & Explored**
-
-- 🐦 **Perch — my first app, and my first AI project.** Built and launched an AI-powered bird care app combining daily health tracking, image-based analysis, and an avian-care knowledge base. Now live on the App Store, Perch is undergoing a major redesign, while I'm expanding beyond software into hardware with an ESP32-based smart perch scale.
-
-- 🎓 **Capstone — exploring speculative retrieval for Agentic RAG.** Investigated whether a smaller draft LLM could predict and prefetch a larger model's search requests to reduce retrieval latency. Experiments with 10M vectors on Milvus DiskANN showed how GPU contention and disk I/O bottlenecks can offset the benefits of prefetching. Even without an end-to-end speedup, the research helped identify the practical limits of speculative retrieval.
-
-- 🤖 **Building AI agents across industries.** Developed AI agents for AdTech, manufacturing, robotics, finance, and public services — from generating advertising creatives and automating industrial inspections to controlling robotic arms, analyzing financial documents, and helping users navigate public services. My focus is on turning AI capabilities into systems that solve real problems.
-
-- 🏆 **Recognition along the way.** Grand Prize @ Hyundai NGV HYPER AI · Excellence @ AWS KIROTHON · 1st Place @ FORIF Ideathon · Gold Medal as a WorldQuant Consultant
-
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->
 <!-- ══════════════════════════════════════════════════════ -->
