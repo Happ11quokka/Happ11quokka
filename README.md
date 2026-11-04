@@ -4,12 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/header.svg" width="100%" alt="Hi, I'm Donghyun — AI Engineer · Software Engineer · Singularity Maker" />
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=100000&color=1C5FA8&center=true&vCenter=true&width=820&lines=When+prediction+becomes+free%2C+judgment+becomes+priceless)](https://git.io/typing-svg)
-
-</div>
-
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
