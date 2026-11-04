@@ -8,7 +8,7 @@
 <!-- INTRO                                                   -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/hello.svg" width="100%" alt="Hi, I'm Donghyun — an AI / Software Engineer building real-world AI systems and exploring what comes next." />
+<img src="https://raw.githubusercontent.com/Happ11quokka/Happ11quokka/main/assets/pixel/hello.svg?v=2" width="100%" alt="Hi, I'm Donghyun! People tell me I get a little too into my projects. I think they're right. I shipped a bird-care app, started building a smart perch that weighs birds, and built AI agents for everything from ad creation to industrial image labeling." />
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!-- NOW                                                     -->

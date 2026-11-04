@@ -243,18 +243,25 @@ def header():
 
 
 def hello():
-    W, H = 1200, 196
+    W = 1200
     l1 = "Hi, I'm DONGHYUN!"
-    l2 = "An AI / Software Engineer building real-world AI systems"
-    l3 = "and exploring what comes next."
+    lines = ["People tell me I get a little too into my projects. I think they're right.",
+             "I shipped a bird-care app, started building a smart perch that weighs birds,",
+             "and built AI agents for everything from ad creation to industrial image labeling."]
+    intro = " ".join(lines)
+    room = W - 52 - 96
+    size = min(25, min(25 * room / text_width(l, 25, "Galmuri11.ttf") for l in lines))
+    size, lead = round(size, 1), 38
+    H = 118 + lead * (len(lines) - 1) + 40
     body = [pixel_frame(4, 4, W - 8, H - 8, CREAM, p=6)]
     body.append(text(52, 72, l1, 33, BLUE, bold=True))
-    body.append(text(52, 118, l2, 27, INK))
-    body.append(text(52, 158, l3, 27, INK))
-    arrow = f'<path d="M1124 150 h24 v6 h-6 v6 h-6 v6 h-6 v-6 h-6 v-6 h0 z" fill="{INK}"/>'
+    for k, line in enumerate(lines):
+        body.append(text(52, 118 + lead * k, line, size, INK))
+    ay = H - 46
+    arrow = f'<path d="M1124 {ay} h24 v6 h-6 v6 h-6 v6 h-6 v-6 h-6 v-6 h0 z" fill="{INK}"/>'
     body.append(f'<g>{arrow}<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></g>')
-    css = fonts(regular_text=l2 + l3, bold_text=l1)
-    return svg(W, H, "\n".join(body), css, f"{l1} {l2} {l3}")
+    css = fonts(regular_text=intro, bold_text=l1)
+    return svg(W, H, "\n".join(body), css, f"{l1} {intro}")
 
 
 def text_width(s, size, file="Galmuri11-Bold.ttf"):
