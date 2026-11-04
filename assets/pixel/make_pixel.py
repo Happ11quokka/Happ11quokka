@@ -101,6 +101,28 @@ BIRD = [
     "...oggggo...",
     "....k..k....",
 ]
+LION_HALF = [
+    "....oooo",
+    "..ooMMmM",
+    ".oMMmmmm",
+    ".oMmmfff",
+    "oMmmffff",
+    "oMmffeff",
+    "oMmffeff",
+    "oMmfffww",
+    "oMmffwwn",
+    ".oMmfwww",
+    ".oMmmffo",
+    "..ooMmmm",
+    "...obbbb",
+    "..obbbbb",
+    "..obbbbl",
+    "..oobbo.",
+]
+LION = [h + h[::-1] for h in LION_HALF]
+LION_C = {"o": "#3B2414", "M": "#E07B2A", "m": "#B5531C", "f": "#F4C04E", "e": "#1B1B1B",
+          "w": "#FFE9B0", "n": "#3B2414", "b": "#E9B03F", "l": "#FFE9B0"}
+
 BIRD_C = {"o": "#1E3A1E", "y": "#FFE066", "e": "#1B1B1B", "k": "#F28C28", "g": "#5DC26A", "d": "#2E8B57"}
 
 ICONS = {
@@ -194,7 +216,7 @@ def header():
     W, H = 1200, 320
     title, sub = "HI, I'M DONGHYUN", "AI ENGINEER · SOFTWARE ENGINEER · SINGULARITY MAKER"
     body = [sky(W, 260, 260 / len(SKY))]
-    body.append(drift(cloud(40, 34) + cloud(980, 84, 5), 30, "14s"))
+    body.append(drift(cloud(40, 34) + cloud(1000, 60, 5), 30, "14s"))
     body.append(drift(cloud(1060, 24, 4), -24, "18s"))
     body.append(hills(W, 236, HILL_B, 40, [56, 72, 88, 72, 60, 48, 64, 80, 96, 80, 64, 52], 0))
     body.append(hills(W, 252, HILL_F, 32, [24, 32, 40, 32, 24, 20, 28, 36, 28, 22], 3))
@@ -206,7 +228,8 @@ def header():
     body.append(pixel_frame(256, 160, 84, 50, "#FFFFFF", p=4))
     body.append(f'<rect x="252" y="196" width="8" height="12" fill="{INK}"/><rect x="256" y="200" width="4" height="4" fill="#FFFFFF"/>')
     body.append(text(298, 194, "HI!", 22, INK, bold=True, anchor="middle"))
-    body.append(bob(sprite(BIRD, BIRD_C, 6, 984, 252 - 12 * 6), dy=-6, dur="1.1s"))
+    body.append(bob(sprite(LION, LION_C, 6, 950, 252 - 16 * 6), dy=-3, dur="1.4s"))
+    body.append(bob(sprite(BIRD, BIRD_C, 5, 968, 252 - 16 * 6 - 12 * 5 + 10), dy=-8, dur="0.9s"))
     css = fonts(regular_text=sub, bold_text=title + "HI!")
     return svg(W, H, "\n".join(body), css, "Hi, I'm Donghyun — AI Engineer · Software Engineer · Singularity Maker")
 
@@ -239,21 +262,23 @@ def title_bar(slug, icon, label, sub=""):
 
 
 def footer():
-    W, H = 1200, 200
+    W, H = 1200, 220
     body = [f'<rect width="{W}" height="{H}" fill="{NAVY}"/>']
     stars = [(60, 30), (180, 70), (300, 24), (430, 60), (560, 34), (700, 76), (820, 28), (950, 58), (1080, 36), (1150, 80), (250, 110), (900, 110)]
     for i, (x, y) in enumerate(stars):
         body.append(f'<rect x="{x}" y="{y}" width="4" height="4" fill="#FFF2B3"><animate attributeName="opacity" values="1;0.2;1" dur="{1.6 + (i % 4) * 0.5}s" repeatCount="indefinite"/></rect>')
     body.append(sprite(["..mmm.", ".mmm..", "mmm...", "mmm...", ".mmm..", "..mmm."], {"m": "#FFF2B3"}, 6, 1040, 20))
-    body.append(hills(W, 150, "#123B6B", 40, [24, 36, 48, 36, 28, 20, 32, 44, 52, 40, 30, 22], 2))
-    body.append(ground(W, 150, 50))
+    body.append(hills(W, 170, "#123B6B", 40, [24, 36, 48, 36, 28, 20, 32, 44, 52, 40, 30, 22], 2))
+    body.append(ground(W, 170, 50))
     line = "THANKS FOR STOPPING BY!"
     sub = "SEE YOU AT THE NEXT GYM  ·  MADE IN SEOUL"
     body.append(text(600, 74, line, 33, "#FFFFFF", bold=True, anchor="middle", shadow="#000F24"))
     body.append(text(600, 108, sub, 16.5, "#9CCDF4", anchor="middle"))
-    walker = sprite(QUOKKA, QUOKKA_C, 4, 0, 150 - 16 * 4)
-    body.append(f'<g>{bob(walker, dy=-4, dur="0.5s")}<animateTransform attributeName="transform" type="translate" '
-                f'values="-80 0;1220 0" dur="16s" repeatCount="indefinite"/></g>')
+    parade = (bob(sprite(BIRD, BIRD_C, 4, 0, 170 - 12 * 4), dy=-8, dur="0.4s")
+              + bob(sprite(QUOKKA, QUOKKA_C, 4, 64, 170 - 16 * 4), dy=-4, dur="0.5s")
+              + bob(sprite(LION, LION_C, 4, 148, 170 - 16 * 4), dy=-4, dur="0.6s"))
+    body.append(f'<g>{parade}<animateTransform attributeName="transform" type="translate" '
+                f'values="-240 0;1220 0" dur="18s" repeatCount="indefinite"/></g>')
     css = fonts(regular_text=sub, bold_text=line)
     return svg(W, H, "\n".join(body), css, "Thanks for stopping by!")
 
