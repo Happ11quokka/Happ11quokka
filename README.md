@@ -52,7 +52,7 @@
 <!-- GYM CHALLENGE                                           -->
 <!-- ══════════════════════════════════════════════════════ -->
 
-## 🏅 Gym Challenge
+## 🏅 Gym Challenge (도장깨기)
 
 <div align="center">
 
